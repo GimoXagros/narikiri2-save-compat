@@ -1,0 +1,15 @@
+{
+  "version": "0.5",
+  "python": "3.12.13",
+  "korean_sha256": "f94cb5a128c8a98e6e18e6a0598ebf9b266f54da0750367af8defac3eb2df7d4",
+  "japanese_sha256": "a92c0f6dbb5c013b47b7178e23d81663e3952a10df7b1f68967ebf7bb3b98eb7",
+  "output_sha256": "9c7a8ae87c303a16c71bd164e7409a5aaabf01bd3246fa9e700931eed6179d4f",
+  "output_size": 12582912,
+  "changed_bytes": 79,
+  "all_other_bytes_identical": true,
+  "two_local_builds_identical": true,
+  "byte_identical_to_runtime_verified_baseline": true,
+  "inputs_unchanged": true,
+  "new_runtime_test": false,
+  "runtime_basis": "Existing v0.5 evidence transferred only through full byte identity"
+}
