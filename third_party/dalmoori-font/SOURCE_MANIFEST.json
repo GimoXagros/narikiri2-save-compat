@@ -1,0 +1,14 @@
+{
+  "name": "Dalmoori Font",
+  "source_repository": "https://github.com/RanolP/dalmoori-font",
+  "source_commit": "897f0e71224d9964a84b888f2596b2bfd7f98def",
+  "font_version": "0.200",
+  "license": "Apache-2.0",
+  "license_sha256": "0db4caa0e4abe1b78425207c1687f49debc63541e1bce17e6ad10c9e8b937a9b",
+  "generator": {
+    "package_manager": "pnpm 7.33.7",
+    "command": "pnpm run build:debug",
+    "output": "generator/build/ascii-font/<page>/<codepoint>.txt"
+  },
+  "note": "The upstream checkout is not vendored. The license and source manifest are tracked; native glyphs are generated locally."
+}

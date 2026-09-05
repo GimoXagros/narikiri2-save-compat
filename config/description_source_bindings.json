@@ -1,0 +1,42 @@
+{
+  "28": {
+    "pointer": "08801699",
+    "sha256": "4469cebfec2457cfab2765764a41d595cf6d2558695b61fc3ba7b78963372c64"
+  },
+  "41": {
+    "pointer": "08801435",
+    "sha256": "2992a4a69e0f97f2b91a86c394f0ee1fbf7c6dcee7a9bd50896cd14ed73feba0"
+  },
+  "52": {
+    "pointer": "08801273",
+    "sha256": "276ce582601194b9666927eb0a48965e634e3d78498803a351cf75768b008e8a"
+  },
+  "63": {
+    "pointer": "08801068",
+    "sha256": "27b8d6b47d754ecb8c3b57cb0b30c58fa2e1c80c5667d7915e11a12022d81191"
+  },
+  "65": {
+    "pointer": "08801025",
+    "sha256": "a9fa56968000aac2442791aa223f4bd828775952be7d92bce1bf58db6391b7eb"
+  },
+  "73": {
+    "pointer": "08800ECC",
+    "sha256": "67df5f53096c1d07b5b467a11323819c22d063078290ce5e985d6e64be38dc23"
+  },
+  "85": {
+    "pointer": "08800CB8",
+    "sha256": "4c36879bb61cef615f85c295a6b47a2fc52402ff1fdc8ab0138cceb491dbacb1"
+  },
+  "126": {
+    "pointer": "0880055F",
+    "sha256": "f17088d81a47daa7eaaeba0151b7a3ab45538d1edf4b7bb7c8056c457642c81f"
+  },
+  "132": {
+    "pointer": "08800470",
+    "sha256": "58642319e02009f66e147e5e7f80463f30fd075c77371d4293ff05d5bcf51b8f"
+  },
+  "136": {
+    "pointer": "088003C6",
+    "sha256": "a76155f36eb15563adc7c0ce510da025dbf50529a769953cc0d09492bf278039"
+  }
+}

@@ -1,0 +1,2424 @@
+[
+  {
+    "storage": "0000D528",
+    "source_pointer": "08804E19",
+    "source_sha256": "69f95224f1c310959c6adf5d7015364666c30d3db0a7dd751356acdd928b2a6b",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D530",
+    "source_pointer": "08804E9F",
+    "source_sha256": "d46ec9318e062f0877a0adad2a8d6ce408a3088a0c212ed1f2b359870af683e6",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D538",
+    "source_pointer": "08804F05",
+    "source_sha256": "2b190573fb78ad2e86a013ae90550888693583b882a4c509e4e61ffd964bec8b",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D544",
+    "source_pointer": "08804F6F",
+    "source_sha256": "37b0a708bf200a64d0071ea6c0519af5d12737351c7ba6b52fb82c7e167799e8",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D54C",
+    "source_pointer": "08804FE2",
+    "source_sha256": "ae746cb0e98f78c2d5c4e100adfa4ea7eaef95011b10cc051f8295e644a5ed02",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D5BC",
+    "source_pointer": "08805034",
+    "source_sha256": "02db5b330359b9a216d096fb24a6d4969035fde2dba0302358f45681382ab68f",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D5C8",
+    "source_pointer": "088050E5",
+    "source_sha256": "1f945e212cce06b6e89f6a705fcfaa36dd02064ef98730911cf1a62fde402ed3",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D6F8",
+    "source_pointer": "088052D8",
+    "source_sha256": "0ad7fe9f9c21a440abcd93cc29f20b64e0be1f6182ae72d575bafc9760acdba2",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D860",
+    "source_pointer": "08805690",
+    "source_sha256": "bf6b3c6306a07d36919e4c378bdfeb591d42445a1da4bb190f26d769db74378f",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000D960",
+    "source_pointer": "088058B3",
+    "source_sha256": "17ef28a20952ec3524e83d886e912017c17fc06d1997317a41d6607a16e66483",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000DADC",
+    "source_pointer": "08805A68",
+    "source_sha256": "0b1d32960da70d8a9ebb36f84e77a672c5df895bb3940fdd41265f3df02a7e44",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000DAEC",
+    "source_pointer": "08805B25",
+    "source_sha256": "b5dbf38e17fc32b7a24fbb569706d02bb29b2d14e46b22bb974f70e49f71e2e2",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000DAF4",
+    "source_pointer": "08805B7F",
+    "source_sha256": "d9deacfa057229de0e29c843eff03f0b53525775bc7fd7b5a0bfcdce8dfe305e",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000DAF8",
+    "source_pointer": "08805BC0",
+    "source_sha256": "c20a2ad3a68e6071f380df137647918e19403aa75b574f9c4aaa0cfc23d959e4",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      },
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0000DAFC",
+    "source_pointer": "08805BED",
+    "source_sha256": "24841c00dc737594f30a4f65da3224601cac781682d303a5c09ae20d9371cd40",
+    "changes": [
+      {
+        "before": "프리오",
+        "after": "훌리오",
+        "japanese_entity": "フリオ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009106C",
+    "source_pointer": "08816C02",
+    "source_sha256": "9fbbdf9e8cbdf1d63efa810b8b610f9081ad29f8fbefe2e1360a83bea389df56",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD1C",
+    "source_pointer": "08841954",
+    "source_sha256": "65e746c4f43a4eb3b22a062daa148c6904d48d30a163054d5494d389c9bad018",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD2C",
+    "source_pointer": "088419E7",
+    "source_sha256": "10c2dcf5f1f1014a0c14f350811c580f9e4c6e412c74ff9c848c055ad4baac59",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD30",
+    "source_pointer": "088419FE",
+    "source_sha256": "be3ef56db1b8f1b563a6f29787321c7fa3c22731d1f2d38dfce986eafc8aaeb5",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD34",
+    "source_pointer": "08841A0F",
+    "source_sha256": "7a8a463865a8e497264ffa522396584538afa65774b955bee7fe393b318ba3a9",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD38",
+    "source_pointer": "08841A38",
+    "source_sha256": "187b33a2f92ae3671d86beabdb3780a85210d7fa0a0b8c7d20e65eebaf6266ad",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD40",
+    "source_pointer": "08841A7F",
+    "source_sha256": "1afc5767261d3dc452c51b1936d4e11dddead0032d895004de1e8ad01d1dd204",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD6C",
+    "source_pointer": "08841C5A",
+    "source_sha256": "ced4d75067d22b9702eec9795d2a366d8df63d3ff9209b991cc792a17398977d",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CD80",
+    "source_pointer": "08841D1F",
+    "source_sha256": "145c959c75de35ba093874df2c9b19074e810fea0c68a8d9f3738cf89ea8765f",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CF08",
+    "source_pointer": "08841D5C",
+    "source_sha256": "b22ddde63b6b9556b0a36ec343807ab9dd88d5b4973839ad20506089a6084f31",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CF18",
+    "source_pointer": "08841E33",
+    "source_sha256": "9d367a53c549714aae70137dc3391490353eeba47c1edcd7cd29b4192a9d49d8",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CF20",
+    "source_pointer": "08841E72",
+    "source_sha256": "d8d5edbeaae0893a85f364a308221ab197d7291e07c20929e23f814017060ed1",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009CFEC",
+    "source_pointer": "08841F3B",
+    "source_sha256": "a4b19ca9cd5c2321ff52338a4fa6568250345cc1d7117ab222f82ea97d83d9b2",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0009D090",
+    "source_pointer": "08841FD4",
+    "source_sha256": "ed56fd7f3a28d96d45e4995d6d172eb5d06aadbd650da0b6cf5a963ffb359abe",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B3428",
+    "source_pointer": "08800AFA",
+    "source_sha256": "2ec6af78b06af999d26d25b98c183664471bbb6b07f316ac19decc921f178d89",
+    "changes": [
+      {
+        "before": "크라스",
+        "after": "클라스",
+        "japanese_entity": "クラース",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B3680",
+    "source_pointer": "08800597",
+    "source_sha256": "0cd78d9b79a327f3774cd6451cd64bac86694bbdb1dddf47a982ce6c16bb2ad2",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B3748",
+    "source_pointer": "088003EC",
+    "source_sha256": "ef1040e7c91c77fc63916e034b73dbff0316e1431fd8e07963696daa1450c2f0",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B3810",
+    "source_pointer": "08800208",
+    "source_sha256": "4be40227e2068d96f0d7d49f7912a90e8aa6ff79f6ae72f9fbf87229200a8751",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B3824",
+    "source_pointer": "088001C4",
+    "source_sha256": "8ecae7f7b4492ad90198c3df801a95c661c7e1fc60f6efdecb1b43674154ec0f",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002B384C",
+    "source_pointer": "08800152",
+    "source_sha256": "c94e5b8bd70569fa6b61dd58ba56456d7615a76d3aa29771c1f26e8752b650d5",
+    "changes": [
+      {
+        "before": "조니",
+        "after": "죠니",
+        "japanese_entity": "ジョニー",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5338",
+    "source_pointer": "08807731",
+    "source_sha256": "bf8f67febce9fa2a39d02fe65042d8a3377c704b01393b1d4eb0f3c520e1edeb",
+    "changes": [
+      {
+        "before": "크레스＝알베인",
+        "after": "크레스　알베인",
+        "japanese_entity": "クレス=アルベイン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5360",
+    "source_pointer": "088076AB",
+    "source_sha256": "ccb7cc0adf7820a8a1886426d62e8795fd3f1d979b127a1b929acc22fb4dbfba",
+    "changes": [
+      {
+        "before": "체스터＝백라이트",
+        "after": "체스터　버클라이트",
+        "japanese_entity": "チェスター=バークライト",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5388",
+    "source_pointer": "08807664",
+    "source_sha256": "fb2f9f2444697e48bd513eedbbb2eb33ba022d01745b572e5a3e8be8a15d0023",
+    "changes": [
+      {
+        "before": "민트＝어드네드",
+        "after": "민트　아드네이드",
+        "japanese_entity": "ミント=アドネード",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C53B0",
+    "source_pointer": "08807605",
+    "source_sha256": "f0adc096149ff70e02d25501ee86426f099f44d8f57116472c3993477c124329",
+    "changes": [
+      {
+        "before": "클라스＝레스터",
+        "after": "클라스　Ｆ．　레스터",
+        "japanese_entity": "クラース=F=レスター",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C53D8",
+    "source_pointer": "088075AA",
+    "source_sha256": "960b942c8aaec4d2536df8730429fa6b096acb762064892e1eede3f66fb25908",
+    "changes": [
+      {
+        "before": "아체＝크라임",
+        "after": "아체　클라인",
+        "japanese_entity": "アーチェ=クライン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5400",
+    "source_pointer": "0880754D",
+    "source_sha256": "075bc53ac3a29909e6a482bd6c1591a3d26929fedd23ea043b331628872ae3d8",
+    "changes": [
+      {
+        "before": "후지바야시＝스즈",
+        "after": "후지바야시　스즈",
+        "japanese_entity": "ふじばやし=すず",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5428",
+    "source_pointer": "088074F2",
+    "source_sha256": "39137d8315c67ee1921ef0b3b880165fa25a6a209808aa4cc2a9d2caea244c8c",
+    "changes": [
+      {
+        "before": "스턴＝엘론",
+        "after": "스탄　엘론",
+        "japanese_entity": "スタン=エルロン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5450",
+    "source_pointer": "08807472",
+    "source_sha256": "72a8db29d0bd9fe149b312f7210b5c4e19c2a3ab2492b72fdfd3908690b33c36",
+    "changes": [
+      {
+        "before": "루티＝카트렛",
+        "after": "루티　카틀릿",
+        "japanese_entity": "ルーティ=カトレット",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5478",
+    "source_pointer": "08807415",
+    "source_sha256": "53af1729f86a4c129cceb97d21b4dd82ae28e24344ac62af40630cf9642e47fc",
+    "changes": [
+      {
+        "before": "리온＝마그너스",
+        "after": "리온　매그너스",
+        "japanese_entity": "リオン=マグナス",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C54A0",
+    "source_pointer": "088073C4",
+    "source_sha256": "a848894777cf55dd218ba6ca7c7389addd3b150b23259ac4a94ac9c0c9fa0dde",
+    "changes": [
+      {
+        "before": "피리아＝히리스",
+        "after": "필리아　필리스",
+        "japanese_entity": "フィリア=フィリス",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C54C8",
+    "source_pointer": "08807375",
+    "source_sha256": "b65345cc439ba1d7928ec8b02b08aecd0ad39628fa299bba048e5c6b89f26029",
+    "changes": [
+      {
+        "before": "우드로우＝켈빈",
+        "after": "우드로우　켈빈",
+        "japanese_entity": "ウッドロウ=ケルヴィン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C54F0",
+    "source_pointer": "08807320",
+    "source_sha256": "50f78dc36c7195f08681ccc3433576b501b895cad843fee21ff28b3b4f0f61e8",
+    "changes": [
+      {
+        "before": "첼시＝톤",
+        "after": "첼시　톤",
+        "japanese_entity": "チェルシー=トーン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5518",
+    "source_pointer": "088072D1",
+    "source_sha256": "da4bf92ee7fcd164f39d45faffe61f00dd86da17093da7ab3caad12ecb43376d",
+    "changes": [
+      {
+        "before": "마리＝에젠트",
+        "after": "마리　에이젠트",
+        "japanese_entity": "マリー=エージェント",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5540",
+    "source_pointer": "08807276",
+    "source_sha256": "55984d842249418518567b5d21a5cd0cea138e7a776d13fc1b804209288261cf",
+    "changes": [
+      {
+        "before": "마이티＝콘그만",
+        "after": "마이티　콩맨",
+        "japanese_entity": "マイティ=コングマン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5568",
+    "source_pointer": "08807225",
+    "source_sha256": "8beeea82fe68621c712957af04def7929aa6454e48c895348b550d8b06cf2efc",
+    "changes": [
+      {
+        "before": "죠니＝시덴",
+        "after": "죠니　시덴",
+        "japanese_entity": "ジョニー=シデン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5590",
+    "source_pointer": "088071CC",
+    "source_sha256": "af7bc3d65b16f0c7f0d753e7634f0090bd53d2cde33e1152ceb9cc8c598be5e1",
+    "changes": [
+      {
+        "before": "릿드＝하셀",
+        "after": "리드　허셸",
+        "japanese_entity": "リッド=ハーシェル",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C5598",
+    "source_pointer": "08807188",
+    "source_sha256": "db60f3e0ff0cb08dc887c582b1c3aacdd2c415ec566e5a3e9cbbb15fbdecce7f",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C55B8",
+    "source_pointer": "0880714C",
+    "source_sha256": "4d0345273e485ec7630906066c3e4d1a5ae6ec11a3245a5ad3d58c953e0b1f19",
+    "changes": [
+      {
+        "before": "화라＝엘스텟드",
+        "after": "파라　엘스테드",
+        "japanese_entity": "ファラ=エルステッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C55BC",
+    "source_pointer": "08807129",
+    "source_sha256": "c3c8dcbec15e3096656a0fddb9628d45d41640303ae3ab99c832f1fa445277cd",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C55E0",
+    "source_pointer": "088070F1",
+    "source_sha256": "71c510f526977a0bf799f0deb7f8f6cb5b69a39d39860bcb26e7184b17dd9667",
+    "changes": [
+      {
+        "before": "킬＝사인벨",
+        "after": "킬　차이벨",
+        "japanese_entity": "キール=ツァイベル",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C55E8",
+    "source_pointer": "088070B5",
+    "source_sha256": "8d68f40673a895521b83da07720601ad689916d97908642fe86acd36d0198c7f",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      },
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "002C560C",
+    "source_pointer": "0880706B",
+    "source_sha256": "69991a5de3ca91e7fb11ab263a12c818d92c7da3f5434a8daf39cb971af4a65a",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00313A80",
+    "source_pointer": "08817325",
+    "source_sha256": "20245a2d99d279040d62a9f3e019f79621e44188e5f22e2f525cd26d7b8de92a",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00313B48",
+    "source_pointer": "088171F1",
+    "source_sha256": "468b0bc44e5b845fa93791b082387e5958dbb1a5e4375e652aa20ee2e13d63c8",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0031F828",
+    "source_pointer": "0881ECF4",
+    "source_sha256": "9b1108d9b250570aa95386e795271abea43fde1e4ff48418fe314452c7ca15e5",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00320250",
+    "source_pointer": "0881F36D",
+    "source_sha256": "b45211ab3575d3334e03149812f56405c7b1b2851391956e71809ac0b025d2e6",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003203B0",
+    "source_pointer": "0881F1ED",
+    "source_sha256": "ab1b2b16632eff7a422354e043b0e9fc2f3e99c12875364d91550d0638959508",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003203C8",
+    "source_pointer": "0881F1CA",
+    "source_sha256": "5c9a27326ffd20627862efcb2b81f57948699c562cb9e318aa5952035b96290a",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003216F0",
+    "source_pointer": "0881FEB2",
+    "source_sha256": "9cf083e57a11a78ab6a75265a33eca09978b89d7d7d1e60865856a4e6961f32a",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00326864",
+    "source_pointer": "08822CB1",
+    "source_sha256": "4378b2b86d6f4a87256e7d985c89f3969faaf3f802270a52fdd8b7b419abf66e",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00326E08",
+    "source_pointer": "0882325F",
+    "source_sha256": "38208485e29e819de9e89c552d1d9648930a929e14efd72cdfa9e915ec1217d8",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00326E18",
+    "source_pointer": "08823245",
+    "source_sha256": "19262f2f45c18ce7ffcd4c1a002ed86bf35f129c81ba64241a52f5392c0a915c",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00326E20",
+    "source_pointer": "088231FE",
+    "source_sha256": "f392a523d7a78c707ae1a3e9fd66ab2e6086685b1d1b26e02bf6eb5c3ddee08b",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00327640",
+    "source_pointer": "08823624",
+    "source_sha256": "8158ff28d7bef55358bd3bdb3429416a47c40e1605948445c8e54100b0c32796",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003276B0",
+    "source_pointer": "08823487",
+    "source_sha256": "725cc8668f07cee46232ad0ad773fe3dcfc493729896b12c6e9995d68573891a",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032924C",
+    "source_pointer": "0882469D",
+    "source_sha256": "06ce04c024e75220db777f9b88e46b191d4d1c344b105b002ce6afc6d7bcc9a0",
+    "changes": [
+      {
+        "before": "피리아",
+        "after": "필리아",
+        "japanese_entity": "フィリア",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032A95C",
+    "source_pointer": "088252A6",
+    "source_sha256": "af228fddff2e02d4b1b3f0cb01db51a789cde08e99abd665d357dc02be77b584",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032A974",
+    "source_pointer": "08825277",
+    "source_sha256": "f9e9b80a8406dadbefa33e63d005a934f303a9ce32bc502c60cef8a93c66eb3f",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032A9C4",
+    "source_pointer": "088251D0",
+    "source_sha256": "494d4e0661590f28db6b58964574a283e3c5f732dfe457e7ecc9c249a1071d20",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032A9DC",
+    "source_pointer": "08825193",
+    "source_sha256": "c20dd9e0d5d81fb1655a03f461d7a2efef962152ef1d79bbede8843ac424e3de",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032FA54",
+    "source_pointer": "088281C5",
+    "source_sha256": "df22b449fc28da6d6db97c67b575f5e2482bf5db1cbeac11cb92375e75e6ffc4",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032FA8C",
+    "source_pointer": "08828107",
+    "source_sha256": "7d71fb0d252fe43d316b305cda947c7664d256a86542adc5bc7172e583e89b31",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0032FFD8",
+    "source_pointer": "0882857C",
+    "source_sha256": "409e18fdbe27a5c2a0e21345d29eb5b482bcf8f3dacbf577c767e669c8147c4c",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003300A0",
+    "source_pointer": "08828403",
+    "source_sha256": "6a68e3e9fd8d87fdf81a1d5b83cf24f92ed11170890afeba279b2db901051efa",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003304D0",
+    "source_pointer": "08828609",
+    "source_sha256": "8b5df14e03d275effc6e126b5e682587e80977625bdc80c1f83cc00f96987cea",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330568",
+    "source_pointer": "088285D8",
+    "source_sha256": "8d90487fc996d6d34a0461f8683799c11561f1faa81432afa2f4479b522a8c54",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330580",
+    "source_pointer": "088285A2",
+    "source_sha256": "5b2d24fd0a257a62223c5efda846346287b7a12db167359dc4bf012376d1944e",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330BB4",
+    "source_pointer": "08828B19",
+    "source_sha256": "3c6c6282be5f57bc69375723dd18e2b19a6a2031ead6f7e387fe40979341e9e2",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330C14",
+    "source_pointer": "08828A46",
+    "source_sha256": "093179de20606cf3685fac4b929058eb2073d9fed25abaccfe5842dce9e0b23d",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330C34",
+    "source_pointer": "08828A19",
+    "source_sha256": "f9b808338be370991265a386bdca8c8d72c662a8f391a05580ff4cf3e97129a2",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330C7C",
+    "source_pointer": "088289DF",
+    "source_sha256": "a98154bef26853b824630f64894c43b3f5845b82f36bbb97fc2b3a8bfb71c969",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330C84",
+    "source_pointer": "088289D3",
+    "source_sha256": "a4dc7467523a3706f9ad24dc2ab2552078afbddf509bcdac09edb6b9cbbd30fb",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00330CC4",
+    "source_pointer": "08828974",
+    "source_sha256": "3d390d499330688c67912e792c06a48a1adbfce1454021a797cc3c51703ff29f",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003311FC",
+    "source_pointer": "08828E3B",
+    "source_sha256": "e03eda76a366b7749a41579c1de57c4168137994ca6daf5df14625d4821ce928",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00331590",
+    "source_pointer": "08828FDC",
+    "source_sha256": "0e4aaefb9abd27e6f386eb44ea29eb7292bc0d52e9ea878b8407353fe82b7f6d",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003315A8",
+    "source_pointer": "08828F90",
+    "source_sha256": "c779ebee67e74b0400e14c8ad6c184def8116b292e63ea607aa912d7d934f97e",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003315C8",
+    "source_pointer": "08828F4F",
+    "source_sha256": "69fd68f0f31902c5542f1499007cecb4843a9a85aaf7a902dfc19ed9f89ed9c2",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00331C54",
+    "source_pointer": "0882931D",
+    "source_sha256": "86563cff132ff6fde7bb9d3337a94c2defcf92ca1cb73bd5bbb81b59085319be",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00331FA0",
+    "source_pointer": "0882955A",
+    "source_sha256": "78e62ad1243baaf747f186311a01e8770f27657051e783afaa13b3a19d582270",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00331FE8",
+    "source_pointer": "0882948B",
+    "source_sha256": "5be6dfca039e0842cb9a928c9f962ba586c9ce19694bc81ff5cd09bcc95c63ec",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00332008",
+    "source_pointer": "088293EC",
+    "source_sha256": "4cd34e3d97a991771921889023378ef5421e9ad986c2c4c15a87b30613ec48a9",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00332030",
+    "source_pointer": "08829391",
+    "source_sha256": "589c8da60a5067f16e3e97086b755a00a2a9235b55ff9cd96a3f17754bbafe03",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033236C",
+    "source_pointer": "08829723",
+    "source_sha256": "759753bf0159bcf37954ccda01b2d5e3e0ebd54009a221b783d76d338499af88",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003323B4",
+    "source_pointer": "08829676",
+    "source_sha256": "75ad333bfa41df79198b6f5dc869ae0e2388358eda2377d754465cb52b1d5804",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "storage": "00333270",
+    "source_pointer": "08829F86",
+    "source_sha256": "8761c6c094378a38e1f2dedc497659392ba807ecaed0d7da7b4c1ee49839caec",
+    "changes": [
+      {
+        "before": "챠트",
+        "after": "채트",
+        "japanese_entity": "チャット",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333634",
+    "source_pointer": "0882A201",
+    "source_sha256": "ea1f1f20be489c41282c2a33fa10c23f404f0bbbb8f70cea5528209bf7b5513e",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033364C",
+    "source_pointer": "0882A1D7",
+    "source_sha256": "278faa4ee88f8c502f85f328d950cefb0ac5fed6bc6811fac6d1ee413da592a2",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003338E4",
+    "source_pointer": "0882A372",
+    "source_sha256": "1b01c006f092dd0a67dd5843475db7bae029dd653f9384d84988f0a54940bf51",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333934",
+    "source_pointer": "0882A2F4",
+    "source_sha256": "0a8630ec4bb1d09fa48a37d93868de7b45cffc5ca370125ea0e2601076d4c984",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333944",
+    "source_pointer": "0882A2D6",
+    "source_sha256": "deb000a9c055a3b7a0c6dabc47b48ce8c895e98c07f28156e31972ec38625d59",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333C24",
+    "source_pointer": "0882A484",
+    "source_sha256": "68b244eef451a909a8d8bff56685e4caf40a57ddaf5f16d6756ffd6877249338",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333C9C",
+    "source_pointer": "0882A3F5",
+    "source_sha256": "5b307568d0856bccb2b97babb62b9ed43096b0437a3288eadf2dcfec618a817e",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333ED8",
+    "source_pointer": "0882A6DE",
+    "source_sha256": "52a0c88a2e96d2d5b6474041af7e84e821b5f764aa33ab9add60b87058bcca13",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333F10",
+    "source_pointer": "0882A66C",
+    "source_sha256": "077454cad6a510033ff451aab5698ca792bd29f8f45d4660f5eb5528869b6e9d",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333F28",
+    "source_pointer": "0882A642",
+    "source_sha256": "232c99022a4f36bf17007df5a8ab3cb9e34e622f26c71c1d86715a62846a1982",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333F90",
+    "source_pointer": "0882A574",
+    "source_sha256": "4b7545da7ba103730cfd9dcc9f118c143bc18903ff7a38a8425503aaab487135",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00333FB0",
+    "source_pointer": "0882A529",
+    "source_sha256": "0b82c41dd760998da038ef760d5079b18a001b3efd672b9e7089fd3ff2ef70e9",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336564",
+    "source_pointer": "0882BBBF",
+    "source_sha256": "f450945a53bbfa6e8e3956e5708222f01189e858cc39d6074c5aa6b4018ea9a2",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003365F4",
+    "source_pointer": "0882BB07",
+    "source_sha256": "8a1fb8b99417ca9adab012da817cfc05d98697bb2db7ce2164d3ba4bb2f0ce92",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033661C",
+    "source_pointer": "0882BA7A",
+    "source_sha256": "e1f73a9cdd9e790da3ea38f66be464c1474035917e3e1b5e166812b91d568fd3",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336B48",
+    "source_pointer": "0882C08D",
+    "source_sha256": "a0237bf6f41c68d2e0f69467f51ef4d6e8fdf5162b66e501bde54988817180d9",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336B50",
+    "source_pointer": "0882C059",
+    "source_sha256": "d42f6848095428ca18f526e09eba0c985be237719485a26b80b48f5ee817200b",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336B68",
+    "source_pointer": "0882C023",
+    "source_sha256": "758fa8563398598159f27c81b7a8bfaead7ae9869f3fa9be75a380e5ff82cf1a",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336B80",
+    "source_pointer": "0882BF84",
+    "source_sha256": "d74486b47b993d4d6a8b8cb0b335b271ce4839f7ca77ad63f955696fd1f2c8ea",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00336BE8",
+    "source_pointer": "0882BDCD",
+    "source_sha256": "61767eeca604a96c0405a69de08b40702c4ef50c95b1a93575d9ed93f5a99346",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033797C",
+    "source_pointer": "0882C842",
+    "source_sha256": "96b2b0c80ff212d243e0aed0a9cbd1d6f54ec138f46874fbba97422b1c3b84ed",
+    "changes": [
+      {
+        "before": "크라스",
+        "after": "클라스",
+        "japanese_entity": "クラース",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003379E4",
+    "source_pointer": "0882C6ED",
+    "source_sha256": "13bb9ff644cddcbc15546d17314cfc829f55f91e1d7eb8307f44f083dce8635e",
+    "changes": [
+      {
+        "before": "크라스",
+        "after": "클라스",
+        "japanese_entity": "クラース",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003387A8",
+    "source_pointer": "0882CCE4",
+    "source_sha256": "c808aeb03f4795e488a270ff445f7efbed6ef617d639c78945689ebc1d089884",
+    "changes": [
+      {
+        "before": "크라스",
+        "after": "클라스",
+        "japanese_entity": "クラース",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339648",
+    "source_pointer": "0882D45D",
+    "source_sha256": "af80af430b9f4841072b16501d3232d3fc961e81a209f66b3ef5b8ee7eb2bfb1",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339790",
+    "source_pointer": "0882D2B9",
+    "source_sha256": "b05614a389589e167e858c64c885c6bf69521cf56f88c57870a77fbc99eee6f0",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339A64",
+    "source_pointer": "0882D4A1",
+    "source_sha256": "bf80437b40d163996ec0b553386ccb3d2dda8868abd3f5808d051bde7235736b",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339B00",
+    "source_pointer": "0882D57B",
+    "source_sha256": "62d0b3f8a75711c0d3b7558cd87c2227c4602a833fe0833b6fa382d90a63306e",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339B40",
+    "source_pointer": "0882D527",
+    "source_sha256": "437f5fd8655cca9e22b66ff66851e43ea4135c0507420ff05a802918dcfa9e3e",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339FD0",
+    "source_pointer": "0882D8C5",
+    "source_sha256": "1411faf6dac3393e77360230c6262d56aa3a4a081c3f9be2148bc0d060fa413c",
+    "changes": [
+      {
+        "before": "피리아",
+        "after": "필리아",
+        "japanese_entity": "フィリア",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00339FF0",
+    "source_pointer": "0882D891",
+    "source_sha256": "c54b23d24371a2a76e002ebbeb7a94eb9c7395bff6a974b20ac97b94014d5338",
+    "changes": [
+      {
+        "before": "피리아",
+        "after": "필리아",
+        "japanese_entity": "フィリア",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033A64C",
+    "source_pointer": "0882DA69",
+    "source_sha256": "25e0dad187b25fc5174a2ebbefb3e8115a0d2073532d5377686131768629ae84",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0033F730",
+    "source_pointer": "08830B87",
+    "source_sha256": "bf1483670a96f839bea48ad6353612d079b5adbc6ee9a8b64c3a173c95b728e4",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      },
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0034207C",
+    "source_pointer": "08832CCB",
+    "source_sha256": "c0744c7fc7277babfe0bc06e1a42a895a72e44e837f1ca456ebd71577cf1ea06",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342094",
+    "source_pointer": "08832CB1",
+    "source_sha256": "d9d207c642e7f3d0e371e35acdb0799c91eb92d7d1f634dac15ea10a008e3048",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342144",
+    "source_pointer": "08832C2C",
+    "source_sha256": "c3b16950055a42e05465809a43c41624027cc75e988a771239ec155453485ef9",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0034214C",
+    "source_pointer": "08832BF2",
+    "source_sha256": "f6a44acf6a51a800a6b1c24664df7e4d6029356f6312747b4cc3e5ad3055cde1",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342174",
+    "source_pointer": "08832BD1",
+    "source_sha256": "8513e8c6a5b378dfed2be403a0b63053f9c57ec4aebe39359de64b6cc6b6d278",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003422E4",
+    "source_pointer": "088329BF",
+    "source_sha256": "339abb0183adb90f9de4ca52e4cb9915364e6208d88cc1a67580b74b29a5006b",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0034235C",
+    "source_pointer": "08832823",
+    "source_sha256": "d637ec55c1a91149371b10549142228cc2b84d023855516ff922fc664d9780b2",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342404",
+    "source_pointer": "08832635",
+    "source_sha256": "4db6bfcf57a0bb5b2ad2bffc38a004100ba31b30642e5570933909cf10720e66",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0034240C",
+    "source_pointer": "08832613",
+    "source_sha256": "5baaac79d48fb353b6b12a3046d87acf0cb75ed2c78806ca40dfe314256cafce",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342414",
+    "source_pointer": "088325EB",
+    "source_sha256": "15d6f5d9d98aeb2e6ff86c7d112ce92597d2c4a683f232ed641b6bc8442c4efb",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0034241C",
+    "source_pointer": "088325B1",
+    "source_sha256": "57dffa0829e21d24d24664191798d6b3410ad56ea4437ba2f8dd84ed5c5d1fb8",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "storage": "0034242C",
+    "source_pointer": "0883253D",
+    "source_sha256": "d18c24d052e4143c578cc0c97d881960a10b69d1c4266913e2d6cd2d4ee84f8d",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      },
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342D44",
+    "source_pointer": "08832FAD",
+    "source_sha256": "2a966c417082347c36f7752009bd1d5b7f03459a7b77c07865f9639a8517dd43",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342DA4",
+    "source_pointer": "08832F13",
+    "source_sha256": "a29f28e3824eb49018f7cea84c074e28719729d0321222d128ed044460ff6db7",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "storage": "00342DCC",
+    "source_pointer": "08832E73",
+    "source_sha256": "cc41d9eabe0771ec0da15e9a8e6df2d9a6f651ef03807c0e8935036e129f9c16",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342DE4",
+    "source_pointer": "08832E63",
+    "source_sha256": "869271f2bb068d9b4ecfa0173a76a9928f13a6918660131f504ea0312686d033",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00342E1C",
+    "source_pointer": "08832E2D",
+    "source_sha256": "9c4761b7e96bfc2145eadb77bd65526873df5d2556d4691540f850e79ca8aafb",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003432DC",
+    "source_pointer": "08833278",
+    "source_sha256": "b606264baf1930b4f9f81bfdec55db3320cde04a1f99fd8a214d022d5ee60f42",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0035806C",
+    "source_pointer": "0884539A",
+    "source_sha256": "7ee4d3368452a6d6c5d9ee87aab96c1e7c92c3632002c36206cd5fd0087fec4f",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "storage": "00358074",
+    "source_pointer": "08845357",
+    "source_sha256": "16a284b6789620f5c33660e90485d716e5f00a3519752345e9d21b91a100ffce",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "storage": "0035807C",
+    "source_pointer": "08845326",
+    "source_sha256": "fdaeca1e4e3a3d3a3d6cd4bbbafb05df021bbd367a0834b27d396c87ba9189ae",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "0035808C",
+    "source_pointer": "08845292",
+    "source_sha256": "075b928350423f1ea3d459959a8ff132bb9c9352c8abd2be29e6410df560e981",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00364B5C",
+    "source_pointer": "08851709",
+    "source_sha256": "77d9530f9dc6ffc04470229e82ec2ff1b05e0cef296f698bb707d9b0f43b5e41",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00364B60",
+    "source_pointer": "088516C4",
+    "source_sha256": "072ef1d2f6a825291278bb4e2ba07ab601fe1ed577da4bb8175c335b82e76657",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00364B64",
+    "source_pointer": "0885168D",
+    "source_sha256": "93d0a439d5a8289c5cbbf00a2278ab9251989477c66e4e3744f4755c2e4528eb",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D1C",
+    "source_pointer": "08855162",
+    "source_sha256": "1f774a11dd96a668e8cee34602c87b6934e2c906eecf113e9e0aff8c61937972",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D20",
+    "source_pointer": "08855123",
+    "source_sha256": "57053cc06bee64904488638c1edee7f2010e0c1c140b839b950db9b53c14f336",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D24",
+    "source_pointer": "08855100",
+    "source_sha256": "4efa57fc58619e29e7b893468c968df4f6d1da94c426502a41f67df0f6602203",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D28",
+    "source_pointer": "088550D5",
+    "source_sha256": "99965ea35b2c6ada5145ed0991f58a0614c63b7ab3211cec673d0ef8e327562a",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D2C",
+    "source_pointer": "088550AE",
+    "source_sha256": "986e891209fd99b4238a1c13716bf13996880ee08db7cefd268f3de3187418cf",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00368D30",
+    "source_pointer": "08855085",
+    "source_sha256": "e556333e8a24dcd5f716d21031c0d8622e294e0d170ecd65ac00f4fea9e73a7c",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375C64",
+    "source_pointer": "08804661",
+    "source_sha256": "a8e9e88223ab9780550245b0ea9b9fec36802a4cf3d3189e0cd477d4dd6d7758",
+    "changes": [
+      {
+        "before": "크라스",
+        "after": "클라스",
+        "japanese_entity": "クラース",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375C70",
+    "source_pointer": "08804652",
+    "source_sha256": "a63f51d93c19ca0dc9981bd3260e54a6cf4503595f902d765226800bb3767efe",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375C7C",
+    "source_pointer": "08804641",
+    "source_sha256": "fc615926467e1285146f4c4056f1df70dbd4494787d52dbade751a3f4264b2c1",
+    "changes": [
+      {
+        "before": "피리아",
+        "after": "필리아",
+        "japanese_entity": "フィリア",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375C94",
+    "source_pointer": "0880461D",
+    "source_sha256": "04dcac93a36a4194fb380303956aae859842863e851aff84ef09066fb1e83eae",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375C98",
+    "source_pointer": "08804618",
+    "source_sha256": "a48f68bdfd059382c778bde6e38324ccb50ba04218f54a8ed3b222a512b112ad",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00375CA0",
+    "source_pointer": "08804610",
+    "source_sha256": "05804f40e89b1f673aa40848c787c8b2dc74115b08c4ff871a328f7301303414",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003A77C4",
+    "source_pointer": "08806B52",
+    "source_sha256": "a63f51d93c19ca0dc9981bd3260e54a6cf4503595f902d765226800bb3767efe",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003A77D0",
+    "source_pointer": "08806B41",
+    "source_sha256": "fc615926467e1285146f4c4056f1df70dbd4494787d52dbade751a3f4264b2c1",
+    "changes": [
+      {
+        "before": "피리아",
+        "after": "필리아",
+        "japanese_entity": "フィリア",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003A77E8",
+    "source_pointer": "08806B1D",
+    "source_sha256": "04dcac93a36a4194fb380303956aae859842863e851aff84ef09066fb1e83eae",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003A77EC",
+    "source_pointer": "08806B18",
+    "source_sha256": "a48f68bdfd059382c778bde6e38324ccb50ba04218f54a8ed3b222a512b112ad",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "003A77F4",
+    "source_pointer": "08806B10",
+    "source_sha256": "05804f40e89b1f673aa40848c787c8b2dc74115b08c4ff871a328f7301303414",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00738AE8",
+    "source_pointer": "0881118A",
+    "source_sha256": "a0466f5f82430da511fb0a2592750255377f2c2039759a16ccafaf687c67a021",
+    "changes": [
+      {
+        "before": "조니",
+        "after": "죠니",
+        "japanese_entity": "ジョニー",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "00738BAC",
+    "source_pointer": "0881033F",
+    "source_sha256": "edc71ccfbf07c8819299931695edb9b4b2042368cec1d74c41480bd6ec1f3091",
+    "changes": [
+      {
+        "before": "릿드",
+        "after": "리드",
+        "japanese_entity": "リッド",
+        "occurrences": 1
+      },
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F2B3C",
+    "source_pointer": "0883F4FA",
+    "source_sha256": "00e5b3c5ad3ce2f0975b427189691aa6818dd90042f00ca046cc218df20f1944",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F3E94",
+    "source_pointer": "0883BBF1",
+    "source_sha256": "fd4e789329ee1c11ea6bcbd6c40302352ceba460bad22e3b1dc7d2cc2d0f56a3",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F3EE0",
+    "source_pointer": "0883BB46",
+    "source_sha256": "f2e65f1fd213e91b2bc3d42812c56d7212f158202e9ce36b3304e334ed7c77a1",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F5A60",
+    "source_pointer": "08853395",
+    "source_sha256": "0359cec1e6bcbde96070f44008bdcd16855b5b518a9916904285a79e5a0afaa7",
+    "changes": [
+      {
+        "before": "스턴",
+        "after": "스탄",
+        "japanese_entity": "スタン",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F8D68",
+    "source_pointer": "0885803C",
+    "source_sha256": "411168430a081b8806188a8c31419c49e14562be66b0630aed4ab3e4d2e0b650",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F8F0C",
+    "source_pointer": "08857A5D",
+    "source_sha256": "5915de359ad7588887ad8c4bb2baf4a3798bf2a25d4ec8e7fc01ec960c920b3f",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F8F44",
+    "source_pointer": "0885795D",
+    "source_sha256": "bf248ebc92b0b60099e0716785097318c938daf2baf02ce44a8bd88dab993d73",
+    "changes": [
+      {
+        "before": "화라",
+        "after": "파라",
+        "japanese_entity": "ファラ",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "storage": "007F941C",
+    "source_pointer": "0885D985",
+    "source_sha256": "a1785c04b09cc01c400198f3960fb7ee8188f874b884579f9d1d04bd33fb7bee",
+    "changes": [
+      {
+        "before": "멜디",
+        "after": "메르디",
+        "japanese_entity": "メルディ",
+        "occurrences": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+id	text
+ARTE_000	없음
+ARTE_001	어스퀘이크
+ARTE_002	아이시클 폴
+ARTE_003	아이스 토네이도
+ARTE_004	애시드 레인
+ARTE_005	아스카
+ARTE_006	이프리트
+ARTE_007	이럽션
+ARTE_008	인디그네이션
+ARTE_009	월윈드
+ARTE_010	볼트
+ARTE_011	운디네
+ARTE_012	익스플로드
+ARTE_013	오리진
+ARTE_014	갓브레스
+ARTE_015	사이클론
+ARTE_016	썬더 블레이드
+ARTE_017	샤프네스
+ARTE_018	쉐도우
+ARTE_019	슈팅 스타
+ARTE_020	실프
+ARTE_021	스톰
+ARTE_022	스톤 월
+ARTE_023	스톤 블래스트
+ARTE_024	스프레드
+ARTE_025	타이달 웨이브
+ARTE_026	타임 스톱
+ARTE_027	디스펠
+ARTE_028	디바인 파워
+ARTE_029	테트라 스펠
+ARTE_030	데몬즈 랜스
+ARTE_031	템페스트
+ARTE_032	트랙터 빔
+ARTE_033	너스
+ARTE_034	노움
+ARTE_035	배리어
+ARTE_036	빅뱅
+ARTE_037	파이어 월
+ARTE_038	파이어 스톰
+ARTE_039	블랙홀
+ARTE_040	프리즈 랜서
+ARTE_041	블리자드
+ARTE_042	플레임 월
+ARTE_043	프레스
+ARTE_044	홀리 랜스
+ARTE_045	맥스웰
+ARTE_046	메일스트롬
+ARTE_047	메테오 스웜
+ARTE_048	리커버
+ARTE_049	루나
+ARTE_050	레이
+ARTE_051	레이즈 데드
+ARTE_052	록 브레이크
+ARTE_053	홀리 브레스
+ARTE_054	딜레이
+ARTE_055	스트래그네이션
+ARTE_056	파이어 볼
+ARTE_057	아이스 니들
+ARTE_058	라이트닝
+ARTE_059	그레이브
+ARTE_060	퍼스트 에이드
+ARTE_061	힐
+ARTE_062	큐어
+ARTE_063	안티도트
+ARTE_064	피코한
+ARTE_065	사일런스
+ARTE_066	윈드 애로
+ARTE_067	스트림 애로
+ARTE_068	아쿠아 에지
+ARTE_069	윈드 커터
+ARTE_070	에어 블레이드
+ARTE_071	추사우
+ARTE_072	아쿠아 스파이럴
+ARTE_073	명중 심포니
+ARTE_074	블러디 로즈
+ARTE_075	봄 레인
+ARTE_076	버닝 포스
+ARTE_077	회복 주사
+ARTE_078	치유공
+ARTE_079	코치한
+ARTE_080	대소실
+ARTE_081	단공검
+ARTE_082	다오스 코레더
+ARTE_083	다오스 레이저
+ARTE_084	다크 이레이저
+ARTE_085	탈출
+ARTE_086	엘리멘탈 마스터
+ARTE_087	이스케이프
+ARTE_088	이터널 스로
+ARTE_089	풍인박봉
+ARTE_090	풍신검
+ARTE_091	트럼프 난사
+ARTE_092	풍뢰신검
+ARTE_093	이상한 춤
+ARTE_094	해독공
+ARTE_095	환영
+ARTE_096	고고 삼바
+ARTE_097	강 마신검
+ARTE_098	굉천
+ARTE_099	강뢰검
+ARTE_100	호열
+ARTE_101	강초래
+ARTE_102	극광검
+ARTE_103	그레이트 어퍼
+ARTE_104	홍련
+ARTE_105	홍련검
+ARTE_106	하가쿠레
+ARTE_107	헤비 봄버
+ARTE_108	헬즈 허리케인
+ARTE_109	하이드 파티
+ARTE_110	비연
+ARTE_111	비연연각
+ARTE_112	비엽번보
+ARTE_113	파고들기
+ARTE_114	봉황천구
+ARTE_115	팬사우
+ARTE_116	빙습연격
+ARTE_117	박우
+ARTE_118	멋진 히프
+ARTE_119	갬블
+ARTE_120	인스펙트 아이
+ARTE_121	반강 낙하
+ARTE_122	차원참
+ARTE_123	신뢰
+ARTE_124	지라이야
+ARTE_125	유초래
+ARTE_126	양염
+ARTE_127	회생공
+ARTE_128	도깨비감투
+ARTE_129	카마이타치
+ARTE_130	회피 행진곡
+ARTE_131	호아파참
+ARTE_132	황왕천상익
+ARTE_133	공파절장격
+ARTE_134	공아승룡각
+ARTE_135	공습검
+ARTE_136	공간상전이
+ARTE_137	마신검
+ARTE_138	마신검 개
+ARTE_139	마신검 쌍아
+ARTE_140	마신쌍파참
+ARTE_141	마인암
+ARTE_142	만주사화
+ARTE_143	마왕염격파
+ARTE_144	마파 카레
+ARTE_145	명공참상검
+ARTE_146	미라클 보이스
+ARTE_147	맹호연격파
+ARTE_148	맹습검
+ARTE_149	사이좋은 왈츠
+ARTE_150	자장가
+ARTE_151	응원
+ARTE_152	패럴라이 볼
+ARTE_153	필리아 봄
+ARTE_154	포이한
+ARTE_155	레이지 레이저
+ARTE_156	뇌전
+ARTE_157	뇌신십연격
+ARTE_158	뇌신검
+ARTE_159	뇌신권
+ARTE_160	열공인
+ARTE_161	열공참
+ARTE_162	연아탄
+ARTE_163	열 마신검
+ARTE_164	롬 숄더
+ARTE_165	아이템 훔치기
+ARTE_166	사미다레
+ARTE_167	산화맹습각
+ARTE_168	살극무황권
+ARTE_169	삼산화
+ARTE_170	서치 갈드
+ARTE_171	섬공열파
+ARTE_172	섹시 포즈
+ARTE_173	마비 룸바
+ARTE_174	진공파참
+ARTE_175	진천
+ARTE_176	질풍
+ARTE_177	시라누이
+ARTE_178	사후폭쇄진
+ARTE_179	사자전후
+ARTE_180	사천멸살궁
+ARTE_181	충파
+ARTE_182	장저파
+ARTE_183	상우열공격
+ARTE_184	취우
+ARTE_185	집기법
+ARTE_186	스마일
+ARTE_187	스나이프 에어
+ARTE_188	뇌물
+ARTE_189	조룡연아참
+ARTE_190	조룡참광검
+ARTE_191	소생
+ARTE_192	스톱 플로
+ARTE_193	대아
+ARTE_194	테트라 어설트
+ARTE_195	동아
+ARTE_196	썬더 소드
+ARTE_197	동인십연격
+ARTE_198	특제 요리
+ARTE_199	도룡
+ARTE_200	분신
+ARTE_201	왈큐리아 세이버
+ARTE_202	왈큐리아 스트라이크
+ARTE_203	볼트 스러스트
+ARTE_204	대미지 주사
+ARTE_205	응조낙폭축
+ARTE_206	베기!
+ARTE_207	마신검
+ARTE_208	윈드 커터
+ARTE_209	파이어 볼
+ARTE_210	그레이브
+ARTE_211	라이트닝
+ARTE_212	레이
+ARTE_213	식재료 확보
+ARTE_214	암석 파괴
+ARTE_215	자물쇠 열기
+ARTE_216	축재
+ARTE_217	함정 회피
+ARTE_218	야간 시야
+ARTE_219	내열
+ARTE_220	방한
+ARTE_221	비연연각
+ARTE_222	사자전후
+ARTE_223	힐
+ARTE_224	피코한
+ARTE_225	봉황천구
+ARTE_226	퇴각
+ARTE_227	메디컬 체크
+ARTE_228	초 팬사우
+ARTE_229	식재료 변환
+ARTE_230	경계
+ARTE_231	리리스의 요리

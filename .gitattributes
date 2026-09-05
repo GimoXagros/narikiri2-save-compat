@@ -3,3 +3,7 @@
 *.md text eol=lf
 *.json text eol=lf
 LICENSE text eol=lf
+
+*.tsv text eol=lf whitespace=-blank-at-eol
+*.s text eol=lf
+*.mjs text eol=lf

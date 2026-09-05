@@ -1,0 +1,283 @@
+[
+  {
+    "storage": "0000D71C",
+    "source_pointer": "08805520",
+    "source_sha256": "739bd24fa0c7079286acb10126804298b72959992555a64334839e969cb4e2c5",
+    "japanese_target": "002C2F10",
+    "changes": [
+      {
+        "before_hex": "825182546b",
+        "after_hex": "256b",
+        "reason": "Restore the Japanese source closing formatter token %k"
+      }
+    ]
+  },
+  {
+    "storage": "0032DE08",
+    "source_pointer": "0882724D",
+    "source_sha256": "6470c22dd782068228c408e52cf1816576228f3bddc6fdc1320cb5d59280d2f4",
+    "japanese_target": "0032E124",
+    "changes": [
+      {
+        "before_hex": "829782898284",
+        "after_hex": "90c3",
+        "reason": "ジャン is 장, matching BATTLE_NAME_025"
+      }
+    ]
+  },
+  {
+    "storage": "00330400",
+    "source_pointer": "08828722",
+    "source_sha256": "bee9f5b3591e29bb1d9f366c11f34451a1384c0dcaa854b3c1175fd3850fdc22",
+    "japanese_target": "0033076C",
+    "changes": [
+      {
+        "before_hex": "826e826a",
+        "after_hex": "90fd8fa8",
+        "reason": "Translate the spoken assent"
+      }
+    ]
+  },
+  {
+    "storage": "0035B000",
+    "source_pointer": "08848E15",
+    "source_sha256": "74e08460cc30cecf6ab34db51b1797102f1330613c8503a844119db63a053192",
+    "japanese_target": "0035CA30",
+    "changes": [
+      {
+        "before_hex": "82648290",
+        "after_hex": "8cf78c9c",
+        "reason": "群れ is 무리; preserve the following object particle"
+      }
+    ]
+  },
+  {
+    "storage": "00363F30",
+    "source_pointer": "08850AF4",
+    "source_sha256": "142ceecd0ed5b3b65c894a13ccde1753613e262e45d93f71f491155c058bdbf7",
+    "japanese_target": "00364914",
+    "changes": [
+      {
+        "before_hex": "8266826481608273",
+        "after_hex": "94878b7a",
+        "reason": "Translate ゲ～ット after the item placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "00738720",
+    "source_pointer": "0880C6E1",
+    "source_sha256": "5efaf4d8e7d5131b037369602ba59ac65e7343c0d5f052d67a9e46c921e498f7",
+    "japanese_target": "0030863C",
+    "changes": [
+      {
+        "before_hex": "826e8144826a8144",
+        "after_hex": "894291d48fa88144",
+        "reason": "Translate オッケーさ"
+      }
+    ]
+  },
+  {
+    "storage": "00738CBC",
+    "source_pointer": "0880EF12",
+    "source_sha256": "66352e2510e5860c89c53120b0ad9e7e29cd726c3d87bd5d74b1dafacfd6bcb8",
+    "japanese_target": "0030AE48",
+    "changes": [
+      {
+        "before_hex": "40816e45",
+        "after_hex": "4045",
+        "reason": "Restore the source monster placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "007F83C8",
+    "source_pointer": "0885AA96",
+    "source_sha256": "41af2e3e1180a2062fb11b86802e2b53ee8f6f99cff0e6dd0f6be560ed9d1eca",
+    "japanese_target": "0036F02C",
+    "changes": [
+      {
+        "before_hex": "82538253824f50",
+        "after_hex": "4050",
+        "reason": "Restore the Japanese source page boundary"
+      }
+    ]
+  },
+  {
+    "storage": "0032CA98",
+    "source_pointer": "08826539",
+    "source_sha256": "a59467c14782309b237ffa567546574b47c665254b9ca9a390fedbea29fc1625",
+    "japanese_target": "0032CB2C",
+    "changes": [
+      {
+        "before_hex": "404c",
+        "after_hex": "4047",
+        "reason": "Restore the source subject placeholder, not a page-format command"
+      }
+    ]
+  },
+  {
+    "storage": "0032E8F8",
+    "source_pointer": "088277E4",
+    "source_sha256": "3ffd23ec12a2a789c33745da8767784b087abc83dbab1e9a8bf90ee3dca5d142",
+    "japanese_target": "0032EB20",
+    "changes": [
+      {
+        "before_hex": "404c",
+        "after_hex": "404c40538143",
+        "reason": "Restore the omitted addressee placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "00738984",
+    "source_pointer": "08812B60",
+    "source_sha256": "b15203c2d69c681159d3af7243753a3511dc72c8d69ab5c8d15c019398d101f3",
+    "japanese_target": "0030E8A8",
+    "changes": [
+      {
+        "before_hex": "40508be58cd7",
+        "after_hex": "40498be58cd7",
+        "reason": "Restore the source item subject; retain later page breaks"
+      }
+    ]
+  },
+  {
+    "storage": "00738B5C",
+    "source_pointer": "088109A8",
+    "source_sha256": "a596c652cd6f3d2e689b1071d85b75edefb15abe87b64f4fe65ab837fd5213ff",
+    "japanese_target": "0030C85C",
+    "changes": [
+      {
+        "before_hex": "89738c488acf8cd74054",
+        "after_hex": "89738c488acf8cd74046",
+        "reason": "Restore the source destination placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "00738BC0",
+    "source_pointer": "08810207",
+    "source_sha256": "2a0fe5a78f34c79c448525923f3a028df888460193e72fdcad66347576d59dc4",
+    "japanese_target": "0030C0E0",
+    "changes": [
+      {
+        "before_hex": "4047",
+        "after_hex": "4046",
+        "reason": "Restore the source destination placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "007F3860",
+    "source_pointer": "0883CD07",
+    "source_sha256": "9ce884987f4ad84181bc9a18344ba9a664f6b41bf9a64b1d5b84f3ac5de9a21c",
+    "japanese_target": "00350424",
+    "changes": [
+      {
+        "before_hex": "04824f54",
+        "after_hex": "4054",
+        "reason": "Repair malformed bytes at the source recipient placeholder"
+      }
+    ]
+  },
+  {
+    "storage": "0031BA34",
+    "source_pointer": "0881C316",
+    "source_sha256": "efc3e0106540ec7d2be22c6703f18673ffb883084f778c8d78d0923d24ceed1d",
+    "japanese_target": "0031BCA8",
+    "changes": [
+      {
+        "before_hex": "90aa",
+        "after_hex": "404c90aa",
+        "reason": "Restore the source initial display-format token; preserve all prose"
+      }
+    ]
+  },
+  {
+    "storage": "0031BAA4",
+    "source_pointer": "0881C1A0",
+    "source_sha256": "cc2de81eb2141d32b6f3de4b97f605c26fcb3464a4873a83382eba79093e7033",
+    "japanese_target": "0031BB44",
+    "changes": [
+      {
+        "before_hex": "8fa8",
+        "after_hex": "404c8fa8",
+        "reason": "Restore the source initial display-format token; preserve all prose"
+      }
+    ]
+  },
+  {
+    "storage": "00321224",
+    "source_pointer": "0881FAA2",
+    "source_sha256": "0cef835b8c22a562467b286149af6811419823de2e050f5212c6b5048f33c731",
+    "japanese_target": "00321350",
+    "changes": [
+      {
+        "before_hex": "90d8",
+        "after_hex": "404c90d8",
+        "reason": "Restore the source initial display-format token; preserve all prose"
+      }
+    ]
+  },
+  {
+    "storage": "0032B744",
+    "source_pointer": "08825B49",
+    "source_sha256": "d1efcec6513600359688af41dcb1b67aa840a43457b79fadfce65f427c687faf",
+    "japanese_target": "0032B954",
+    "changes": [
+      {
+        "before_hex": "8f4b",
+        "after_hex": "404c8f4b",
+        "reason": "Restore the source initial display-format token; preserve all prose"
+      }
+    ]
+  },
+  {
+    "storage": "0032E30C",
+    "source_pointer": "08827494",
+    "source_sha256": "0e6f38cc889adddb075aa7333b5bd5ebb1ceae676ceb15dd744a0d9628eb5634",
+    "japanese_target": "0032E570",
+    "changes": [
+      {
+        "before_hex": "8de9",
+        "after_hex": "404c8de9",
+        "reason": "Restore the source initial display-format token; preserve all prose"
+      }
+    ]
+  },
+  {
+    "storage": "0031CDE8",
+    "source_pointer": "0881D085",
+    "source_sha256": "610eab852173b6e8755b431e41cf09eafee7a8426527a99d1c67151a0695c76a",
+    "japanese_target": "0031CE8C",
+    "changes": [
+      {
+        "before_hex": "404c",
+        "after_hex": "4050",
+        "reason": "Restore source page-break token rather than line-format token"
+      }
+    ]
+  },
+  {
+    "storage": "000A4B30",
+    "source_pointer": "08373768",
+    "source_sha256": "91c34460a18b2573fa02d9b8aacf82feff01ceeae52bb97152cf797c5b171463",
+    "japanese_target": "00373768",
+    "replacement_hex": "256c8ea290aa8dd48140915b90b28ac58acf0a90da90789099814089ee917281408ca98fa891528ea29064"
+  },
+  {
+    "storage": "000A5B78",
+    "source_pointer": "083740A0",
+    "source_sha256": "66743f9f4560bfcb2802755cbe5e611e6fb0ab52b42dc7868e78491fb700e15b",
+    "japanese_target": "003740A0",
+    "replacement_hex": "253074256c8ea290aa8dd48fe181408f4b93a2944f8f448ac58acf256b"
+  },
+  {
+    "storage": "00364048",
+    "source_pointer": "0836404C",
+    "source_sha256": "9d1a6dc39a47347dce8227954cc4ca1b29343af1cede239a0d4860ef6a0a512f",
+    "japanese_target": "0036404C",
+    "replacement_hex": "8d748ad4944281408cfc88c59099814090b08fd08d828c588a6f405040438fe188d281408e6f88f893ff8bff8140889f90b8"
+  }
+]
