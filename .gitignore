@@ -17,6 +17,7 @@ local/
 *.zip
 *.png
 *.jpg
+!/logo.png
 *.ttf
 *.otf
 *.state
