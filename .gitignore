@@ -22,3 +22,7 @@ local/
 *.state
 *.g3diag*
 *.tmp
+
+third_party/_work/
+.venv/
+analysis/private/

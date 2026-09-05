@@ -1,0 +1,35 @@
+{
+  "schema": "narikiri2-an9j-source-profiles-v1",
+  "profiles": [
+    {
+      "id": "AN9J_JP_REV0",
+      "size": 8388608,
+      "sha256": "a92c0f6dbb5c013b47b7178e23d81663e3952a10df7b1f68967ebf7bb3b98eb7",
+      "game_code": "AN9J",
+      "role": "immutable_japanese_source"
+    },
+    {
+      "id": "AN9J_FFR_K",
+      "size": 12582912,
+      "sha256": "f94cb5a128c8a98e6e18e6a0598ebf9b266f54da0750367af8defac3eb2df7d4",
+      "game_code": "AN9J",
+      "role": "immutable_previous_korean_source"
+    },
+    {
+      "id": "AN9J_CANDIDATE_A",
+      "size": 12582912,
+      "sha256": "9c7a8ae87c303a16c71bd164e7409a5aaabf01bd3246fa9e700931eed6179d4f",
+      "game_code": "AN9J",
+      "role": "adopted_cumulative_build_baseline"
+    }
+  ],
+  "reference_only": [
+    {
+      "id": "ND2_EN_V230_APPLIED",
+      "size": 8650272,
+      "sha256": "d9a7b7d854cbba32b6b69f5dec2453656a8fb922f23e342cff4d4a0dabea7846",
+      "role": "translation_context_only_not_product_input",
+      "upstream_patch_sha256": "819a9fe362329aefbd50e95b595cae1d84be976d5e89f71c533c69db12543fbb"
+    }
+  ]
+}
