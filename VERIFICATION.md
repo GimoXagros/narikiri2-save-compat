@@ -43,3 +43,7 @@ FFR 누적 BPS SHA-256: `9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964
 직접 설정한 기존 이름은 유지합니다. 기본 이름 변경은 새 게임부터 적용되며, 이전 버전의 savestate 대신 게임 내 8 KiB 저장을 사용합니다. 달무리 영문·숫자의 원래 4픽셀 폭은 기존 8픽셀 셀 안에서 간격이 달라 보일 수 있습니다.
 
 [v0.9의 역사적 검증 기록](docs/history/v0.9/VERIFICATION.md)은 별도로 보존합니다.
+
+## 2026-09-07 저장소 통합 검증
+
+기존 mGBA·실기 기록과 구분한 새 실행 결과는 [통합 검증 기록](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/verification/repository-integration.json)과 [보고서](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/INTEGRATION_REPORT.md)에 있습니다. 새 canonical 복제본에서 고정 글꼴을 다시 생성해 기준판 102개, 통합 후보 134개 검사를 실행했습니다. 실패·건너뜀은 0개이며 공개 CI의 별도 분모는 43개입니다. ROM/BPS는 그대로이고 기준 v0.9a 태그의 ZIP도 기존 다운로드와 정확히 재현되었습니다. 이번 저장소 정리는 v1.0 실기·전편 진행 완료를 뜻하지 않습니다.

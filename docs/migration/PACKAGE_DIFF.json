@@ -1,0 +1,65 @@
+{
+  "status": "DOCUMENTATION_ONLY_LOCAL_PACKAGE_DIFFERENCE",
+  "same_inventory": 27,
+  "unchanged_members": 20,
+  "changes": [
+    {
+      "file": "BUILDING.md",
+      "old_size": 2432,
+      "new_size": 4139,
+      "old_sha256": "a962841ab55f4a0f3fe54f3808450289b2eb26d53328be36514b0ce00e0084c4",
+      "new_sha256": "0af2ee3c1f0dab9fc1e17da3005b7de0d047f078fba24e417db3261eed950f53"
+    },
+    {
+      "file": "MIGRATION.md",
+      "old_size": 2030,
+      "new_size": 4051,
+      "old_sha256": "528bfe4b5b82e6c8e6174220f6d3377c1ace2bf8e86035ec91f47a083a515382",
+      "new_sha256": "8a346bd6fcae883e415a8654bc54e26eb6893ee8e5995833fd3685a7afd1a07a"
+    },
+    {
+      "file": "README.md",
+      "old_size": 4528,
+      "new_size": 4806,
+      "old_sha256": "4a2cc1bee46f008282daa9e05060f288743295fb94797da2babd68b4121fc541",
+      "new_sha256": "b7b7fcb12396ba227938eeea85de9c4304bf48f9dc0bc0078bc75ef66ba82ccf"
+    },
+    {
+      "file": "RIGHTS.md",
+      "old_size": 2017,
+      "new_size": 2436,
+      "old_sha256": "2d7d7d5f20a2146f84ecc85ed4d20c240081e5d01976f8aa6cc2da99dd0aab76",
+      "new_sha256": "700568a538dcdfb7439d47286e1c07f5e46433dd830d2cf966d193c7d7620d3e"
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "old_size": 2341,
+      "new_size": 2341,
+      "old_sha256": "ee0692d24b66d00d82cb3560c648678e95a85bf272b98556177f0fbdcfc98b95",
+      "new_sha256": "90773f132ad6719f1ef872acaa0c9f21d7dc3c0a89d429eb06aa472f0a5bc0a0"
+    },
+    {
+      "file": "VERIFICATION.md",
+      "old_size": 4646,
+      "new_size": 5418,
+      "old_sha256": "7ee5a15dd30c624acb95a31481a32e6e556a95583a0b9640155b3424afb82de9",
+      "new_sha256": "d44f4ab78ec57bbff9a953ef68eeae48cc289532ab4e9487a5fe07884f71f708"
+    },
+    {
+      "file": "manifest.json",
+      "old_size": 4634,
+      "new_size": 4634,
+      "old_sha256": "a2e4832a11122aa2168ebc707e0da4c7716f00fd30af5bdc63c9cef933390ed7",
+      "new_sha256": "c1c93fdd831bff29ae895241433fe9699dd76ed2322821f0d6b261f5b6dc10fe"
+    }
+  ],
+  "baseline_zip": {
+    "size": 201395,
+    "sha256": "a098d1a8a34741959c7950affde4e80e7140380364d7e97ec9f2dcf62b1578c8"
+  },
+  "local_candidate_zip": {
+    "size": 203509,
+    "sha256": "df5988f90a9350db78252d40aa760f250eb1e4e185f133179a3cf9ca7353bfb7"
+  },
+  "public_asset_replaced": false
+}
