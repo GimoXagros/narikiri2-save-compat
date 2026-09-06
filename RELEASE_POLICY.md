@@ -1,5 +1,5 @@
 # Version policy
 
-v0.9 is the integrated public verification prerelease. Its known-reproduced display, name storage and save defects must be closed; its frozen artifact, protected ranges and FFR BPS round trip must pass. Current verification is artifact-bound in verification/v0.9.json.
+v0.9a is the dialogue and enemy-inspection correction public verification prerelease. Known reproduced in-scope defects must be repaired before release. The integrated artifact, protected assets, source-bound prose, save/name regressions and cumulative FFR patch must pass together. Current evidence is bound to verification/v0.9a.json; v0.9 remains historical in verification/v0.9.json.
 
-v1.0 additionally requires extended complete game progression and hardware verification of the final artifact. Historical Candidate A hardware success is not counted as final v0.9 hardware success. Do not label v0.9 stable or complete those gates without new evidence.
+v1.0 additionally requires extended complete game progression and hardware verification of the final artifact. Historical Candidate A hardware success is not final v0.9a hardware evidence. Do not call this prerelease stable or claim unplayed branches, natural unlocks from RAM fixtures, or a human literary review from agent-authored proofreading.

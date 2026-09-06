@@ -1,0 +1,200 @@
+{
+  "status": "ADOPTED_REFERENCE_RECONCILED",
+  "reference": "https://namu.wiki/w/테일즈%20오브%20더%20월드%20나리키리%20던전%202",
+  "reference_access": "Direct access failed; use the complete sections 4 and 5 pasted by the user in this task.",
+  "scope": "Identity-specific spelling in dialogue, speaker labels, character books, battle names, costumes, and derived arte names. Full names remain full only where the source uses them.",
+  "decisions": [
+    "Use 필리아, including the four existing dialogue variants 휘리아.",
+    "Use 훌리오 and 캐로; the user's later supplied reference supersedes 프리오 and 캬로.",
+    "Use 셀시우스 from the character section and the established v0.9 tables; the costume-list variant 세르시우스 denotes the same character.",
+    "Use 리드 and 스탄 from character headings and costume names; incidental prose variants 릿드, 스턴 are not separate characters.",
+    "Preserve the Japanese game's goddess roles: 시엘 is past, 스텔라 is present. The supplied wiki prose reverses these roles; naming reconciliation does not rewrite the game's setting.",
+    "Do not rename the distinct prototype character マリエル to 캐로, or replace ordinary Korean words merely containing a short character name."
+  ],
+  "characters": [
+    {
+      "short": "훌리오",
+      "full": "훌리오 스벤",
+      "japanese": "フリオ"
+    },
+    {
+      "short": "캐로",
+      "full": "캐로 오란제",
+      "japanese": "キャロ"
+    },
+    {
+      "short": "에이다",
+      "full": "에이다",
+      "japanese": "エイダ"
+    },
+    {
+      "short": "스텔라",
+      "full": "스텔라",
+      "japanese": "ステラ"
+    },
+    {
+      "short": "시엘",
+      "full": "시엘",
+      "japanese": "シエル"
+    },
+    {
+      "short": "사나토스",
+      "full": "사나토스",
+      "japanese": "サナトス"
+    },
+    {
+      "short": "크레스",
+      "full": "크레스 알베인",
+      "japanese": "クレス"
+    },
+    {
+      "short": "체스터",
+      "full": "체스터 버클라이트",
+      "japanese": "チェスター"
+    },
+    {
+      "short": "민트",
+      "full": "민트 아드네이드",
+      "japanese": "ミント"
+    },
+    {
+      "short": "클라스",
+      "full": "클라스 F. 레스터",
+      "japanese": "クラース"
+    },
+    {
+      "short": "아체",
+      "full": "아체 클라인",
+      "japanese": "アーチェ"
+    },
+    {
+      "short": "스즈",
+      "full": "후지바야시 스즈",
+      "japanese": "すず"
+    },
+    {
+      "short": "아미",
+      "full": "아미 버클라이트",
+      "japanese": "アミィ"
+    },
+    {
+      "short": "미랄드",
+      "full": "미랄드",
+      "japanese": "ミラルド"
+    },
+    {
+      "short": "다오스",
+      "full": "다오스",
+      "japanese": "ダオス"
+    },
+    {
+      "short": "스탄",
+      "full": "스탄 엘론",
+      "japanese": "スタン"
+    },
+    {
+      "short": "루티",
+      "full": "루티 카틀릿",
+      "japanese": "ルーティ"
+    },
+    {
+      "short": "리온",
+      "full": "리온 매그너스",
+      "japanese": "リオン"
+    },
+    {
+      "short": "필리아",
+      "full": "필리아 필리스",
+      "japanese": "フィリア"
+    },
+    {
+      "short": "우드로우",
+      "full": "우드로우 켈빈",
+      "japanese": "ウッドロウ"
+    },
+    {
+      "short": "첼시",
+      "full": "첼시 톤",
+      "japanese": "チェルシー"
+    },
+    {
+      "short": "마리",
+      "full": "마리 에이젠트",
+      "japanese": "マリー"
+    },
+    {
+      "short": "콩맨",
+      "full": "마이티 콩맨",
+      "japanese": "コングマン"
+    },
+    {
+      "short": "죠니",
+      "full": "죠니 시덴",
+      "japanese": "ジョニー"
+    },
+    {
+      "short": "리리스",
+      "full": "리리스 엘론",
+      "japanese": "リリス"
+    },
+    {
+      "short": "딤로스",
+      "full": "딤로스",
+      "japanese": "ディムロス"
+    },
+    {
+      "short": "리드",
+      "full": "리드 허셸",
+      "japanese": "リッド"
+    },
+    {
+      "short": "파라",
+      "full": "파라 엘스테드",
+      "japanese": "ファラ"
+    },
+    {
+      "short": "킬",
+      "full": "킬 차이벨",
+      "japanese": "キール"
+    },
+    {
+      "short": "메르디",
+      "full": "메르디",
+      "japanese": "メルディ"
+    },
+    {
+      "short": "포그",
+      "full": "포그",
+      "japanese": "フォッグ"
+    },
+    {
+      "short": "채트",
+      "full": "채트",
+      "japanese": "チャット"
+    },
+    {
+      "short": "레이스",
+      "full": "레이시스 포말하우트",
+      "japanese": "レイス"
+    },
+    {
+      "short": "셀시우스",
+      "full": "셀시우스",
+      "japanese": "セルシウス"
+    },
+    {
+      "short": "왈큐레",
+      "full": "왈큐레",
+      "japanese": "ワルキューレ"
+    }
+  ],
+  "review_evidence": {
+    "unique_full_texts": 8038,
+    "remaining_unadopted_character_variants": 0,
+    "contextual_omissions": [
+      "D02263 refers to the sword conversationally without repeating Stahn",
+      "D02654 and D03410 use first-person speech for Chelsea"
+    ],
+    "reference_role_conflict": "Keep source story roles, as recorded in decisions"
+  }
+}

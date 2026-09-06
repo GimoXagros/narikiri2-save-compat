@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SAVE_LOCATION_LABEL",
+    "storage": "00012CD8",
+    "source_pointer": "08C0D7D5",
+    "source_sha256": "b9cb0d849062973eb5b9cb4bc6ae7d2015df3dcc8d261862ab42e52195d0121f",
+    "final": "위치",
+    "reason": "The original two-cell label is followed by a fixed-position place name; the inherited five-cell 저장 위치 label overlaps that name. Use the same meaning in two cells."
+  }
+]
