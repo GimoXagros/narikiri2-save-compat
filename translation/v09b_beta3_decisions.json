@@ -1,0 +1,18 @@
+[
+  {
+    "id": "D05241",
+    "beta2_sha256": "6e69c6150b0603f36249a6a40115d722693ec6f26f4f41525fdddae41307a774",
+    "beta3_sha256": "9e944bdbd618252fc86008b231ba22ea05104d6dc6434fc2b2bc1b94d1eef9d1",
+    "final": "너희가 있어 줘서 살았어．",
+    "japanese_binding": "0035AFCC",
+    "reason": "JP source expresses relief thanks to the party being there; easily handling something was an unsupported BETA3 addition. User requested source-language correction."
+  },
+  {
+    "id": "D05246",
+    "beta2_sha256": "ef1bce9bb0ea5d53768805b3174d2e338ae249b0880c238d5edc5682498bb1dd",
+    "beta3_sha256": "eea19e73f08cf890b394b5daf3c370f0fabcf327b926ff9b0cf009b75e90a039",
+    "final": "자，이건 보상이야！@P또 무슨 일이 있으면 잘 부탁해！",
+    "japanese_binding": "0035AFE4",
+    "reason": "JP gohoubi denotes a reward, not merchandise. Preserve the original page control and casual request."
+  }
+]

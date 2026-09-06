@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "D00019",
+    "bindings": [
+      "0000D52C"
+    ],
+    "source_sha256": "4ee153f1ba0cbb9986d520ad91e5169dfd8bdf0e8e2e0f29581ad2f28e70a8b4",
+    "japanese_binding": "0000D52C",
+    "japanese_sha256": "01407179ff789b71ee0f867ddc7b3252700e693ae913e3288201908cc6568ee8",
+    "final": "아，이런．이건 다른 게임의 대본이었네．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00024",
+    "bindings": [
+      "0000D544"
+    ],
+    "source_sha256": "b688da725fb31fe7cc3835362e8fdfe616bfd45c16d7965c79ad85365c791775",
+    "japanese_binding": "0000D544",
+    "japanese_sha256": "9124fbb3c86862fd43d0eb4ebd403c28c6b61b74fb07f5271f3293c65ec1db63",
+    "final": "%l잘 부탁해，훌리오와 마리엘．%k\n괜찮아．\n내가 함께 있으니 위험하지 않아．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00028",
+    "bindings": [
+      "0000D5BC"
+    ],
+    "source_sha256": "d52dec4dae3bd667323268916d5a6d3db8fea5dc8a07015dcd080d86cdc59d2a",
+    "japanese_binding": "0000D5BC",
+    "japanese_sha256": "949f5e461ba75ec67686c0070e06da54333668f9de2469ab9758f527c0acdee1",
+    "final": "어서 와，훌리오，마리엘．아，안 돼！대낮부터 술이라니！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00031",
+    "bindings": [
+      "0000D5C8"
+    ],
+    "source_sha256": "91864e9507673eec2da8135dd72692a852c2b787f5901f21784b19fb6f184012",
+    "japanese_binding": "0000D5C8",
+    "japanese_sha256": "35a899191c4d6f31c38b5139787ed188f574ba3a34fc75db448cc42b6dce69c7",
+    "final": "뭐라고，훌리오？가끔은 괜찮지 않냐고？%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00033",
+    "bindings": [
+      "0000D5D0"
+    ],
+    "source_sha256": "14fc7914000a6b77c906b2d339e3cd85461b5addd595c1ff5bf4b9625f35e3d8",
+    "japanese_binding": "0000D5D0",
+    "japanese_sha256": "e326a80a96d3879dbe95a4646f90a856667f0fa8eeb59e1b4c25eda87ef7b560",
+    "final": "뭐라고？나는 그렇게 화내지 않는다고？어머，그랬나．우후후．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00049",
+    "bindings": [
+      "0000D720"
+    ],
+    "source_sha256": "db0ea09f05e25f2e20140bda103ab24fe4de26161cf438e688d52a3b4e08a4f1",
+    "japanese_binding": "0000D720",
+    "japanese_sha256": "139e6d1f1029ae30bda92236436250e0ffb7c5b458ea1bc710e41d7509a86bb6",
+    "final": "자，오늘은 볼일이 있겠지．조심해서 다녀오너라．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00050",
+    "bindings": [
+      "0000D778"
+    ],
+    "source_sha256": "8bda3008e8c9c16a14e33fd5b9dd3f19aa830c749484e30907960abaa79e5cc1",
+    "japanese_binding": "0000D778",
+    "japanese_sha256": "9be619f9d1261b2334390e3e813855cb92698eba83bfe2b603d049f5d17540c6",
+    "final": "어서 오이소！오늘은 수녀님 심부름으로 왔능교？%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00058",
+    "bindings": [
+      "0000D874"
+    ],
+    "source_sha256": "6405ec2c3032cfbaaf4f4ce7123c1c7f3f3ce9df72b373025cfec9f03ec66d43",
+    "japanese_binding": "0000D874",
+    "japanese_sha256": "e139b58f1347f467d515c316c2951f6ca8fe6b8e558536634a7a53508ee6c01e",
+    "final": "네？묻지 않는 편이 좋다고요？%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00060",
+    "bindings": [
+      "0000D87C"
+    ],
+    "source_sha256": "8c0962486d917c83cee2f19a6140122429a0df0c264e9ef78a84b060c6b47fa6",
+    "japanese_binding": "0000D87C",
+    "japanese_sha256": "fa87798f4ec0c43dd3b5dbde72eb05df274290cc4018eb2b4d6e24e0679ba7ab",
+    "final": "%l아，왠지 몸이 안 좋아졌어요…．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00070",
+    "bindings": [
+      "0000D9C8"
+    ],
+    "source_sha256": "165772575593d86d950c618c55d1886517be48491cf13fa877413ff2c5e0b035",
+    "japanese_binding": "0000D9C8",
+    "japanese_sha256": "6e32ec97b2d6c41e0e6b6b10a5431f1c8f4228d294cb7b570a7b8f818c135d6e",
+    "final": "칠흑의 갱도로 간다던데，부디 문제를 일으키지 말게．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00083",
+    "bindings": [
+      "0000DAF8"
+    ],
+    "source_sha256": "8389219cbd627211adc44d050ff215cf1d48a42bcd742f32e4d81e6516249f36",
+    "japanese_binding": "0000DAF8",
+    "japanese_sha256": "59c889d2e98f93bdcb5803e1c46420874c4180f6cae4792d22fbefb958ef60de",
+    "final": "하지만 메르디는 훌리오도 좋아해．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00087",
+    "bindings": [
+      "0000DB9C"
+    ],
+    "source_sha256": "ba55a317ff0971e38f013473b7f6692a593337c6f5a8f8e40b3222676cf73fd5",
+    "japanese_binding": "0000DB9C",
+    "japanese_sha256": "3cd21f025420159fb15dd4c752f9d07f0cf0dd3b821d3ce788def727dced84ef",
+    "final": "아，우드로우 님을 못 보셨나요？%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00088",
+    "bindings": [
+      "0000DBA0"
+    ],
+    "source_sha256": "11affdb90cc3b8e71ed7394acbe1d9800155ade66bec9b93608f57e6aa879845",
+    "japanese_binding": "0000DBA0",
+    "japanese_sha256": "8d4223d73c43f8e3d9f313fded3e5ed98f5b68e30157bfbc5f4b74b7ee2b92e0",
+    "final": "그렇군요．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00113",
+    "bindings": [
+      "0001290C"
+    ],
+    "source_sha256": "b2ba7cc585dc55b544594a8272fb5cbd0ec64a7b1928d09c1d79c11e8d2872a0",
+    "japanese_binding": "0001290C",
+    "japanese_sha256": "3d503333c92264b97971533cccc455bd834e0345c04ae32e721381aaa3285cd5",
+    "final": "%0t맡은 퀘스트 총수：%4d\n성공한 퀘스트 총수：  %4d%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00133",
+    "bindings": [
+      "00017054"
+    ],
+    "source_sha256": "ef98a66c4ddaae26d07af24e8a170fc722b453ad2a0b4d3965262560d8306269",
+    "japanese_binding": "00017054",
+    "japanese_sha256": "39c6a8832f29c6a9a4e034d09c5727cc4943d8ae62bfcf8915c8e7bcc8442c80",
+    "final": "%l입고 있는 옷은 사들일 수 없어요～%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00156",
+    "bindings": [
+      "0006AC14",
+      "0006ADBC",
+      "0006C90C"
+    ],
+    "source_sha256": "e7fb03a27e13bdf1554011e61ab1836e985d343a29c59d67b8a8ffb4aaf32a90",
+    "japanese_binding": "0006AC14",
+    "japanese_sha256": "a32e4289da7a930e45dbd51017cf0a1c74e952ebd96a1ffa2f0d56433299be42",
+    "final": "도망치는 데 성공했다",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00197",
+    "bindings": [
+      "00084754"
+    ],
+    "source_sha256": "d959cdd4287a7217754ab6d4f4159af065458211b0c328ef1522d7e74a5e5f9a",
+    "japanese_binding": "00084754",
+    "japanese_sha256": "79ab80d1a852656ac064267f60fc33db7a00b980a12da2a050b0aeeec0906cd8",
+    "final": "지상 １층으로 가는 직통 승강기입니다．타시겠습니까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00204",
+    "bindings": [
+      "00084960"
+    ],
+    "source_sha256": "8b0154d6398128c922329280cac2dc2da87cb41e18a118eb920a1d71a6eff58d",
+    "japanese_binding": "00084960",
+    "japanese_sha256": "a9f3ce9e7b3326556035957ae3b6816ea8fb41f381e867fdc7484db6cd18a67e",
+    "final": "%l그렇게 말하고 싶지만\n승강기는 수리 중이야．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00205",
+    "bindings": [
+      "00084964"
+    ],
+    "source_sha256": "b897cc81667dbe83f021ae9cc5449312a44e381bae1e39dfda343fc0fe2c2f9c",
+    "japanese_binding": "00084964",
+    "japanese_sha256": "c580c8224558d8a073555b11e5d9b9e61b1e366442c59843a2ad0fb84db6ddf4",
+    "final": "%l꼭『제３채굴장』에 가고 싶다면『폐쇄 구역』에 계단이 있어…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00229",
+    "bindings": [
+      "0008BE2C"
+    ],
+    "source_sha256": "fcbf50c4751c45808cae0a9dfaa73a080f4c904a1809ab35d01ccf3d382fad44",
+    "japanese_binding": "0008BE2C",
+    "japanese_sha256": "b7d9953a4099d17240a1287c8171baac34cf85227081f138afd95a52b5e460b1",
+    "final": "%l그 정보는 %d갈드야．\n낼 수 있겠어？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00240",
+    "bindings": [
+      "00090580"
+    ],
+    "source_sha256": "d0b687aa64bd00b4c6bb7206f81c0b9b0d178467a6af4dac36d7e7272a0c59e9",
+    "japanese_binding": "00090580",
+    "japanese_sha256": "760891864333af16de39d12f99f7e469edfea95a3a3a01e376e4a83afc676646",
+    "final": "↑『채집장』\n←『숲의 입구』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00241",
+    "bindings": [
+      "00090854"
+    ],
+    "source_sha256": "25b9b202d8005977f30b3305ccfe51ba4a72c1b24fcc178e8c7057e66b4fec38",
+    "japanese_binding": "00090854",
+    "japanese_sha256": "881978bffe1b43143f9c81d61886c13bb6178f1c8230d97936781f01658bd29d",
+    "final": "↑『에랸테의 샘』\n→『숲의 출구』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00242",
+    "bindings": [
+      "00090954"
+    ],
+    "source_sha256": "22103e0222ad23c9776d86d8731e055f32628a44aff7128df8db3fb88f10b022",
+    "japanese_binding": "00090954",
+    "japanese_sha256": "4bd6b21ae8ee873286f1b2177188c3a01b1cfd60fd46c26a3aa0f0d07b9ede83",
+    "final": "↑『제２ 사냥터』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00243",
+    "bindings": [
+      "00090DE4"
+    ],
+    "source_sha256": "4d202b349a88137f0b9724f568bc7490f0471eef23cf39b919208178c64ada1a",
+    "japanese_binding": "00090DE4",
+    "japanese_sha256": "21cca3b39a3b284bcc74736581b6b7fff147d376070920b74d32270287af7282",
+    "final": "↑『제１ 사냥터』\n←『제２ 사냥터』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00251",
+    "bindings": [
+      "00091064"
+    ],
+    "source_sha256": "4664d1d87484bf78313d9bd24b01781b7d5e9da7a27c0d4a6c8937d333221aba",
+    "japanese_binding": "00091064",
+    "japanese_sha256": "e704cd9acf02c17e0a9ca1ec60b2517ba76a9cac6747f0aae8b5de546cbb98a6",
+    "final": "%l어？아，그러고 보니…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00254",
+    "bindings": [
+      "00091244"
+    ],
+    "source_sha256": "7fef5ef635b05f25de4f936aed34e8229720577c067785437464bf6115c35080",
+    "japanese_binding": "00091244",
+    "japanese_sha256": "8bb2a54dedf05ba9072d95e72b84b1f9f9c875312eadffb83bfc3da3f13a27ef",
+    "final": "↑『깊은 샘』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00255",
+    "bindings": [
+      "0009137C"
+    ],
+    "source_sha256": "c7ee21ff647db2fce68d959b08e09f639228938977143fb0e09e040a835f541a",
+    "japanese_binding": "0009137C",
+    "japanese_sha256": "c14664256e503c7b0ffb4af314cfa907d81e7d8b3029bd8605021abbd005889e",
+    "final": "→『새들의 숲』\n←『제１ 사냥터』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00256",
+    "bindings": [
+      "00091710"
+    ],
+    "source_sha256": "24535cb4f143b45f6927f1faf9b46e39426afc1605777ea67d6b0173e7c2a1f9",
+    "japanese_binding": "00091710",
+    "japanese_sha256": "4226c9d60b688f0a3633fa9cc6b9a6368e6fe1ed170b961a5588361415740617",
+    "final": "↑『마물의 숲』\n→『제１ 사냥터』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00285",
+    "bindings": [
+      "0009C688"
+    ],
+    "source_sha256": "473df355a6f86ea807b370705163443e169dcd1f00d0879d94247c4c69f06c09",
+    "japanese_binding": "0009C688",
+    "japanese_sha256": "d4b6da27eeac49dc3841246e75302c38ed7e318306c7efd63a5a7db9becefe43",
+    "final": "%l뭐라고！크레스가？\n%k하지만 크레스는 엄청 강하잖아！\n어째서？%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00289",
+    "bindings": [
+      "0009C698"
+    ],
+    "source_sha256": "4afdeb4ecbc4f7c51bba008b523ee05571c0a60e10831fe32c6aecbdaf05b52a",
+    "japanese_binding": "0009C698",
+    "japanese_sha256": "ec425b446ff30b22905d487223e7b0306dbfc5ff9e85fe15fb5bc7d5108ca8bd",
+    "final": "%l당신들을 지키는 게 더 중요하다고 하셨어요…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00298",
+    "bindings": [
+      "0009C6BC"
+    ],
+    "source_sha256": "c03ce84dca1a66452ce07917bd80fd8b067a6f022c3f834f198945a6edde71d1",
+    "japanese_binding": "0009C6BC",
+    "japanese_sha256": "c3f3ed724091dfd282987e6a863e1f635d531d3cf8bae244932552b699f971e7",
+    "final": "저와 함께 가 주시겠어요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00309",
+    "bindings": [
+      "0009C88C"
+    ],
+    "source_sha256": "192f050dbdc7c4afc46670a2bd602738f0d56cc78c4419141b537c7d8558cebb",
+    "japanese_binding": "0009C88C",
+    "japanese_sha256": "8773f4d12b56935274b65f6346780419453f37146c3519409179746aa632ad23",
+    "final": "%l그렇군요…죄송해요…\n무리한 부탁을 드린 것 같네요…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00312",
+    "bindings": [
+      "0009C928"
+    ],
+    "source_sha256": "a182f6eb027f24960a74872ca6c02f51699b79c63865a1b99d863fb192126235",
+    "japanese_binding": "0009C928",
+    "japanese_sha256": "7c1bdf4eaa389d1bef1ad309a2be64754eb5cd553717c1bcddbf000028294eb7",
+    "final": "걱정돼요…크레스 씨를 찾으러 가요…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00331",
+    "bindings": [
+      "0009CD5C"
+    ],
+    "source_sha256": "3394e469026cf9b1109f8e7c4e85a2594833aafd790b6d080a79166ad5600f31",
+    "japanese_binding": "0009CD5C",
+    "japanese_sha256": "5c7f6a9c7ce6d5e3a1612d226e32eb014cbebcb3bc2feba806501cb12993f29b",
+    "final": "%l분명 거기서\n무슨 일이 생긴 거야．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00333",
+    "bindings": [
+      "0009CD64"
+    ],
+    "source_sha256": "f574068bfd9fcae7e80efdb2412d956e63b3c14a28211e97f07aa82dad08775c",
+    "japanese_binding": "0009CD64",
+    "japanese_sha256": "1df1d65f5967e21da2ddb98090476b17f5dcf29d18ed77ed7d532fac81996975",
+    "final": "%l무슨 일이 생겼다니，어떻게 그런 말을 할 수 있어！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00359",
+    "bindings": [
+      "0009D478"
+    ],
+    "source_sha256": "25227771e5280ad2bbc84864d9d8e0b242a6c7ebf4c34b3e817d8f31006b2381",
+    "japanese_binding": "0009D478",
+    "japanese_sha256": "c8fb0417d5efdec46c067dd75a60e6a0f4dfb689ef04c33079b0ca020dec93ea",
+    "final": "평소에는 안 그러잖아！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00360",
+    "bindings": [
+      "0009D47C"
+    ],
+    "source_sha256": "aa44cdb9fbda78a0b5a64c8d2c26d7bab01f8aff794761fb214ee6a69b9d7430",
+    "japanese_binding": "0009D47C",
+    "japanese_sha256": "93d7c678120993b170f1c5e5c732217a25325f12f55d093bd34513d7c5844c40",
+    "final": "%l평소라면…%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00362",
+    "bindings": [
+      "0009D484"
+    ],
+    "source_sha256": "4d829bc99e5abf20826337b147f23c8a4a8122ae7fa052f5aa070ca8bec4be2f",
+    "japanese_binding": "0009D484",
+    "japanese_sha256": "451730b52272855f901f35d86d0921dcadf858a0fe0d623c4819aa565e01645e",
+    "final": "%l라든가，%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00364",
+    "bindings": [
+      "0009D48C"
+    ],
+    "source_sha256": "b46edacc86fd203259a14d59d1ca355aeead9176e62c416d956201fd6a98358a",
+    "japanese_binding": "0009D48C",
+    "japanese_sha256": "468b12350659d29a9cb479747689a1df265a337a200a6f32e7ac64a5a4d797db",
+    "final": "%l그런 느낌이잖아！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00445",
+    "bindings": [
+      "0009DFA8"
+    ],
+    "source_sha256": "37b9cfdf841cf0bc8e09d102e8d83f51d3cbc6c148b051f9b3701c1e3e0199f1",
+    "japanese_binding": "0009DFA8",
+    "japanese_sha256": "06b6118228c1ac9228d1e92ea77e4d381e500c0e3866a2c07ac32ad1f9bd4a75",
+    "final": "온다！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00471",
+    "bindings": [
+      "0009E3A8"
+    ],
+    "source_sha256": "5512f4bb5a1e67a03d5a878b87ba1fdf0e28b9cecd5d58b92f484ecab4bd0d7f",
+    "japanese_binding": "0009E3A8",
+    "japanese_sha256": "df4076fab78528a31745a09d67ec5409dd5e164647548c4da3e7fbdf7005a9e2",
+    "final": "%l부탁해도 되겠느냐…？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00473",
+    "bindings": [
+      "0009E520"
+    ],
+    "source_sha256": "0391467b7a3ffb4eee3c1a965680deed3a6bfe3fec8f7fad4024a7922b46480e",
+    "japanese_binding": "0009E520",
+    "japanese_sha256": "81533ce54acf7b80252b4aeae6a0b771ef55a4da273bce2bf08be66d32c386fc",
+    "final": "%l안녕하세요，\n장로님．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00492",
+    "bindings": [
+      "0009F190"
+    ],
+    "source_sha256": "b904f2d6a146d6a0a2b2ef4d2700c9ca4b25520919ae1b84c726dd5b83678aca",
+    "japanese_binding": "0009F190",
+    "japanese_sha256": "3200e2dbc988807dace49abd341f54ecf3f312d0eed9dad7432039fc035b9eb8",
+    "final": "@I를 건네주지 않았습니다．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00506",
+    "bindings": [
+      "0009F7CC"
+    ],
+    "source_sha256": "d71ae07339a549b1951a279bfffb4e39cd175fe16abecf128f2e707756d0a1f9",
+    "japanese_binding": "0009F7CC",
+    "japanese_sha256": "153f7b6e63040cd227f83d60f5af51734eafc3a85fb23d64bc2fdf684fd0fecc",
+    "final": "잘 잤니？\n오늘도 힘내서 다녀오렴．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00517",
+    "bindings": [
+      "000A0340"
+    ],
+    "source_sha256": "8e5640c7cc7ca401e03c6df2f050f64daedd1a0e5f591d1326d17acc93076254",
+    "japanese_binding": "000A0340",
+    "japanese_sha256": "7e8baefea1ccfe507942c33667b0556c5b89711482712ac66fd108ab308f1c73",
+    "final": "하지만 유감이네．\n내가 먼저 점찍었거든♪%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00524",
+    "bindings": [
+      "000A052C"
+    ],
+    "source_sha256": "778748834f0331cf09ba2d17cc7d4e01d835f777bc6d13500581b5d0a47158bb",
+    "japanese_binding": "000A052C",
+    "japanese_sha256": "d99f13e65050276539819a69fe257f8502abdadb834fa1743f7e7dd83cd20b8a",
+    "final": "%l아，정말！%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00527",
+    "bindings": [
+      "000A0538"
+    ],
+    "source_sha256": "0878391fc8dbae1c8f189c1328218713f0d15893f4d1060eed6f60b7320cd8cd",
+    "japanese_binding": "000A0538",
+    "japanese_sha256": "b2a112c3ea40b9824761c3711cdc378b0a1bfaddabb2d01b292fecb8d22706f4",
+    "final": "%l이런，어쩔 수 없군…\n그렇게 됐으니 미안하네．%k",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00572",
+    "bindings": [
+      "002B2D98"
+    ],
+    "source_sha256": "48dce01d33f55e007418dc6cf00c38f7093533de8a0ffdf293afd726ccbfa624",
+    "japanese_binding": "002B2D98",
+    "japanese_sha256": "b37d1e48f4eff14d723744543df31b5039aeefeccc1d1c2cd3f51ae89dbc7b1f",
+    "final": "토끼 봉제 인형",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00577",
+    "bindings": [
+      "002B2DFC"
+    ],
+    "source_sha256": "f66f5023a9e1291435717a1997e0741bdd71dee8148b396db18603ee1a289f80",
+    "japanese_binding": "002B2DFC",
+    "japanese_sha256": "7404ecf43b7ec807844fbf458a399bda7e51878946b36b96a4cdb98e4ac5c959",
+    "final": "연둣빛의 가벼운 부츠\n전투 시 이동 속도가 상승한다",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00598",
+    "bindings": [
+      "002B2FA0"
+    ],
+    "source_sha256": "4945867681dc9cf7f776da9371ffb44791048d6aeb73af07510c4f481e929aba",
+    "japanese_binding": "002B2FA0",
+    "japanese_sha256": "aef365647553dcd7b68996b3afb4e002b79d13a1764a8b01b3d41ac7ea234b1b",
+    "final": "곰 봉제 인형",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00612",
+    "bindings": [
+      "002B30B8"
+    ],
+    "source_sha256": "f4c12a7f304e7aed9be563586bd6727032cc1146953777638315cdddcad77a45",
+    "japanese_binding": "002B30B8",
+    "japanese_sha256": "2bd2864dacb8a74604e7ea038566bbda10ddb4587a53b633e682e4d50b7142d8",
+    "final": "도시락에 알맞은 요리\n전원의 ＨＰ와 ＴＰ를 ３５％ 회복",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00637",
+    "bindings": [
+      "002B32D4"
+    ],
+    "source_sha256": "33d8fab1d89f3c88d7170f58658289388a521fed21a86af4663105b3c4b932da",
+    "japanese_binding": "002B32D4",
+    "japanese_sha256": "0b93a3f8d764498d2c3e88d2a9740d1538862a4b28161580df5df141ec4c9025",
+    "final": "참치를 속 재료로 넣은 샌드위치\n전원의 ＨＰ와 ＴＰ를 ３０％ 회복",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00639",
+    "bindings": [
+      "002B32FC"
+    ],
+    "source_sha256": "017c3390f9a8a3cb18d108caaf33144e41dafa38e4fffa38b8355f22fee5d784",
+    "japanese_binding": "002B32FC",
+    "japanese_sha256": "8133ebe8386fd12adb9cc4c81b7ca598e6588f628855346f7b21edafe74bc475",
+    "final": "단순하면서도 호화로운 요리\n전원의 ＨＰ를 ６０％ 회복",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00658",
+    "bindings": [
+      "002B34C8"
+    ],
+    "source_sha256": "4c7926559f77b498de2b8ca4cde794101e6ca4ddd1c2dc873c133dfa148d8b03",
+    "japanese_binding": "002B34C8",
+    "japanese_sha256": "9dcbb263f88b41fefa8eacc95fb4c88d34fbd0f48a6a2419813d6558940eb397",
+    "final": "마비를 막는 부적",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00667",
+    "bindings": [
+      "002B357C"
+    ],
+    "source_sha256": "81b76524408d71ea5f3961c93a1b50c5cc3d9511cb4295ff4a1a8f708741f84e",
+    "japanese_binding": "002B357C",
+    "japanese_sha256": "d474039181678dfbb4d26582abfb96f6225ff27818585297e7dfb8869826d8b2",
+    "final": "전문가가 맛있고 안전하게 조리함\n전원의 ＨＰ와 ＴＰ를 ４０％ 회복",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00673",
+    "bindings": [
+      "002B35F4"
+    ],
+    "source_sha256": "1a058ac8d07c03c70ad9c410fa26b61d3d81045a02f4ec033bb0eb417306cee9",
+    "japanese_binding": "002B35F4",
+    "japanese_sha256": "160bd5d16efd2bb1107b77d7c8544037fbc2403a6d2b4e9ab4ff16cd59c66e08",
+    "final": "부적의 일종\n방어력이 ２０％ 상승한다",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00699",
+    "bindings": [
+      "002B3838"
+    ],
+    "source_sha256": "7af8f9b78628c899048929e1eb720c48bc264fb2713282963401028c185ae0ea",
+    "japanese_binding": "002B3838",
+    "japanese_sha256": "f03dce98a0cc28a537bb3ac0cee09a7d8b4a115f06ed6e29b043398f549335e7",
+    "final": "대신 희생하는 조각상\n전투 불능이 되어도 즉시 부활",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00872",
+    "bindings": [
+      "002C54A4"
+    ],
+    "source_sha256": "ea0468a4197ccd15df2b6de16dc766338347556e83824032d917e786a38e0303",
+    "japanese_binding": "002C54A4",
+    "japanese_sha256": "45f5802ab5cf34c2fc31f7e0f4fbf2ff6a4dbbfcdc8dfc18c77c1f19ef2e2ded",
+    "final": "차분하고 온화한 소디언 사용자",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00902",
+    "bindings": [
+      "002C5630"
+    ],
+    "source_sha256": "5fd9f465330d5a4d1db09bc993a10ca060b85e34055366dbca99a236fa06decf",
+    "japanese_binding": "002C5630",
+    "japanese_sha256": "ff0d89a9b27129b209ae2bf63b187e7397ad188334eaeb86c0f1917c1bbe2461",
+    "final": "저항군을 이끄는 거한 ３８세",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00910",
+    "bindings": [
+      "002C5688"
+    ],
+    "source_sha256": "e6d3886deb40361b71b2b205cc5a9afe5e35df96997cf50988511adcddfe4a57",
+    "japanese_binding": "002C5688",
+    "japanese_sha256": "bf54ffa4dd00b8054704c17bc9f7cf6917946b5d0e72c5b376f4437247eea3d2",
+    "final": "과거 기사였던 듯하며 검술은 일류",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00932",
+    "bindings": [
+      "00313928"
+    ],
+    "source_sha256": "e5dc3d1171586fcaa4edcf74eafa9546f528464c7a3030ab97357c9205a81f99",
+    "japanese_binding": "00313928",
+    "japanese_sha256": "21c06062853ba35d56e4c6f4118d5d5f40d2996c0ddba72e9a950b8139c320e9",
+    "final": "아니，나는 그냥…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00934",
+    "bindings": [
+      "00313940"
+    ],
+    "source_sha256": "fd0546ea55557cce232d6a46adbfe935a7a1fef33780e44723b71360ff15dafe",
+    "japanese_binding": "00313940",
+    "japanese_sha256": "8a5b02d1590606dc8cc2fef0a57c7b779fbf95c03d2367d3ec81728c17bd3f95",
+    "final": "그런 녀석은 신경 쓰지 말라고？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00971",
+    "bindings": [
+      "00314124"
+    ],
+    "source_sha256": "25494e7a603467b4a46f168d022b13e1c53ebaa45e846a651f720761945b46f3",
+    "japanese_binding": "00314124",
+    "japanese_sha256": "e07b33af82b68894a78efe565957776a8be70207223da0a82f0ed31384374508",
+    "final": "아，이 옷 말이군요．어？그럼 당신도 여신님이 부르셨나요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D00991",
+    "bindings": [
+      "00314534"
+    ],
+    "source_sha256": "b4bfdad5ea803eba0e043bf1e6fbe8bfbf6ed0aceb563afe3c59fd93f9f2c751",
+    "japanese_binding": "00314534",
+    "japanese_sha256": "ec7832bbaef2c38c6ec2fcb931dbc16f37d1a19bcac1309b2cd8766885066575",
+    "final": "모류의 사랑 도둑『죠니』님에게 노래로 도전하는 거냐？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01000",
+    "bindings": [
+      "003148C0"
+    ],
+    "source_sha256": "29892bc452fa59e5a98ebc41c89ceb3ef67765ad25c19872f5fb2d5057bd25ae",
+    "japanese_binding": "003148C0",
+    "japanese_sha256": "a63a94a07c66384d1d0fcfb13d3d8b36ec21626d861ea70f6712d281b3311f1d",
+    "final": "이거？이건 스토브라는 거다！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01010",
+    "bindings": [
+      "00314960"
+    ],
+    "source_sha256": "89a1b0dc04825cc74d91325b11c14c96ff73b64f326d89678f8b301863b98973",
+    "japanese_binding": "00314960",
+    "japanese_sha256": "4696cfd4375e5946c49d677549cb4c36a48cd9efa20734f69bed606818f79c89",
+    "final": "음，남자아이라는 표현은 정확하지 않군요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01037",
+    "bindings": [
+      "00314E64"
+    ],
+    "source_sha256": "69ddb17af0e8aebf1dc6c61b2eb254bae3fb09dfe0e874b101fcbb267ef469d5",
+    "japanese_binding": "00314E64",
+    "japanese_sha256": "75aa13dd000407e56ca5c581498b0d77f19cf32340fbccff514c8e88a9acd216",
+    "final": "@L너도 잘리고 싶지 않으면 여기 자주 와서 수련해라！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01042",
+    "bindings": [
+      "00315280"
+    ],
+    "source_sha256": "7a2d127d3db0221e22b6a11ca95e1856e8971680c4a1e675962fb0457f3be738",
+    "japanese_binding": "00315280",
+    "japanese_sha256": "c2de597ae0a661c67ae9d9048f0230e3704e2534fd1bdfd545a1bcae046c7ee9",
+    "final": "어제 그쯤에서 그만뒀으면 이긴 채로 끝났을 텐데．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01045",
+    "bindings": [
+      "003152C0"
+    ],
+    "source_sha256": "e295339fad4dae53c56ec1d719eb28ddea0bbcad9dbb93ab9400050af11f9353",
+    "japanese_binding": "003152C0",
+    "japanese_sha256": "91376fff51efa3fd1b20dda61bf305b5341f0fb434bddee2d0c4a2491d0a2cf7",
+    "final": "@L앗，또 술집에서 위스 내기를 하다가 졌죠？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01054",
+    "bindings": [
+      "00315378"
+    ],
+    "source_sha256": "a62427bfa1a07b02fa2ac40cc9101ff9a9f9e21a517bea98f3c6be84f62bfd21",
+    "japanese_binding": "00315378",
+    "japanese_sha256": "618d8fc531cb08b785019f32083ab864794bea3c5713b4beec18c7700a5a8c2d",
+    "final": "히엑～！좀 봐줘요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01065",
+    "bindings": [
+      "00315690",
+      "0034B1F0",
+      "0034B8D4"
+    ],
+    "source_sha256": "eb83311f259f7f218f71f0bc5194ed4ce2dad160175043a265b63c2977ccc30c",
+    "japanese_binding": "00315690",
+    "japanese_sha256": "74b331d041877c1977608cc5921e3e911a03d2cf15aeba3b258e7432d6674ed6",
+    "final": "왜 그러냐？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01103",
+    "bindings": [
+      "00315EDC"
+    ],
+    "source_sha256": "0ca406bd30ba22eb648f65c9caee82934084b3b62db75552010c05419135cd1f",
+    "japanese_binding": "00315EDC",
+    "japanese_sha256": "6ed14c34e65c8d2608baeaf83f3eed8408f2cdc7f4a08ce0a24d0e17cc449174",
+    "final": "@L자，기운이 나는 주문이야．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01104",
+    "bindings": [
+      "00315EE4"
+    ],
+    "source_sha256": "4a40154849f0bc5da70b5d4eb3e2bb96f4748323d7aea50b32a42998ec3d5c22",
+    "japanese_binding": "00315EE4",
+    "japanese_sha256": "bd9890606b87bf16cd9df481f8baa0d89235423d45a42a3d6f565fdc2990b932",
+    "final": "@L수리수리 마수리♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01146",
+    "bindings": [
+      "00316554"
+    ],
+    "source_sha256": "dc2ee87320ce6224b4e4fd4d60785ee57ba2afd0678f600ec51c562b26523782",
+    "japanese_binding": "00316554",
+    "japanese_sha256": "c0b4b25df01f91f86e851bb88a879a5c5ffc97ce56ad8c3824c05f0d99511499",
+    "final": "됐어，됐어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01203",
+    "bindings": [
+      "003173F8"
+    ],
+    "source_sha256": "67e660fc1146db79e23733e725b5d3e87db93b70dbf3dbd004ced2f7bbebac3b",
+    "japanese_binding": "003173F8",
+    "japanese_sha256": "c8a2386dca14b78d75852a97f8b10a1309c4ec57c85308c95e2b067bd582b524",
+    "final": "@L너도 기사라면『행동』으로 보여라！알겠나！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01221",
+    "bindings": [
+      "0031763C"
+    ],
+    "source_sha256": "bdcfb5d501dba79e8058c1b3e3d5bf0eeee85d0edf5539b22b439aa3cc5f7d1b",
+    "japanese_binding": "0031763C",
+    "japanese_sha256": "6b37132c914f9dde739ba9da3ddf61f4a35b279136036ad8d0d55e91bf920543",
+    "final": "이게 있으면 마물의 약점을 조사할 수 있어…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01236",
+    "bindings": [
+      "00317B88"
+    ],
+    "source_sha256": "6fbea3dcd53281f288f005b9450d47ebba2a6488b81cfaee119a5ad2ff8bf882",
+    "japanese_binding": "00317B88",
+    "japanese_sha256": "bceb5c3d4ddad5766c149b68abf95d703944020f5066fdee3dd90ee89f36b702",
+    "final": "@L내가 말려도 듣지 않고，신기하다고 마을 사람들이 찾아가고 있다！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01248",
+    "bindings": [
+      "00317F34"
+    ],
+    "source_sha256": "1543eef985ddf71624c98d4235e6775c8f221217be6502df4341e4e46d0caa2a",
+    "japanese_binding": "00317F34",
+    "japanese_sha256": "78990efb1dad2fba7ab09153f5926c88bab3eba42f9cf26165dc6112a96214b4",
+    "final": "또 평소처럼 이상한 재료로 요리하고 있는 거 아냐？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01301",
+    "bindings": [
+      "0031892C"
+    ],
+    "source_sha256": "5cebb0590ced48f8546ba63b4ffa6702a5c5b2c63efcfda13fd3797af2a0de71",
+    "japanese_binding": "0031892C",
+    "japanese_sha256": "e79bc9733e390278967d151d9049ecdd7a2249e29e122e37e4ea673e79dbe099",
+    "final": "@L웃는 집에 복이 온다잖아！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01315",
+    "bindings": [
+      "00318CBC"
+    ],
+    "source_sha256": "dc60af7280b8cfc6ec78cccb1db680af5cadc0cdeaa58d3b08ac282b0c90e743",
+    "japanese_binding": "00318CBC",
+    "japanese_sha256": "19096bc389e91ba4138459ce39dc3e1d084ddfb51c1952c905e81e2bde526bcd",
+    "final": "아이고，내가 미처 생각을 못 했구먼！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01339",
+    "bindings": [
+      "003190E8"
+    ],
+    "source_sha256": "6c552fbdcb186dc90945b0084a57b61c69c759d98602268064fb53746bd9e6bc",
+    "japanese_binding": "003190E8",
+    "japanese_sha256": "1cc957f0dbaafd1742a837646425054c269ceaa5eeb8f8d7e3735fdd0196ee39",
+    "final": "@L그래서 미안한 마음에 그렇게 열심히 일하신 거라고…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01396",
+    "bindings": [
+      "0031A108"
+    ],
+    "source_sha256": "aa7d0fc57ddadfaef1fc9468e99c7ea34f7588e3dd41050cb229716f49ebd4c7",
+    "japanese_binding": "0031A108",
+    "japanese_sha256": "34d838a8d87e39a69d31a6ab93bc8a38d5ddd2d46923019c1942e5c7082c1e0f",
+    "final": "실은 거기에『뭔가』있거든！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01399",
+    "bindings": [
+      "0031A148"
+    ],
+    "source_sha256": "94cbc0e98d8520b94da28ea8a83b840c16e407e3408f2223635bbd7c063a0d83",
+    "japanese_binding": "0031A148",
+    "japanese_sha256": "15bd4bae5ba0ff52d68ecd50246a3860d8a869bf66d37a26fdf3e462ebb2ee4f",
+    "final": "그럼 뭔데？뜸 들이지 말고 알려 줘～",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01454",
+    "bindings": [
+      "0031ADA8"
+    ],
+    "source_sha256": "e0928c6f00f40497d8b804d81c584cc320096878610cf84681ba8cc3d2ccd778",
+    "japanese_binding": "0031ADA8",
+    "japanese_sha256": "05baeffa4148caca8ef3482796819452cad957f01e68a4e857147a1758d570ae",
+    "final": "@L뭐，어차피 늙은이의 헛소리야．신경 쓰지 않아도 좋아…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01473",
+    "bindings": [
+      "0031B36C"
+    ],
+    "source_sha256": "327d59253fd69969072e4f6d7650b5edb72a87a540cdd49cd929cbdbe0641ade",
+    "japanese_binding": "0031B36C",
+    "japanese_sha256": "e15429777c0515479cdcf29b0b1120c10eb63897ec1a0279868e71df74ecb969",
+    "final": "@L아，하지만 아까 본 금발 장발의 검사님도 포기하기 아까워…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01477",
+    "bindings": [
+      "0031B5E0"
+    ],
+    "source_sha256": "48aa45ea7fb3ad5215f81344d6a520874c1955f67bead8a911f34315d18277c6",
+    "japanese_binding": "0031B5E0",
+    "japanese_sha256": "2cebee7995a14f72ceac651130967b2b7559a4153e249bb5a8a8a040bb4c467b",
+    "final": "아무래도 그 금발 장발의 검사님에게도 애인이 있는 모양이야…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01487",
+    "bindings": [
+      "0031B670"
+    ],
+    "source_sha256": "dcbb4a36f9206d37ef175323f9c4bff12e6435b43022e90b783020856e951a29",
+    "japanese_binding": "0031B670",
+    "japanese_sha256": "10b3f6dd4e8ebc0e3dc9000c9ec602d2159ad05cb21ffa01b115a85028af9f57",
+    "final": "@L고마워，@G！덕분에 마음을 정했어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01566",
+    "bindings": [
+      "0031C66C"
+    ],
+    "source_sha256": "6c6c8c1956a0abdf6ed361c96ed08dc5218f6a81359a03f5b1c4b8c160076d75",
+    "japanese_binding": "0031C66C",
+    "japanese_sha256": "ad83eefb9228d623d2a228f8c3603a4135c551e36817017593d459c7cc70e4e0",
+    "final": "너무해！어째서 그런 일이！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01640",
+    "bindings": [
+      "0031D7EC"
+    ],
+    "source_sha256": "650ce69b3def9084e6460a38979ec22f612c85a9f84f837679d0477b88d3b2a9",
+    "japanese_binding": "0031D7EC",
+    "japanese_sha256": "935b9549cf51db5a6edeff4f175037e1745f9b471166866ed23aec543de51970",
+    "final": "@L앞으로 옷을 만들 때 활용해 주세요～♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01861",
+    "bindings": [
+      "00320F14"
+    ],
+    "source_sha256": "d09509a99923a0afa4611c8a50465c87566b9a48e59c46e38e4f5b32712e754e",
+    "japanese_binding": "00320F14",
+    "japanese_sha256": "1d782fc51538ba41354342f5c8ca4c2b9459fb2ddfb0fa8d96c5b4dd920fe29f",
+    "final": "괜찮아！뭐，아직 부족한 점은 있지만！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01870",
+    "bindings": [
+      "003211AC"
+    ],
+    "source_sha256": "19c5c5607a24a29a798020ce2c7e4946ca4f6ce27a9ae866773dc6ea0b288b29",
+    "japanese_binding": "003211AC",
+    "japanese_sha256": "a3f23ac24afdadc0e60ba38050a9c192e7832053b1dfa63c0a984f28c43e26d0",
+    "final": "요즘 마물 퇴치에 힘쓰고 계신 모양이네요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01871",
+    "bindings": [
+      "003211BC"
+    ],
+    "source_sha256": "716926bf3f8e4468faef2447233ce46053dbc10131c22b5a9d3c7b0266c82874",
+    "japanese_binding": "003211BC",
+    "japanese_sha256": "15fdb2a97578794b19efee7e43a7e16a7d10dbb47cfa9c456b28a2461d0ad04f",
+    "final": "고마워，민트…네가 있으니 다칠 걱정 없이 싸울 수 있어…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01912",
+    "bindings": [
+      "00321B04"
+    ],
+    "source_sha256": "e18f8e682e58502f6035dca374bbff98805a623a24c87cdf96d212e3132c9ecf",
+    "japanese_binding": "00321B04",
+    "japanese_sha256": "a0fed995f9c863154dd7ecce57dcb23cce05559b48be1f80fa94160d926139ca",
+    "final": "그렇지 않아！그런 건 신경 쓰지 마！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01925",
+    "bindings": [
+      "00321F04"
+    ],
+    "source_sha256": "930016510a2f87bd83165ea2004d9366cbcfd1b45999188bc0e48562e61e4876",
+    "japanese_binding": "00321F04",
+    "japanese_sha256": "3ee7754580efb91c4bd922d68c23098fccfab8848866ffbe3400597fbb286a05",
+    "final": "@L공기가 맑고 좋은 곳이야．@P거기서 할아버지，리리스와 함께 살고 있어．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D01933",
+    "bindings": [
+      "00321F74"
+    ],
+    "source_sha256": "82597444741e954d83e3ba5476cc20f8e5bf5ebc12f8c92ed7ed867178d723f9",
+    "japanese_binding": "00321F74",
+    "japanese_sha256": "b909d2ba770271155fbb8e9371586a7af0b06509ada66533343253b08e7c4080",
+    "final": "@L이런 얼굴을 동생에게…@P아미에게 보이면 웃음거리가 되겠지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02210",
+    "bindings": [
+      "00326294"
+    ],
+    "source_sha256": "12fca855c9da2f9b370448d64a978bf5a297ce938b23e32647a0279e9e0f7961",
+    "japanese_binding": "00326294",
+    "japanese_sha256": "e826cba83ab536ecb98871685714d1f55932e26c06189ed72637cbe47ef186f2",
+    "final": "일은 잘 풀리고 있나요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02230",
+    "bindings": [
+      "003265C8"
+    ],
+    "source_sha256": "d63778bae6baa99b3db0038abad0fbc0b3c26f66b5bae4767ad508ee0f748bbd",
+    "japanese_binding": "003265C8",
+    "japanese_sha256": "0c72faf503ed7cbbc2f1ed33d0f513b711fb9738196e65d4c9a2a0bdd770336a",
+    "final": "그렇지，대단하지？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02236",
+    "bindings": [
+      "003267DC"
+    ],
+    "source_sha256": "d271a7fa2b359c8c04749741174b98bdc766433fe2805f66e4ab3204ab5c026f",
+    "japanese_binding": "003267DC",
+    "japanese_sha256": "8bc57fb24be0aab897df149d28cfc17ab8e317f4c3a5679044974f13c500571f",
+    "final": "@L뭐야，여기까지 와서 돈을 세는 거야？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02259",
+    "bindings": [
+      "00326C00"
+    ],
+    "source_sha256": "ceab433d2d6826693307d19d8239ef9e8430fe926f094383780cd9723b3d9fd5",
+    "japanese_binding": "00326C00",
+    "japanese_sha256": "077467b28d7ed495b1892b65350f21c4970aefc0cad6efe02093b03ec362c795",
+    "final": "네가 날 좋아하지 않아도 상관없어…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02267",
+    "bindings": [
+      "00326E50"
+    ],
+    "source_sha256": "4001db6f0f70374700a179c3a64388ae79e20a72040549ba2811776200df84dc",
+    "japanese_binding": "00326E50",
+    "japanese_sha256": "0d994934665d44e014c91dcb37fc5c7e637a630b36e78323ac3f85c6ad01da12",
+    "final": "응，뭐라고，딤로스？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02350",
+    "bindings": [
+      "003282BC"
+    ],
+    "source_sha256": "4bd61ec8dd08d356528b15131ddfbbdb22dc11f854fdfa4f29e53a63aac528f4",
+    "japanese_binding": "003282BC",
+    "japanese_sha256": "0fd660cab923e69150481f26d5ecf3ff9ebc547e3179d1293eeaf464c9a2fbcb",
+    "final": "어떻게 하면 그런 몸매가 될 수 있을까요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02374",
+    "bindings": [
+      "0032887C"
+    ],
+    "source_sha256": "b354d7bb47ced4142aeeb78e1a8a86dd9b461c75d8819c9ee780f11708d9992c",
+    "japanese_binding": "0032887C",
+    "japanese_sha256": "dc35140136d3611046b5570e257ee0e00f6b0ff0c3a377382ced1157d00b4436",
+    "final": "@L뭐，조심해서 나쁠 건 없으니 힘내！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02419",
+    "bindings": [
+      "003292F4"
+    ],
+    "source_sha256": "6249eec1877e84e6f4f860a1fce7266732a4fa64d76cb287336f68c7c091a813",
+    "japanese_binding": "003292F4",
+    "japanese_sha256": "e482e451e05b55accc49b94145de574869de1280092c05f2985bf87f657d10e5",
+    "final": "우후후，말은 바르게 써야죠…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02478",
+    "bindings": [
+      "0032A16C"
+    ],
+    "source_sha256": "5279031e5c0767935e8cde03297a692b77a41f2286469118598ec5ab905e9ca1",
+    "japanese_binding": "0032A16C",
+    "japanese_sha256": "106aa1e9786b825e92b9c9535d236024b888b61dfe3b36cbb51031ae7c4b98ae",
+    "final": "자，다 고쳤어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02541",
+    "bindings": [
+      "0032B010"
+    ],
+    "source_sha256": "0df3ddfb7a32e2fb5cf1a2fa7e7968f43ff84a7e2b4643b24d9fa499c2936b48",
+    "japanese_binding": "0032B010",
+    "japanese_sha256": "8800c223643bd233fba73b728af8411c0e1576dfc62acfed9282540e2ac00900",
+    "final": "@L그걸 깨닫기 전에는 내게 돌아갈 나라는 없어…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02556",
+    "bindings": [
+      "0032B3F0"
+    ],
+    "source_sha256": "2a08b5a28eb3d5ed87581b69afa8f20ff0b2aebb8fa716895285a9c7243f916c",
+    "japanese_binding": "0032B3F0",
+    "japanese_sha256": "3c9695c80db0dd26fd0eb45213a5f0f27930df5003c7ab45155a652e45296351",
+    "final": "@L게다가 네 다리 길이로는 승산도 없다고！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02574",
+    "bindings": [
+      "0032BA90"
+    ],
+    "source_sha256": "513eb4f162f511e5ac5533e0ac8fab188df4ce182a9c88b3f9f5a5417bebad8f",
+    "japanese_binding": "0032BA90",
+    "japanese_sha256": "aa87ed6e2cd0a96d5825eab0b9a4383f07d9944caf9e98a602efd6df8d467c4c",
+    "final": "어떻습니까，손님！제 요리 맛은！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02587",
+    "bindings": [
+      "0032BDAC"
+    ],
+    "source_sha256": "73863ebb9e6bf0e3fd886e0f3e5a360450a2337293f17f26f1ce71d98f6f0b13",
+    "japanese_binding": "0032BDAC",
+    "japanese_sha256": "e14e20a8239b9c2cab06f44e8e2d471714d97583b7b6533a2494cb070ea1c222",
+    "final": "@L어째서 싸움에 몸을 던지시는 겁니까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02605",
+    "bindings": [
+      "0032C080"
+    ],
+    "source_sha256": "ff97e940c48a8f032c236803b7aadb4552e5bd45116754fd5c1342fcc57f0b0c",
+    "japanese_binding": "0032C080",
+    "japanese_sha256": "af5e4364126e200a803a8567ed7cd5cfa865f2fc32637d5be6c72e67fadfc6a5",
+    "final": "@L오히려，뭐든 말할 수 있을 것 같은…언니 같은 느낌이고…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02686",
+    "bindings": [
+      "0032D748"
+    ],
+    "source_sha256": "631d58e77d0e6bc555d72501f05761a715371b6d4617535e436a1a3f9c7b0fea",
+    "japanese_binding": "0032D748",
+    "japanese_sha256": "3d00ba7a441b8239dca99d5838ba2153e36560d596be73b6dd7a9fcc5baf0315",
+    "final": "역시 사랑에는 큐피드의 화살이 필요하죠？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02706",
+    "bindings": [
+      "0032DDD8"
+    ],
+    "source_sha256": "11a1674387ac7f808918138cdc07062600d4419d5e7396df16b608bd60a87265",
+    "japanese_binding": "0032DDD8",
+    "japanese_sha256": "a5c84f6b5ca96f94af86c73cf344a7ad8f0ee6c87b741bc3df945e6c05ba8445",
+    "final": "아！콩맨이다！진짜 멋있어！！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02713",
+    "bindings": [
+      "0032DE18"
+    ],
+    "source_sha256": "09f424e9e213378ca688ca00a2c79c5baca79eb298088bfef1cae1b33a065e6e",
+    "japanese_binding": "0032DE18",
+    "japanese_sha256": "0cce5d2758488395a2785372773a389cb666fb8cb285c702267ad3e15701ea26",
+    "final": "@L마～이，티～ 콩，콩，콩！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02751",
+    "bindings": [
+      "0032E8F8"
+    ],
+    "source_sha256": "65fcde840b272c5dc1aae0d080015f64b2fd69daa363c54435ae9d5c7017fa65",
+    "japanese_binding": "0032E8F8",
+    "japanese_sha256": "9b38791f7855ee86fb8f4b3f8735820344ff846d8250a567842215a633674109",
+    "final": "@L그래서 말인데，@S너에게 이걸 주지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02762",
+    "bindings": [
+      "0032EC2C"
+    ],
+    "source_sha256": "4dd7c1bf0a897586d6552cba42e28d091008cc046de815681ff24a85c7eee634",
+    "japanese_binding": "0032EC2C",
+    "japanese_sha256": "7061c802fd2690545a04319fc03800c8a4c09ed06d770c0dc6370f8e7812ea62",
+    "final": "@L요즘 이 죠니 님을 제쳐 두고，",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02763",
+    "bindings": [
+      "0032EC34"
+    ],
+    "source_sha256": "f04587aa0a405d1c0acf4209a50343c3fcc394d07b92db1ce0886353d0d3b85e",
+    "japanese_binding": "0032EC34",
+    "japanese_sha256": "a7743241b5fb92b6e989168c3fba41d85d9d0998bdc949a8a58edd33aef4aa2e",
+    "final": "마을 여자들의 시선을 한 몸에 받는 것 같던데？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02791",
+    "bindings": [
+      "0032F374"
+    ],
+    "source_sha256": "2086763ca94200c6bad2b2b4c8e20552ced62e39e96aa3bcfd149f6b794db1a8",
+    "japanese_binding": "0032F374",
+    "japanese_sha256": "84ec6b6edac714b31f5a06f62c790b001cce79cb457941f465b19147b5bf8c8e",
+    "final": "호오，꽤 좋은 목소리를 가졌잖아？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02792",
+    "bindings": [
+      "0032F37C"
+    ],
+    "source_sha256": "bb4e232343fbaec8b6b1e50036c090c58bbdec04849e0291240c5a96bb035e2d",
+    "japanese_binding": "0032F37C",
+    "japanese_sha256": "3ed331b51429bb2a7c709c45d27809fa55a6edcde6c8cdd7c41fa0f0e48e9a5c",
+    "final": "@L어때？내가 키워 주는 가수가 되어 볼 생각 없나？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02796",
+    "bindings": [
+      "0032F3CC"
+    ],
+    "source_sha256": "aebfaf1dcb7d88cac4051ec26da5c6ec2aacaee2aa4fe76dfc199296f681dab2",
+    "japanese_binding": "0032F3CC",
+    "japanese_sha256": "3de519395f0f54e4d4e02e64c886b1b6c133317c9bc2e97e9ed8c9adbb4f86c4",
+    "final": "바이바！왜 안 돼？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02820",
+    "bindings": [
+      "0032FA74"
+    ],
+    "source_sha256": "52bc95c2458efefe210d28e4108c49b618b82ad938e3279e3bc1c6384cf1ef2e",
+    "japanese_binding": "0032FA74",
+    "japanese_sha256": "df859e02a674eae614e1a9ef9a1eb18d07505978079c2d591074bdb3e4477dba",
+    "final": "그녀에게는 어딘가 불안한 구석이 있거든…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02821",
+    "bindings": [
+      "0032FA7C"
+    ],
+    "source_sha256": "091a4c7f6f8f4a16b9427995e1f0a6e3eec0e1fa7e2bd0580185e49f7cea9069",
+    "japanese_binding": "0032FA7C",
+    "japanese_sha256": "8dd73eeb8de7812d85861b4cdf0f70f77f74f00cfdf800602e735fc2fa3f32ff",
+    "final": "그걸로는 이유가 안 될까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02843",
+    "bindings": [
+      "00330008"
+    ],
+    "source_sha256": "0dd70b9213b20c71a1862a4191fd13248f27f26d0c3621e8783dadf62149038b",
+    "japanese_binding": "00330008",
+    "japanese_sha256": "1e1ec58cf8e28f032ec5f8520c6b1985ec94451d3ce5c7719f2c627ae07a89a7",
+    "final": "@L자네，꽤 강하다고 들었다！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02881",
+    "bindings": [
+      "003308CC"
+    ],
+    "source_sha256": "a50b43e2c258be09f8f3730b4bd81316bab2713a4d493075466936cc41a86b20",
+    "japanese_binding": "003308CC",
+    "japanese_sha256": "e707de779c329d429a3302067c0ae5ff24c17113d4d21991b26a1360abec2cb2",
+    "final": "그건 혹시…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02936",
+    "bindings": [
+      "00331608"
+    ],
+    "source_sha256": "8abcabad0136508fa0403065e2cc854b33dbf81091d83af5d664afd1963c4eaf",
+    "japanese_binding": "00331608",
+    "japanese_sha256": "c13ff9ec3ff18f54308d16aa641488d95bf41a1ad8e065b6411a6143404f04d2",
+    "final": "맞아，그 애 귀엽지．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02956",
+    "bindings": [
+      "00331C5C"
+    ],
+    "source_sha256": "d30ab596a09c4aa0ff6659d532c9ad8f6cfe89dc4d4d24168feb5202cc3e6e9c",
+    "japanese_binding": "00331C5C",
+    "japanese_sha256": "4ae0651bcd89302a3f0e545c8899af1780f481bef19df66880f3b7669eeb0559",
+    "final": "이거？『라슈안 염색』이라고 해．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02969",
+    "bindings": [
+      "00331F88"
+    ],
+    "source_sha256": "61e79610419591b8594ef224b986b1954e3701edb68850a187b987da4c2436a9",
+    "japanese_binding": "00331F88",
+    "japanese_sha256": "56f2ab682d64fe8b3e3c0beb3bea2ec0c1313d893dd59fab65b569a9931d387c",
+    "final": "@L그『흑수정』에 관해서\n알아낸 게 있어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02980",
+    "bindings": [
+      "00332028"
+    ],
+    "source_sha256": "fb17686c653d5e19010527f5320d9e564110ffc53341b6b9ab795fe72e91928f",
+    "japanese_binding": "00332028",
+    "japanese_sha256": "4b9fe17614d99e456f9680aad090b2a591ea569bf38c1db312d05c77f3c48470",
+    "final": "정말 끔찍한 짓이야！\n사나토스 녀석！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D02987",
+    "bindings": [
+      "0033238C"
+    ],
+    "source_sha256": "1822731c4974410742e14b34336ea8905bab420de805519ccdc7974b31315bf7",
+    "japanese_binding": "0033238C",
+    "japanese_sha256": "033fe07cf9255baf47b6cc6b9bac74934fed41acf7d75fe2f76e4fd7d65abadf",
+    "final": "@L게다가…\n그…걱정되잖아…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03003",
+    "bindings": [
+      "00332710"
+    ],
+    "source_sha256": "7326552d7796f49f806d985abc4c37eed22cec2c99289abeaec033ba59661a54",
+    "japanese_binding": "00332710",
+    "japanese_sha256": "45e8d9502c1c1675a11086a2618ab02ea0d6ab4c79e9cfb4ec6aa558d9809985",
+    "final": "괜찮아．\n부끄러워할 일은 아니잖나…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03022",
+    "bindings": [
+      "00332A84"
+    ],
+    "source_sha256": "10aeae4d4f82de9d2ed3b630991d327590d8946653b116c92c07383b3adecc93",
+    "japanese_binding": "00332A84",
+    "japanese_sha256": "e5d36b09ef9ee82f59c55e95b43779cf523964b4c29209177c43dfc133e16df4",
+    "final": "@L그래，이걸 가져가렴．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03028",
+    "bindings": [
+      "00332AC4"
+    ],
+    "source_sha256": "1544f5fd2118253f81f0d53ce871db363348db0145131ab48a5bf3b443ff02bc",
+    "japanese_binding": "00332AC4",
+    "japanese_sha256": "50fd6aff48042ce2dfb86acf1435d7285d58ba22fbb2caac7bffda35a7687b58",
+    "final": "@L그럼，자세히 설명하자면…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03046",
+    "bindings": [
+      "00333218"
+    ],
+    "source_sha256": "167bbaad461b1f6a829eb0ec4bafbd858ecc5d2a68dd206c1133749b62242565",
+    "japanese_binding": "00333218",
+    "japanese_sha256": "bf17e76b1f5e22bcb927c8b6f579584af44f8cfe4754b2c9474db3822fa6d10c",
+    "final": "그，그런 건가？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03048",
+    "bindings": [
+      "00333228"
+    ],
+    "source_sha256": "26384468e0dcd1fd254f31f4543b91e46f76a9d18986db5d4c94eb25c8df970b",
+    "japanese_binding": "00333228",
+    "japanese_sha256": "8f8058b3b04195a9c19bdb86b4a3257aa332aa5c9db6c773408e8674dd3a229d",
+    "final": "좋다…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03056",
+    "bindings": [
+      "003332A0"
+    ],
+    "source_sha256": "3d4ece4326e0a1d18c320bc9d01c69e470d3658df4301b2e760f606d5757d5ec",
+    "japanese_binding": "003332A0",
+    "japanese_sha256": "0cfe5914f10c7db4719b97ad4004e6001ba61e6d85a81bbee103e6c809b15f83",
+    "final": "그렇지？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03078",
+    "bindings": [
+      "0033398C"
+    ],
+    "source_sha256": "af5faf94ab39774806a8c3017218aa77d94e8cb63d9fceda0e3c81af5fb426db",
+    "japanese_binding": "0033398C",
+    "japanese_sha256": "8c7ff72c02ab63147655d6407497d54f3f1fc4abb14b9aeeac893313f900a08f",
+    "final": "바이바！그런 건 안 나와～",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03086",
+    "bindings": [
+      "00333C4C"
+    ],
+    "source_sha256": "e45a967af3eb1d35d0d22b6810bf5803f7cc137297220103e5bd0610d508d284",
+    "japanese_binding": "00333C4C",
+    "japanese_sha256": "d38f77bb4aaafca55b94a4eb377ba5daadee31ee3ac8bd87aa9c6d3124e1a881",
+    "final": "안 돼？킬…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03104",
+    "bindings": [
+      "00333FB0"
+    ],
+    "source_sha256": "8694ee7195c7c6c6ff5d78d45eeb20fba073e2cb97b03b20dc22fa102b54f6eb",
+    "japanese_binding": "00333FB0",
+    "japanese_sha256": "e751162dceff93b579f3d334e6a30fad8d00bf7a27b0f4f436ec872da5bafd0f",
+    "final": "@L그렇지，메르디？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03112",
+    "bindings": [
+      "003342EC"
+    ],
+    "source_sha256": "2e4000f0bedf163ee0190ae28755a1f09a81a27d099b1a648581b6883980b21b",
+    "japanese_binding": "003342EC",
+    "japanese_sha256": "dcbd9185ef8695f8d216a3b48db82f570464b511f3d332486521949cfa4b69c6",
+    "final": "@L퀵키는 @G 좋아하나 봐．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03120",
+    "bindings": [
+      "00334540"
+    ],
+    "source_sha256": "9d58757fc86240775d9814d484ff811d9df16288968bc58ce2ecc76266fd37fd",
+    "japanese_binding": "00334540",
+    "japanese_sha256": "31d0a1a2d3eab693ea7970ba63b7504968a55643a1da6e9c1c61e8c8d50e551a",
+    "final": "@L지금이라면 제 반엘티아호 갑판에 태워 드리죠！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03135",
+    "bindings": [
+      "00334838"
+    ],
+    "source_sha256": "41d28ce78a790b9b281cb82ff8cef6e8a784d9cd96d39cd9349dc725f639130c",
+    "japanese_binding": "00334838",
+    "japanese_sha256": "5794c3068a2c49ace554a0e75289e4c9d5dd1d1f80f93cca1b1a93ab11fb6774",
+    "final": "그런 말씀을 하셔도 말이죠…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03155",
+    "bindings": [
+      "00334E6C"
+    ],
+    "source_sha256": "20aacd6588b4c3194d0c368f631a5a5b100c65d6cc409680ccb05546c2bfe9c0",
+    "japanese_binding": "00334E6C",
+    "japanese_sha256": "6f44cd7bfc8b5aac4ef85f20eb4f50307199d4ee5f426149a3580e59f00381a6",
+    "final": "당연하지！\n이거야，한번 봐라！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03161",
+    "bindings": [
+      "00334EDC"
+    ],
+    "source_sha256": "e8d8210528977969dabeb661aa132343ced17a4d5d86fa6faabd61ad41478017",
+    "japanese_binding": "00334EDC",
+    "japanese_sha256": "9f47daf2080ced054e16adae4f049663736043fbaf4bdc4b9a875e8d84440c57",
+    "final": "이건 뭐야？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03209",
+    "bindings": [
+      "00335B54"
+    ],
+    "source_sha256": "ad3b71a96e15ab4b6c11cd33eeb32e6470d77cada1f53ef71264c29ffe64e000",
+    "japanese_binding": "00335B54",
+    "japanese_sha256": "2fb65e7743993266dfb5c72ce8a66d47cb5b85bff210b958edf94fb6a9fa621e",
+    "final": "뭐，우정의 증표로 이걸 주마！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03218",
+    "bindings": [
+      "00335E24"
+    ],
+    "source_sha256": "d1613239beb60a23f85d57740caedfd7c2c67b2b50029c68073571cc5e7099b4",
+    "japanese_binding": "00335E24",
+    "japanese_sha256": "efef495006777c42c7b92279f85861cd98c2710c51b2eff38ff9676d76038033",
+    "final": "그래，그런데？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03234",
+    "bindings": [
+      "00335F04"
+    ],
+    "source_sha256": "3a08d56ce33cc4d6be5cbe11c39b69df105064a9e7c395a64f45e49dfafdc765",
+    "japanese_binding": "00335F04",
+    "japanese_sha256": "baf38a6c84438c83e1d38d095bb7b19911a098acb83a102e5f4d3e98c0fe63a8",
+    "final": "@L검술도 비슷하게 익혔지．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03292",
+    "bindings": [
+      "00336F7C"
+    ],
+    "source_sha256": "7fc6aa7f29fff01e85ebe9426f65173a21719471b73cc1c1debf3080cb87abe0",
+    "japanese_binding": "00336F7C",
+    "japanese_sha256": "bab951f2633d31bf1eef79ce74bdb200ba7d79ecae92651c972c2e78b247f8c8",
+    "final": "그렇게 비싸 보이는 검은 저희가 살 수 없어요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03299",
+    "bindings": [
+      "00336FF4"
+    ],
+    "source_sha256": "87bb60a93177773f9219c6c71c21a15f23018d1deb57ab3b61e33b92d2b8a7ea",
+    "japanese_binding": "00336FF4",
+    "japanese_sha256": "b90483bb6c43396b03913a04ec5656465fd94b16d99b3cdc5bd05de62fda4b27",
+    "final": "정말 괜찮으세요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03343",
+    "bindings": [
+      "003379FC"
+    ],
+    "source_sha256": "470f5bce28952b5b1f44c82dec7c520b36286a7af42039a326ec0177535603fb",
+    "japanese_binding": "003379FC",
+    "japanese_sha256": "19d2bf9d6bafae512d06d38b26c3ffb30cccb72540727174d6128be1918a88ea",
+    "final": "꼭，실험 대상으로…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03370",
+    "bindings": [
+      "003385C0"
+    ],
+    "source_sha256": "314d6848ae017554a1341bfae99de540962041db6d2fb2112a79ba6da89da2ed",
+    "japanese_binding": "003385C0",
+    "japanese_sha256": "2550357bf0ccbf2a0f70130bac4cf08834857a9dbcbb1f7bb1ff57fffa00a3af",
+    "final": "몇 번을 와도 똑같아！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03371",
+    "bindings": [
+      "003385C8"
+    ],
+    "source_sha256": "32b1a9cd0f86d6dad0b540d126ed4f97d8099a7b777f028b225019c580f64f39",
+    "japanese_binding": "003385C8",
+    "japanese_sha256": "4f4ad2b5304e33934652f4e77be70da89dcdaa27fd6812ec575f1dc5cd9b0768",
+    "final": "덤벼 봐！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03373",
+    "bindings": [
+      "003386B8"
+    ],
+    "source_sha256": "a7bda3b31becaf5ed40e5e3ee0dc145fb555a9ef026388aec2e1a939d3fb7352",
+    "japanese_binding": "003386B8",
+    "japanese_sha256": "9b6cdf48891db7fb2c24ff69fe4d73ce2eb06912f9973706a82a2b4bf9b94532",
+    "final": "@L갈드도 없고，배고파 죽을 것 같았단 말이야…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03402",
+    "bindings": [
+      "00338D0C"
+    ],
+    "source_sha256": "5247f862f0c270054500961fe024eada7e4e4809857bb4858f7f541b681b445d",
+    "japanese_binding": "00338D0C",
+    "japanese_sha256": "4072c52bed0e770fa7e920a8ec9d6fd5cceb8437457c0c9e5ce85d3027ef5ac1",
+    "final": "…그래，그럼 봐주지 않겠어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03455",
+    "bindings": [
+      "00339EFC"
+    ],
+    "source_sha256": "d48eac6372d25cda0ace8559a15731b12fd17518d5e9cf613c88ed91b691ca67",
+    "japanese_binding": "00339EFC",
+    "japanese_sha256": "7936eb71bff03adbfd494f8db8b5b47836edd4901fa7a5d6cdedd184b30dd823",
+    "final": "어머，큰일이네요！\n제게 맡겨 주세요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03503",
+    "bindings": [
+      "0033A64C"
+    ],
+    "source_sha256": "9351c03d61b183ad300609900fd05a273ff9ecf189cd905566585277d9df622d",
+    "japanese_binding": "0033A64C",
+    "japanese_sha256": "91bdd57cbe3e522776a9a3fd10256593773cf92c3cac137f611878c8bcf6dcad",
+    "final": "@L우리도 리드 일행과 함께 여신에 의해 이 세계로 소환됐어．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03528",
+    "bindings": [
+      "0033B008"
+    ],
+    "source_sha256": "6f1f73e0781c4c5953f61ce2ba1ba2571a3abc8b284f303da6b3159caae68426",
+    "japanese_binding": "0033B008",
+    "japanese_sha256": "cb649a6b76674c146232ba68d5029fab88202a1f5d0ac857a689c57b1c4228f4",
+    "final": "잠깐！너희들！가련한 미소녀에게 뭐 하는 거야！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03536",
+    "bindings": [
+      "0033B2C8",
+      "0033B3E4"
+    ],
+    "source_sha256": "e5aaf811418b4433da09007b925b8e50def5b186d641470872aa4ca3445beb70",
+    "japanese_binding": "0033B2C8",
+    "japanese_sha256": "c9caa7e08cb745d72d7c92ca86a8e99c72ee8618b31d2d034091759ec3391474",
+    "final": "뭐，『꼬마』치고는 잘했네！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03551",
+    "bindings": [
+      "0033B650"
+    ],
+    "source_sha256": "5ba3738b6b1ac1934c41886ebf16215159fc2b80fe88607d2f957a32e51c7040",
+    "japanese_binding": "0033B650",
+    "japanese_sha256": "f3eb05622055d04a11846612652e7756cccb62c94e671e192dc9f055663a3bc2",
+    "final": "응，어쩐지 말이야…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03581",
+    "bindings": [
+      "0033BF58"
+    ],
+    "source_sha256": "1a5c40ca5824a2acb103e0dc0d18be21d35b5111bcabdbf72fefc7250ea15eda",
+    "japanese_binding": "0033BF58",
+    "japanese_sha256": "47d7ea8a509f101b927f37632c5a8e60be1bf187c5f24d936b2666d3b7de7004",
+    "final": "이 세계에서 태어나 우리를 믿는 자가 필요해요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03619",
+    "bindings": [
+      "0033C86C"
+    ],
+    "source_sha256": "3653576fffdab2fdc8bfa02309bd5584bf5bb39b404e114d12711e219d0c4192",
+    "japanese_binding": "0033C86C",
+    "japanese_sha256": "047b465aa3616418e2b26c8eba84f21dbfc8f65a9d71845ed1c28feacf23d982",
+    "final": "여긴 아무도 없어서 쓸쓸하네…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03635",
+    "bindings": [
+      "0033CC34"
+    ],
+    "source_sha256": "99a516f5b6fc077b805bf8ca79ed1bbb92095ae2c895046b90cd4eb67b697b5a",
+    "japanese_binding": "0033CC34",
+    "japanese_sha256": "a8f9f62abb95930d8deacf166ae1b3b847f5acb630afa70417d8af67245352a5",
+    "final": "죄，죄송해요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03655",
+    "bindings": [
+      "0033CE44"
+    ],
+    "source_sha256": "d0a86f0356cef67faa8d566f6f1f87ff4816c0ae85eba94fabf9cadde42a8ce4",
+    "japanese_binding": "0033CE44",
+    "japanese_sha256": "5cd78657dcec02dd409e7998bbd49789f54bd13bf8b2e482bbd1dd177ad76011",
+    "final": "마물의 세력이 커지면서，그 때문에 세계수의 힘도 계속 약해지고 있어요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03662",
+    "bindings": [
+      "0033CF24"
+    ],
+    "source_sha256": "4657899205867ea08c4dd434e072d7864efab310b34c207a4ba0d095c6b77225",
+    "japanese_binding": "0033CF24",
+    "japanese_sha256": "7a71ecb4d42e64962ab71460421fa2ce2d6783cdea1457bedde7a2cb43772d03",
+    "final": "할게！하겠어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03732",
+    "bindings": [
+      "0033E588"
+    ],
+    "source_sha256": "f68a8b4b8dc047bfc568a11d2c27ff33012e257130ca23ee9f10e6ffbc6fa04b",
+    "japanese_binding": "0033E588",
+    "japanese_sha256": "b1948f2243bcbf3bb60efe2cd8d527905aee4d12cdca1168d770b7827da64d31",
+    "final": "응，세계가 이렇게 된 건 인간 탓이라더군…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03754",
+    "bindings": [
+      "0033E7B8"
+    ],
+    "source_sha256": "a5811003687942011b37c3733445351f36c45eb2e90478809a0a4cea017b7a3f",
+    "japanese_binding": "0033E7B8",
+    "japanese_sha256": "f387f356e25b9fdfb156e245ca1a4ff6c72b1e8452ae12ef56e30aff30ac1c64",
+    "final": "@L그러기 위해서라도…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03796",
+    "bindings": [
+      "0033EB48"
+    ],
+    "source_sha256": "afed606230d18daded64d1f1b2cb44f2773375d9100028f51e1ca3f23c4d8147",
+    "japanese_binding": "0033EB48",
+    "japanese_sha256": "a6df0b84674caf09ca7ee2cfe22f84d5770805e6c37edb0417f85ca87a0225c2",
+    "final": "@L그래…그때와 똑같이…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03857",
+    "bindings": [
+      "003400F8"
+    ],
+    "source_sha256": "dd17e1c131fbc1e16a64d2508c970d0d73d986725f49176091e4585f3997bfec",
+    "japanese_binding": "003400F8",
+    "japanese_sha256": "4c25a0d7752fea23bf6259124202ebe8b1ca049c749a3edfa5b9715205d8deb0",
+    "final": "저 아이가 어머니의 사랑을 바란 마음도 이해할 것 같아요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03892",
+    "bindings": [
+      "00340660"
+    ],
+    "source_sha256": "c64ce49a5c2712888dfebbb1c666f917b2a16c3f0112e8b1f4f1250eb201de11",
+    "japanese_binding": "00340660",
+    "japanese_sha256": "4c8d6239ad2a37e0a3a170d30e443bffac1a6ce9c192d2160fc5007e29130bca",
+    "final": "그건 그때…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03902",
+    "bindings": [
+      "00340748"
+    ],
+    "source_sha256": "6715f910a3c025fce13a01e98f6d6e23d47dd0dd3c3bd4c5674409200786f72c",
+    "japanese_binding": "00340748",
+    "japanese_sha256": "cdb60fa8f9f8e1468400ed9ee59911f0000bac4ec9d2ba49c1e44d7cf508415b",
+    "final": "그런데 왠지 큰일이 됐네…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03904",
+    "bindings": [
+      "00340770"
+    ],
+    "source_sha256": "b5b3027fb48d164ce9a2180e14c5b3b47d8492e29e4a06f6f73e68f2e259f42a",
+    "japanese_binding": "00340770",
+    "japanese_sha256": "650a8a2adc2cfac8df2da6947a697f9962cb76b020ec2ff80913b01e7445ea14",
+    "final": "응，그러게…모두가 만들어 갈 세계라…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03905",
+    "bindings": [
+      "00340780"
+    ],
+    "source_sha256": "02bbb47a4e3b826c8599531c2995c047896b7e53bbcfaf40f1791491d23fe683",
+    "japanese_binding": "00340780",
+    "japanese_sha256": "802a3661288330edaaae8b2ad793dd4aa456488a35398c66d878259c559c3c7e",
+    "final": "@L괜찮아요．여러분이라면 할 수 있어요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03908",
+    "bindings": [
+      "00340798"
+    ],
+    "source_sha256": "977a9d01ed71ef8ed4409ef14d816e01dca4e0889c6b3962e3aa394f771c4652",
+    "japanese_binding": "00340798",
+    "japanese_sha256": "9b75121ce8346802a3ce8b75fb2561edb20bd3d3451ae1ec2f12dcdefa589c87",
+    "final": "지금의 여러분이라면 어려울 게 없어요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03930",
+    "bindings": [
+      "00341124"
+    ],
+    "source_sha256": "9b80abe307e9dcad14ede0becd1d63a6b81eee3100d80960ff741c8ffbcf55c0",
+    "japanese_binding": "00341124",
+    "japanese_sha256": "5f9c0c3fa747ed573ab8066e1a8f794538229dec9d81afafd2e37a3257673b15",
+    "final": "동료…동료라…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03971",
+    "bindings": [
+      "003418A4"
+    ],
+    "source_sha256": "8ce93c1cf044f3c0543982b821a16af3f0b49d9c5f6356d0f1c8744dc7c8b9e6",
+    "japanese_binding": "003418A4",
+    "japanese_sha256": "a93e95f5e91c19d17acd88a5ec26c6cd9f72031371ac0b67bd7fa5dc50da327f",
+    "final": "헤헤，괜찮아！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03975",
+    "bindings": [
+      "003418C4"
+    ],
+    "source_sha256": "a092be9a14bfef5fa8737b9744c7b164064297fccee6eafe17331ada74bdc583",
+    "japanese_binding": "003418C4",
+    "japanese_sha256": "8dee68b91c8c446dc26c6783286fdc25d83a9f8cf2eefbc067acec9b4d3c2946",
+    "final": "@L제가 함께하면\n이젠 방해가 될지도 모르겠어요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03978",
+    "bindings": [
+      "003418FC"
+    ],
+    "source_sha256": "d4b914d122f1054b849f5071c85466f4a9b94d8f6ccb5d4186c05245653ba06f",
+    "japanese_binding": "003418FC",
+    "japanese_sha256": "96476ece12efd364f86a5621bf4d88605e3d6338155204d6c63be1c33bea3d75",
+    "final": "그렇게 말씀해 주시니 기뻐요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03980",
+    "bindings": [
+      "00341914"
+    ],
+    "source_sha256": "452ba67595b7cd6cfe916b323795602b88c09d2de26291fbc71760723ddc5881",
+    "japanese_binding": "00341914",
+    "japanese_sha256": "1a83cabbed98b4d59e95bdb15c1f9e36f3f5bc51cefa030d0a8703e270ee142b",
+    "final": "또 다른 기회에\n함께할 일이 있겠죠．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D03985",
+    "bindings": [
+      "00342094"
+    ],
+    "source_sha256": "4889d587ffc1e94731fe5cc1fc8c0e0c0bfb46dbf579c6413995cf15de1a55d2",
+    "japanese_binding": "00342094",
+    "japanese_sha256": "1c019df0d8b2ec15a8a7b5de5bbf798c19380e7fbb9ee1ae4efb3b7abdcab32a",
+    "final": "무슨 일이야，리드…？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04000",
+    "bindings": [
+      "00342274"
+    ],
+    "source_sha256": "f39f8057a41c809aa12c6f8635ffe236c847aacdf59bbecacb69e6b624729b37",
+    "japanese_binding": "00342274",
+    "japanese_sha256": "0a19c6a510c4377007357ef4c340c5cd4e4813fe1efb4a30523a1984d01e6093",
+    "final": "@L이 녀석은 그 크레스라는 놈보다 조종하기 쉬웠어．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04002",
+    "bindings": [
+      "0034228C"
+    ],
+    "source_sha256": "431bfb1f447247782488d23c95b2b5440c86b6d941b77c2d4f32c91f712709f0",
+    "japanese_binding": "0034228C",
+    "japanese_sha256": "f1ffd57b866e7e69a20d7966330e4bf8574dcacc964921f2664f72f5e7d8dbac",
+    "final": "어이쿠，그건 틀렸어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04026",
+    "bindings": [
+      "003423DC"
+    ],
+    "source_sha256": "18ee41db4ee8a4cdc45ef301938c4f16f1ff589dbf6f71f63c22242d4c66c6bb",
+    "japanese_binding": "003423DC",
+    "japanese_sha256": "ef92a35b8bd69ed8271d42ec93ab00a2e9f61a276361151a194048a477584a19",
+    "final": "그럼 짊어져 봐！\n나와 똑같은 고통을！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04038",
+    "bindings": [
+      "0034249C"
+    ],
+    "source_sha256": "99c804f04994f42fe47074fbe5e7240acace86c78be05b55179a002572910788",
+    "japanese_binding": "0034249C",
+    "japanese_sha256": "3dbad94be6ddb48351e0251595512d93ce5d121a43d296a6ef5220509021965e",
+    "final": "맡겨 둬！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04047",
+    "bindings": [
+      "00342DC4"
+    ],
+    "source_sha256": "37e5378a557ab3c71404ba439c57e6ca20fd21731539f53e3a62a10e89e5d6e0",
+    "japanese_binding": "00342DC4",
+    "japanese_sha256": "8cf8f10b62ec08aa9e76910326b75dfd5d9b5370d39918f63dd09344848c5f76",
+    "final": "다른 누구도 널 용서하지 않더라도，나는 널 용서할 거야！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04051",
+    "bindings": [
+      "00342E3C"
+    ],
+    "source_sha256": "fe488e6172e4c8354ac91f0f2ed5ef12342ae72b82a96b6b9accbdb73ba02cab",
+    "japanese_binding": "00342E3C",
+    "japanese_sha256": "db6f45648f3ead05f561eaeefe7295289df7cfaddde55caa58d50fd5d04dc35c",
+    "final": "그나저나 사나토스라는 녀석，\n용서 못 해！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04052",
+    "bindings": [
+      "00342E4C"
+    ],
+    "source_sha256": "83080a088337b8339016b2e6eafceb9d9f7088dd609f72f6218c58f8fc3eed31",
+    "japanese_binding": "00342E4C",
+    "japanese_sha256": "55d5495cb37ddfd30021d289782272aea6ba8226f89eb8ac74503a8a2f8d1f1a",
+    "final": "그러게…\n그런 끔찍한 짓을 하다니…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04056",
+    "bindings": [
+      "00342E74"
+    ],
+    "source_sha256": "413734c5f2b9687d141f7282fe4cdc016abec99ef02f9374f74d91a9dc65d6fb",
+    "japanese_binding": "00342E74",
+    "japanese_sha256": "d1b5ca323db37d2c741b668ce1e4f45c59d8b1dfa2cadd007d8568b4a9521cef",
+    "final": "응…\n앞으로도 방심할 수 없겠어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04057",
+    "bindings": [
+      "00342E7C"
+    ],
+    "source_sha256": "81c0be6fa83b0b6179a287de438609eaef5dda9f59a7ae2c2297241c94983cf9",
+    "japanese_binding": "00342E7C",
+    "japanese_sha256": "47f2d7bb80f697a95b4f41eca28a3c21f42a7f4f4fdd222dd606bd7144f6cb6d",
+    "final": "맞아！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04071",
+    "bindings": [
+      "003432E4"
+    ],
+    "source_sha256": "b2b74e2114ec5a24dc19b579b387ca2d7914f920d599fa47e53e1571f72301fd",
+    "japanese_binding": "003432E4",
+    "japanese_sha256": "05ccfc0a00d72570b49a43ad98ae3c34a3c8963320a3faf7616f892b9c4fb32e",
+    "final": "이런，이런？왜 화를 내？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04079",
+    "bindings": [
+      "0034333C"
+    ],
+    "source_sha256": "a9d47b1a5c8e5817d84680cef5b7c639c55f41b0e02f596bce09093504b5a8bd",
+    "japanese_binding": "0034333C",
+    "japanese_sha256": "b2402c93546acbdd78d3794ae39daf95a960f5de3a1b6fddd1894f8fa8865c3e",
+    "final": "뭐，그 대가로 마음 없는 마물이 되지만…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04134",
+    "bindings": [
+      "003443A4"
+    ],
+    "source_sha256": "e67c03dc38c9e61328e02a362b05b90c5ca6959ae92f6eb6f113fb33625b6229",
+    "japanese_binding": "003443A4",
+    "japanese_sha256": "46e96447dcba3a1125ce8493c76592308431c83f50eb38d374d42c699c9bc871",
+    "final": "@L그렇지？@S마리안…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04148",
+    "bindings": [
+      "0034448C"
+    ],
+    "source_sha256": "87a3686bbb17b10b09f5daf77ed8c15224fd7cd2b54fa8b2e53b8a50be62e09b",
+    "japanese_binding": "0034448C",
+    "japanese_sha256": "3ffb007fc8292ed9f7d2e0f4c7a34792190e77494498c303e44a775fe9defc4e",
+    "final": "옛날부터 그러잖아？\n싸울수록 정든다고．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04156",
+    "bindings": [
+      "00344914"
+    ],
+    "source_sha256": "46dba8adfc8c488c8e286fdbd29ac6029ca1af354d78ff120ca17ee501a06142",
+    "japanese_binding": "00344914",
+    "japanese_sha256": "3aa6d3c7b7c831c523a4cb4bc82a99f0cd2abb524b7a780cba99c9966a0739c0",
+    "final": "@L뭐，좋아．이 녀석들 정도는 상대할 수 있어…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04200",
+    "bindings": [
+      "003452D0"
+    ],
+    "source_sha256": "8434ef80938210be3f9a039055e687373b3d378a7d95d85b97e3ec9bdd5e18dc",
+    "japanese_binding": "003452D0",
+    "japanese_sha256": "8ff20cd7b06b24944840de6a1c55739eb3c9d341cae16840108b37d9de265dec",
+    "final": "여러분께 진실을 알려 드릴 때가 된 것 같아요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04211",
+    "bindings": [
+      "003453B8"
+    ],
+    "source_sha256": "17a708b2641be58aff9e439ccb1cfca22e7a35228716d88cd6f327d372403622",
+    "japanese_binding": "003453B8",
+    "japanese_sha256": "9f5f905f7f7250b1d293f778cdeaecf6fb434e4966ab5c4ed3f89d085ca41693",
+    "final": "장로님이 말씀하신…여신님과 싸웠다는 그 용…？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04212",
+    "bindings": [
+      "003453C0"
+    ],
+    "source_sha256": "52ddaa70fa381743c04cdb6510cf299e8a2f184b52a32cd3b2f49ca9fb86959e",
+    "japanese_binding": "003453C0",
+    "japanese_sha256": "f9820fa2d7ad15d14682ec8503b4e05073c70342e7db996c6ab08cfc8c5101d5",
+    "final": "하지만 우리가 본 사나토스는 그런 모습이 아니었는데…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04226",
+    "bindings": [
+      "00345440"
+    ],
+    "source_sha256": "70a40fbf4ea47e395a199f3fe10767783ff3a4388082b6cc2d8f5ff3b34377ec",
+    "japanese_binding": "00345440",
+    "japanese_sha256": "c0acec470951cafede5657a85aea273c949a896bcc6c6ebf06eaac265e2e5599",
+    "final": "잠깐만！용은 애초에 어떤 존재야？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04228",
+    "bindings": [
+      "00345450"
+    ],
+    "source_sha256": "98b0771eee020cea909e734552bc2d4353962578c87111812470cf69e317f856",
+    "japanese_binding": "00345450",
+    "japanese_sha256": "e99f410552d68eb134a3659095414e7ee9bf51d2df3a521931897d4d71852368",
+    "final": "@L괜찮겠어요？차라리 모르는 편이 나을지도 몰라요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04236",
+    "bindings": [
+      "003454A0"
+    ],
+    "source_sha256": "1f3e5afa891eade7a069477656978175cf1ec3c427bf463fbaff73aaec3ec531",
+    "japanese_binding": "003454A0",
+    "japanese_sha256": "5dc294e7f51c2a3c34d73aa38b00fea4680491c46d52c140147b763d323b67de",
+    "final": "음，그게 무슨 뜻이야？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04257",
+    "bindings": [
+      "00345570"
+    ],
+    "source_sha256": "d41d93d94738a249abdc7b278b15d831627de970e6ce41dbc6bb774b65095ed3",
+    "japanese_binding": "00345570",
+    "japanese_sha256": "7974fa5b6440bb52d984bd4f93505dffcdb3789ccb9fd28a187ee42d9c8d84b6",
+    "final": "그럴 수가…인간이…수호 정령을 바꿔 버렸다니…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04280",
+    "bindings": [
+      "00345680"
+    ],
+    "source_sha256": "1221906375496bdcbfb7dae8367d296a87ea1a8b1a432c0271f8756bef53a20c",
+    "japanese_binding": "00345680",
+    "japanese_sha256": "0cee856f7f4e052931831e2495e22cf7eb304948a7c1cb6e4fbfb058f2181b9b",
+    "final": "용사들은 언제나 여러분을 지켜보고 있어요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04286",
+    "bindings": [
+      "00346504"
+    ],
+    "source_sha256": "2c610d20e812260d42fe829cace6411a435b2857ef1098caa51b568f3b368e2e",
+    "japanese_binding": "00346504",
+    "japanese_sha256": "d9e7049e5f8ad60e6d2d7550495d25f6df58922d3227ef0746e468f59fe73024",
+    "final": "@L밀 수녀님도 걱정하고 계실 게야…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04297",
+    "bindings": [
+      "00346750"
+    ],
+    "source_sha256": "745099f3ab37cb7b115d4d550761c49e44c3a0f1ef20d2924840833ecb2994d7",
+    "japanese_binding": "00346750",
+    "japanese_sha256": "3065b95e13f984aefe28a4363bac42ca2cea5853bd972c22ba002040f03b2b17",
+    "final": "@L다음에는 뭘 하고 놀까…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04307",
+    "bindings": [
+      "003469A4"
+    ],
+    "source_sha256": "1c55c5b70d48a990caa62c8f950e238314b16e0112a2bec480f1b27022dbec0a",
+    "japanese_binding": "003469A4",
+    "japanese_sha256": "ea495e41854261ef21e5d4065e54437aa14cdb4a660a7969f6f5fece421206a8",
+    "final": "@L화났어？\n있지，뭐라도 말해 줘…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04327",
+    "bindings": [
+      "00347010"
+    ],
+    "source_sha256": "e937b65216f322efff4871a61868976941d82ee748decf20c6ab4ed6eb106ab2",
+    "japanese_binding": "00347010",
+    "japanese_sha256": "44bfe2ffbfdd104ef58211aec5e0b2d1f6f609ed3baf3b8a38ed11b92f0206de",
+    "final": "일단 마을로 돌아오긴 했는데，이제 어쩌지…？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04337",
+    "bindings": [
+      "003470D0"
+    ],
+    "source_sha256": "334c9a5bd9719165c09eed12e38b7fd25d1cc9e40eff34081dd29afd1231e332",
+    "japanese_binding": "003470D0",
+    "japanese_sha256": "3a3d4d4101fa3a70caf222702ac43d07ba4e5d4363bdcbbd354500b2d0b0d7be",
+    "final": "@L그리고 여신님이 소환한 동료를 만나면，",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04352",
+    "bindings": [
+      "003474C8"
+    ],
+    "source_sha256": "ed7ad239697d0e4ec19fb2e7cb6ada7fd8d1902d428091592916cd2051d4bb33",
+    "japanese_binding": "003474C8",
+    "japanese_sha256": "f3573a3e00fd7a7f9d599760b7ced040af6afecef7b040702145d28d60a35748",
+    "final": "저녁 준비할 때는 돌아올게，형！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04357",
+    "bindings": [
+      "00347578"
+    ],
+    "source_sha256": "6eb46eebdc3e9777859d83a791540c69cd7dc3129119974c28dcd7641bbeab73",
+    "japanese_binding": "00347578",
+    "japanese_sha256": "a009caa1b2f4ac02c24f623a0aa6c0bfc214d2beb06875050db068cb2ecdc5af",
+    "final": "@L아니면 미인한테만 친절한 걸까～♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04363",
+    "bindings": [
+      "003475E0"
+    ],
+    "source_sha256": "9a04dafe50652a79e438c268debfeae76da500ea4f573467a2705a42c664f0f4",
+    "japanese_binding": "003475E0",
+    "japanese_sha256": "397f55057127925f0580724e255d36cb7627891467ddf99d7b75153d40b7c887",
+    "final": "@L그럼 기사님，근무 잘하세요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04371",
+    "bindings": [
+      "00347B24"
+    ],
+    "source_sha256": "ae28f78f7c235f54d9586664c4379ec3fb62e3428333baec24c986697d4d8494",
+    "japanese_binding": "00347B24",
+    "japanese_sha256": "173057a39d400b2246fed981f4bbce1f8b8f9f2e16687e33f9f775a52fce8767",
+    "final": "헤헤，저희는 이 고아원에서 자랐어요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04383",
+    "bindings": [
+      "00347BDC"
+    ],
+    "source_sha256": "74b2129d23870ce524c72c94204931d7aa10e7275595e9bc208a643cb14bfed5",
+    "japanese_binding": "00347BDC",
+    "japanese_sha256": "94e1eb685e385e280648cb569be319a5a58964fafce1fc444ef51db468cf9957",
+    "final": "헤헤，열심히 할게요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04387",
+    "bindings": [
+      "00347F48"
+    ],
+    "source_sha256": "4b61e623c7ee557e74b03298f347723b9e28e08c282390ee2076a93f9062e821",
+    "japanese_binding": "00347F48",
+    "japanese_sha256": "46d62462156a3287e18c63f102b739a72df97aae52761e7060604dcf49fc91d4",
+    "final": "뭐，단골이니까 이번엔 봐주지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04400",
+    "bindings": [
+      "00348028"
+    ],
+    "source_sha256": "23480a76af5b48891c903ac269b34d2663b1890568f5b2cf38631a62621e3207",
+    "japanese_binding": "00348028",
+    "japanese_sha256": "571f6f87906194b7cae75dc68f9451180d24999d5ff2817d396dd03fafd50338",
+    "final": "그렇구나．\n간식도 잊지 말고 챙겨야겠네！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04401",
+    "bindings": [
+      "00348038"
+    ],
+    "source_sha256": "7aed1ff21a9cdb653518408622ecc90ec11e248ace442281d3ac7bc0bfbffb04",
+    "japanese_binding": "00348038",
+    "japanese_sha256": "5aee6d62e1689df210a2f5b37e0d425bfa3a2eb39c43ebf61fa4a8420b3b2228",
+    "final": "정말，쓸데없는 건 됐어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04405",
+    "bindings": [
+      "003483F8"
+    ],
+    "source_sha256": "6bb12fd233f471813efe081991f39b0554bb78d7cf849570a5d3cb4db1d7d21c",
+    "japanese_binding": "003483F8",
+    "japanese_sha256": "0ee0379bb7187d21914b9a8ab5aa6a7f28e70a6c26fc1dd1e361821b26deffb8",
+    "final": "그러게．나도 여긴 처음 와 봐…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04411",
+    "bindings": [
+      "00348488"
+    ],
+    "source_sha256": "dd372716c048acd8a4166f8566d7f81c9da146d73ba3f5118d1a15b28dda80af",
+    "japanese_binding": "00348488",
+    "japanese_sha256": "77648e56c561d52d6ab704b5593e5eccbcf5fa74e543333651db14bb1ee5c295",
+    "final": "뭐，괜찮지 않겠어요？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04440",
+    "bindings": [
+      "00348C18"
+    ],
+    "source_sha256": "9ef78eae0fee7081c777ac6724222d51298ea1d34d45bd1cf075617d85e946a7",
+    "japanese_binding": "00348C18",
+    "japanese_sha256": "994019688a79a66abec3cdb60d03f5d2da6c9f049d52508b93617b135b6ec0b5",
+    "final": "@L평소에는 붙임성 없는 사부님이 계시는데…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04448",
+    "bindings": [
+      "00348CA0"
+    ],
+    "source_sha256": "70cd2321186c29565b046863b0313717fb0c734a6e1e519fa73ba50f3701cd52",
+    "japanese_binding": "00348CA0",
+    "japanese_sha256": "f2da62b57ae0602304cb47a7cfc3dfef51cfe8742d5a4cca758b163f07922fd6",
+    "final": "호오，요즘 젊은이치고는 인사성이 바르구먼．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04449",
+    "bindings": [
+      "00348CA8"
+    ],
+    "source_sha256": "4957197cf3c96cb680555ce9c6d96cbf0b1c3d448f40fe95c37a486c15df75ab",
+    "japanese_binding": "00348CA8",
+    "japanese_sha256": "79df075b5a45248c7582dd26dadb46ae5daf3b8191870bc2d78a9f9a3baef6bd",
+    "final": "게다가 얼굴도 곱고 말이야．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04464",
+    "bindings": [
+      "00349214"
+    ],
+    "source_sha256": "0bf94d1e0616d399b72344b89ac8ab60449e91472c8cd6eeb16dc8ad15ee5687",
+    "japanese_binding": "00349214",
+    "japanese_sha256": "cb4afc14a0f5ac79f5092e001f512c8ff34649ca16d37c60a26145b60eed9039",
+    "final": "어서 와，@G．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04465",
+    "bindings": [
+      "0034921C"
+    ],
+    "source_sha256": "05c275e4d433f2fd46e0b5e5e82132f0892d86641124a6ef7da3f6e9a96b128d",
+    "japanese_binding": "0034921C",
+    "japanese_sha256": "b3d4df6e20dceaf34c19dc8763d231481d71517cc2bf04b05f7f7279af09aa02",
+    "final": "지난번에 가르쳐 준 요리는\n만들 수 있게 됐니？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04470",
+    "bindings": [
+      "00349244"
+    ],
+    "source_sha256": "6aca77c09324450c3bb2761348654d19445b6e9f2b5252b72b384b807ee5c0df",
+    "japanese_binding": "00349244",
+    "japanese_sha256": "d464c1efc70926e4abd07efb5b406a1c3984940fcd9a03971269cf8453d3f01c",
+    "final": "@L조만간 새 조리법도 알려 줄게！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04515",
+    "bindings": [
+      "00349DE0"
+    ],
+    "source_sha256": "667d9bcf986f680ddf108c1e4f24c92238f31c7fbb08c69163e1442b106b7652",
+    "japanese_binding": "00349DE0",
+    "japanese_sha256": "770e62bd1e7236d0adba4725458cefd5242f741f03decdaa6b84c5ade3cc7ce0",
+    "final": "난 남들『소문』만 들으면 늘 신나！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04521",
+    "bindings": [
+      "00349E18"
+    ],
+    "source_sha256": "43faece215b96e63db5d05945935219620c225167651ce846ab73df73c94ea98",
+    "japanese_binding": "00349E18",
+    "japanese_sha256": "f0ec8226d0ff7e0e9746e52d309352712b8b622eaf0dd3154cee87fbe1aed52d",
+    "final": "요즘 몸무게가 늘어서\n고민이라며…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04528",
+    "bindings": [
+      "0034A15C"
+    ],
+    "source_sha256": "b7fb8d334cb3e5f38bb302005055cde196dd2eac95671e6c9cc7197d6283413b",
+    "japanese_binding": "0034A15C",
+    "japanese_sha256": "8ef3e25292c56e568ab8f49bf3e66e2255505dccc60d106e51b4df3ad345477e",
+    "final": "정답입니다～！！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04538",
+    "bindings": [
+      "0034A204"
+    ],
+    "source_sha256": "0112c905affcd7c3bd1ed0d5ca3d5ae45e83464161f0f13f28ef8b6a5a371e60",
+    "japanese_binding": "0034A204",
+    "japanese_sha256": "335e92806a51850571dea48186f8f4622044c17a3a87fd2ce23ce83a6b18548d",
+    "final": "@L사실 나 여자라구용♪\n있지，부・탁・해～♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04540",
+    "bindings": [
+      "0034A21C"
+    ],
+    "source_sha256": "8361c148c8bafa0216e5f3c5d553380245f2eb16303079e5e2c0e784e429162a",
+    "japanese_binding": "0034A21C",
+    "japanese_sha256": "6e11d4838c491d5243e7a99c9687e1e3a77f5a4947915c9e3992e8f948039f40",
+    "final": "@L지난번 사냥꾼의 숲 샘에서 함께 수영할 때 네 번듯한『비밀 금광』을 봤거든！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04541",
+    "bindings": [
+      "0034A234"
+    ],
+    "source_sha256": "34ed1b78365bda617e24cda06cac98c15e10525bd36a69dbf3cbce7e63423040",
+    "japanese_binding": "0034A234",
+    "japanese_sha256": "825829a9e101e0bee1f9c06fc87f8591b7222e3f3c2d169df58c4de2f55e1cd8",
+    "final": "그럼 난 일하러 돌아갈게．또 보자！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04552",
+    "bindings": [
+      "0034A7B4"
+    ],
+    "source_sha256": "572d16093c6487c03297b39d8f85e2806c829a8d52859a0014321553801ed7c4",
+    "japanese_binding": "0034A7B4",
+    "japanese_sha256": "640779bd6c89a4111a2291aed290fc4487682ca531a1948aa756426b522c4ffc",
+    "final": "나도 지금 막 돌아왔단다．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04562",
+    "bindings": [
+      "0034A81C"
+    ],
+    "source_sha256": "acfd8f1c2240333a1bd773d393fb6e2f4a628a94849c1fe2d7701e4d964afd73",
+    "japanese_binding": "0034A81C",
+    "japanese_sha256": "31613d546a8464dff592ad6a6b6c9ad554938d1cbc1ce135f22e6019aed1e027",
+    "final": "응？『사냥꾼의 숲』에 있지．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04571",
+    "bindings": [
+      "0034A874"
+    ],
+    "source_sha256": "1b7c13a52fa31552875f1ff93085c2ac77bff13d9d6472c09515daef663ca149",
+    "japanese_binding": "0034A874",
+    "japanese_sha256": "ccf9f9434544fd0ef885720e6dd1e30c71bedf7c5d98e20f12f2e79ec663f908",
+    "final": "@L무리겠다 싶으면 내게 와서 못 하겠다고 말하거라．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04572",
+    "bindings": [
+      "0034A87C"
+    ],
+    "source_sha256": "1f242665fbdde4c87037dacdff518dba9101fa05bba00ae8d1006e739c1717ba",
+    "japanese_binding": "0034A87C",
+    "japanese_sha256": "9f7ee4e64709ade7f01c0c5e18ec664d6f691a799e81b90b4f0722f115b589f7",
+    "final": "@L못 구해도 탓하지 않으마．어차피 얼마 뒤면 구할 수 있으니…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04573",
+    "bindings": [
+      "0034A88C"
+    ],
+    "source_sha256": "bbf2cce909ea261e4fea951c77d6427f811ad0267c06c4f8b39311af7e6c6675",
+    "japanese_binding": "0034A88C",
+    "japanese_sha256": "1a36f63b0a4d0de7a743e8794d9e2a2d67de763a65554a37541487de4030090f",
+    "final": "음…@P그래도 너무 느긋하게 있을 수는 없겠네…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04580",
+    "bindings": [
+      "0034AE00"
+    ],
+    "source_sha256": "4b8fc66d9e3894d97f806aa931e8943490a0c27949e1cc19838c7b7adbedc82e",
+    "japanese_binding": "0034AE00",
+    "japanese_sha256": "e62ce3b2c127d31b0f0e21d788b0f9a8af924b38e555cfc17666aab6020f91fd",
+    "final": "@L아직 강한 마물을 상대하기는 위험하니 너무 깊은 곳까지 가지는 말아요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04583",
+    "bindings": [
+      "0034AF60"
+    ],
+    "source_sha256": "c5505d523dcd355a3f424999853a2f3ddf34d2e3e7af41cecd2f3cd3f91c036a",
+    "japanese_binding": "0034AF60",
+    "japanese_sha256": "6cca402fa0418e8ed57b4be649ac9010bbb0eac55b002ce226c82013e9be321d",
+    "final": "앞으로도 이렇게 해낼 수 있도록\n함께 힘내요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04605",
+    "bindings": [
+      "0034B498"
+    ],
+    "source_sha256": "c3ea02be457a70fe2aafcb758436d73b10cac01e20b2e2b99d752544651c46f1",
+    "japanese_binding": "0034B498",
+    "japanese_sha256": "099460969d6a9a9c921dc1ddab161cd706dfd1f622bb22774eced83645e14bc2",
+    "final": "네，장로님께 들은 이야기로는，",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04643",
+    "bindings": [
+      "0034B9FC"
+    ],
+    "source_sha256": "258a3dcdd1d093c0df57de5cc1434c669f270928cb462698920bc0205b3614ef",
+    "japanese_binding": "0034B9FC",
+    "japanese_sha256": "93e0d729dfbd03564a58cf931472162202058b28a23836b6c4a341fa0e31ba82",
+    "final": "슬슬 가 볼까…？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04652",
+    "bindings": [
+      "0034BE98"
+    ],
+    "source_sha256": "a41ed9651bf135935f17befb4b291fcfcd74c99c39b3f0a6c51411aa1a9de78a",
+    "japanese_binding": "0034BE98",
+    "japanese_sha256": "90701a0c93c8f7503ca6681b236491bdea179da5834050d1199f6a4005e2c2dc",
+    "final": "그，글쎄요…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04653",
+    "bindings": [
+      "0034BEA8"
+    ],
+    "source_sha256": "b60b95faa706f7c46817de5fd31b400176688d73d25c0df20e806ca38f1ad8e8",
+    "japanese_binding": "0034BEA8",
+    "japanese_sha256": "9dd9dfb4de2efb0708949b7a46be21d3f5bc12c930f919346dbed79bdb51f401",
+    "final": "대단한 사람도 있구나～",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04681",
+    "bindings": [
+      "0034C634"
+    ],
+    "source_sha256": "c4866a060e4ac3791892f3af99b78000bcf7a7741f93f34d2c9809c66e52daab",
+    "japanese_binding": "0034C634",
+    "japanese_sha256": "7c4d3176a9c321f94fea28005e117d6c7d888ab5d5289f87de1b9628a9c55e45",
+    "final": "『대열』 화면에서『플레이어』 커서를 옮기면 직접 조작할 사람을 바꿀 수 있어요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04700",
+    "bindings": [
+      "00357DA4"
+    ],
+    "source_sha256": "722c0d08ed56452f05e52f74b56501f24759d1193ac91080e37645812e2bb76c",
+    "japanese_binding": "00357DA4",
+    "japanese_sha256": "f84096d5a13115d1d4c8c044d4909df42b4a5f842532780babf99545975d6113",
+    "final": "이제 제법 익숙해졌구나！\n그렇게만 해！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04709",
+    "bindings": [
+      "00357DEC"
+    ],
+    "source_sha256": "095818a6576427f6d59ccc6ab7342a542225ffa30bc7e50d12e6e27e200caa0e",
+    "japanese_binding": "00357DEC",
+    "japanese_sha256": "f3a051a99f1a6c4badab16e3ceb1b3b4e47739b5d201aceabd309e95c58ba4c8",
+    "final": "신께서 두 분과 함께하세요．\n용기를 내서 힘내세요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04731",
+    "bindings": [
+      "00357E9C"
+    ],
+    "source_sha256": "1d7acf0464e06481126e991ad462fd4ecaae76eec4c1f6ea3b7c4a1f6c113946",
+    "japanese_binding": "00357E9C",
+    "japanese_sha256": "b54cbeb49b6fb53c3e00d5713a6f2022f8e0e2a592c603abb104f86859999702",
+    "final": "지난번에는 위험했어！\n좀 방심했나 봐…@P서로 도우며 가자！\n잘 부탁해！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04733",
+    "bindings": [
+      "00357EAC"
+    ],
+    "source_sha256": "1a80cd448616df4c52c5b4906332326f18d5a34f56370face12fdc305c1f06a1",
+    "japanese_binding": "00357EAC",
+    "japanese_sha256": "a0cd81de5963bf0b37cea58e7e0222412ee5a3f87f99066d3192b0d29efcd6ce",
+    "final": "저기！다음에 나한테도『나리키리』를 가르쳐 줘！@P해 보고 싶거든！응？괜찮지？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04734",
+    "bindings": [
+      "00357EB4"
+    ],
+    "source_sha256": "af0840f2b3dd8ad068be06b38f74851287b2c7c698793f1fe87f54171ff86145",
+    "japanese_binding": "00357EB4",
+    "japanese_sha256": "616fbb5b1fc69f166d5594fa691ca4a02550c8128c8ee06f4567b58437f3e090",
+    "final": "뭐，어린애치고는 열심히 하네？@P그래도 날 방해하면 용서 안 해！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04747",
+    "bindings": [
+      "00357F1C"
+    ],
+    "source_sha256": "c41cba8d19df46161246d51b9aad949d536117f8e0339774bc73154e2f13b78f",
+    "japanese_binding": "00357F1C",
+    "japanese_sha256": "ea97dafeb1325c1fcce2bb68e37bbb3768c6a4f4c031e603a68417cb79343b82",
+    "final": "세상에는 아직 밝혀지지 않은 일이 참 많네요…@P저도 두 분처럼 여러 경험을 해 보고 싶어요．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04769",
+    "bindings": [
+      "00357FCC"
+    ],
+    "source_sha256": "2421b5b68cb845cedd7d8feab82ee489f36eb286e74de62c1baea1d853067652",
+    "japanese_binding": "00357FCC",
+    "japanese_sha256": "a4ac78240b71a566f721f3c7042b95a112c38ebe040e4b27bd96f93cd0f5188f",
+    "final": "소년과 소녀가 고향을 지킨다…\n좋은 시를 쓸 수 있겠어！\n라라라～♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04784",
+    "bindings": [
+      "00358044"
+    ],
+    "source_sha256": "15932b397ee627887e5ec29c861042d1bff11d29ef079f25fa4c17f86035a343",
+    "japanese_binding": "00358044",
+    "japanese_sha256": "44e5df7cc3c698aefcc7fc5730875bdb3728a96550dc64e122eeb5ee793b413c",
+    "final": "경험이 없으면 이길 확률은 낮아．그래도 도전할 가치는 있겠지．@P포기하지 않으면 가능성이 전혀 없는 건 아니니까…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04786",
+    "bindings": [
+      "00358054"
+    ],
+    "source_sha256": "10205dbb28fc0570762f48fbac84a886ab1cba3fe586c24a4fac075f37bd3f2f",
+    "japanese_binding": "00358054",
+    "japanese_sha256": "097843eeefe9837bf095b97ea6462183aedd3009f6f7af8f02f5b4f4185be1df",
+    "final": "『초심을 잊지 말라』는 말도 있어．@P자기 힘을 너무 믿으면 안 돼！힘들 때는 말해．할 수 있는 일은 도울 테니．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04797",
+    "bindings": [
+      "003580AC"
+    ],
+    "source_sha256": "b44597fa6764502ceedb68f8c237d225037cf46a138cbd289a479c6c2e9d4284",
+    "japanese_binding": "003580AC",
+    "japanese_sha256": "caee2b983b3dcac65aeffdb34e1bd69b2394bcbcd56a3d2544826c9e74b28709",
+    "final": "오우！요즘 너희가 그거라며？\n가하하！재미있어지는데！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04803",
+    "bindings": [
+      "003580DC"
+    ],
+    "source_sha256": "ab8a1cdf8c5a58684f08df9ae3b84cc06bf457033f29352fbbd580efa03b440a",
+    "japanese_binding": "003580DC",
+    "japanese_sha256": "fea732ac102a5d72ad909aabe10d4718d4698fa54128325204685f148ee37fda",
+    "final": "『아이프리드』의 이름에 걸맞게 해내실 거예요！@P아이 아이 서！\n저도 함께 힘낼게요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04811",
+    "bindings": [
+      "0035A874"
+    ],
+    "source_sha256": "bdd52a66d7a173f5258ee3bcbcc57012af3e22303819eade630f8ae7c2dad3bc",
+    "japanese_binding": "0035A874",
+    "japanese_sha256": "1933438752ab70782eeef0ca41089435cb56c03f9d0659996cd4ca035912f537",
+    "final": "이런 곳에서 너희를 만나다니！실은 꼭 부탁할 일이 있다．@P설마 거절하지는 않겠지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D04895",
+    "bindings": [
+      "0035A9D0"
+    ],
+    "source_sha256": "9a95fe502c9882a76a83fddd5bf618d92893b185c3757a85109e5d5360aff347",
+    "japanese_binding": "0035A9D0",
+    "japanese_sha256": "9a2cdbd912bd1dc800045716b95f236b6208a417e6e4b5e11b65d7dd7cd9cd42",
+    "final": "오오，그만큼 쓰러뜨렸으니 당분간은 괜찮겠지！@P수고했다！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D05120",
+    "bindings": [
+      "0035AD80"
+    ],
+    "source_sha256": "50b74366e3ff7efdb309ae9377782c3baa091edb022469551a0ea80342770455",
+    "japanese_binding": "0035AD80",
+    "japanese_sha256": "5b84d396166830ec1d74da257cabed474d28511ac8d5b041f1460f33ef7975cd",
+    "final": "누가 내 정원의 꽃을 망가뜨렸어．@P@E 무리의 짓이야！@P게다가 한 마리도 아니고 여럿이래！용서 못 해！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D05245",
+    "bindings": [
+      "0035AFE0"
+    ],
+    "source_sha256": "475c64385efb0024bca7f6e4dafcd8fc392accfc43aef90d49ffe1f00a0769ea",
+    "japanese_binding": "0035AFE0",
+    "japanese_sha256": "60c0ee516878df1d453789c5cf56c7825b35f89e9314dcb4b6eec6fa35de59d1",
+    "final": "너희가 있어 줘서 살았어．@P그건 그렇고，보물에는 손 안 댔겠지？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D05299",
+    "bindings": [
+      "0035B0D8"
+    ],
+    "source_sha256": "c526faf6e7f16b9797ccbae9dbb29bfa0d5c0500e0929a5ec54b81047b9dc7e5",
+    "japanese_binding": "0035B0D8",
+    "japanese_sha256": "2ad1f967590f08414fdd91af5b6087885aa61102ee1db475fcd95094e5f67cd6",
+    "final": "응，이걸 찾고 있었어！@P고마워！\n너희 둘 덕분에 살았어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D05528",
+    "bindings": [
+      "00368B24"
+    ],
+    "source_sha256": "ffcda1aedad21a6d99c2942eafb6031e9581b37803b87ee77c288e0d743f9fbf",
+    "japanese_binding": "00368B24",
+    "japanese_sha256": "3972481d257f0257ce7b0d297865b8835b8ab7e19e0b02bba7686250f5d00966",
+    "final": "응，무슨 일이야？\n나라도 괜찮다면 함께 갈까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06301",
+    "bindings": [
+      "003A78BC"
+    ],
+    "source_sha256": "ff514ed44c083c68cb27401e5863b344baff66dcdc19e4a4d15c26795130c988",
+    "japanese_binding": "003A78BC",
+    "japanese_sha256": "e6c276b73b9ebd88f4ba3796ff0d8188f38e2783a026eecb9da2a56af2923a5a",
+    "final": "마법 생물의 일종\n다채로운 공격을 한다",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06303",
+    "bindings": [
+      "003A78C4"
+    ],
+    "source_sha256": "da90a7bdb46eda20ba68b9e953ce24be4e632940dfa3245251ab541aef256794",
+    "japanese_binding": "003A78C4",
+    "japanese_sha256": "aca78456b0abf6afc3f41cf779d74e23fe169a71d46d26f8c2c50e8e26a5be0d",
+    "final": "눈빛으로 얼리는 공격에 주의",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06400",
+    "bindings": [
+      "003A7A48"
+    ],
+    "source_sha256": "3359c1cc92171be410359eed30c14797efa6625817e198ea05ec5dac61775781",
+    "japanese_binding": "003A7A48",
+    "japanese_sha256": "72fbb8ee26b7acf1b773d5316cdf227bd3a83e0e1f4075a95e6e857d5865e126",
+    "final": "본거지를 떠나 １００％ 상태는 아님\n그래도 충분히 높은 능력을 지녔다",
+    "review": "JAPANESE_SOURCE_COMPARED",
+    "numeral_notation": "MATCH_JAPANESE"
+  },
+  {
+    "id": "D06438",
+    "bindings": [
+      "007382F4"
+    ],
+    "source_sha256": "c475d1edba3cbf796bbaa27136b258c422d9cc98daa2d2c3b419d9ef49b39819",
+    "japanese_binding": "007382F4",
+    "japanese_sha256": "96452f2033ee21f4c05dd024532998f4a54611d2ae9f6f3a8d2073441b2c6256",
+    "final": "그럼 난 여기서 갈게！\n또 보자，친구！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06459",
+    "bindings": [
+      "00738368"
+    ],
+    "source_sha256": "179c1e1a49c08c91ea5847fcd9326e7ca075ed5a83027bbf66031132cd6bcb8b",
+    "japanese_binding": "00738368",
+    "japanese_sha256": "84c20d43eef2cb532349801ad7d606cb40d3a055259485b98272f4745a13faeb",
+    "final": "헤이！왜 그래！\n다쳤잖아！@P베이비～！\n내 노래로 치료해 주지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06465",
+    "bindings": [
+      "00738388"
+    ],
+    "source_sha256": "8ebd192be51d69411612129784288a15aa349d0d719564b8289582039492cfa1",
+    "japanese_binding": "00738388",
+    "japanese_sha256": "9f1206875f98b11c555a4349b4c5e2fb7f405617b86fb8982aece73ebfb263e7",
+    "final": "어머？정말 괜찮겠어～？\n괜히 참는 거 아니야…？@P나중에 역시 치료해 달라고 해도\n난 몰라！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06503",
+    "bindings": [
+      "0073848C"
+    ],
+    "source_sha256": "655ed25dd6141767482754d3398571670f0738273212ccb34e01f3d68b190fd1",
+    "japanese_binding": "0073848C",
+    "japanese_sha256": "2887ece996969de51283f5ecadd241ca13d733afb11217dd01eebed29a2fff98",
+    "final": "이래 봬도 행상인이라네．\n필요한 게 있나？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06526",
+    "bindings": [
+      "00738570"
+    ],
+    "source_sha256": "18db76b6a836a2dbe268dd237e2d7f35a23e693df9bccbdda1d5438f1b3d12d0",
+    "japanese_binding": "00738570",
+    "japanese_sha256": "5554bd87fedd7c4eb5a84eceeca076ab57062044270d401b2dc7333852b12549",
+    "final": "날 잊은 건 아니겠지？\n섭섭하잖아，친구！@P나도 데려가．우린 동료잖아！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06533",
+    "bindings": [
+      "007385A8"
+    ],
+    "source_sha256": "5d419cb4163ad3efacb45ba96e7668780cb389ebfda198413d8cba160aa44440",
+    "japanese_binding": "007385A8",
+    "japanese_sha256": "f22a4595c5abca95e815a29e7b55196b85b4ef07194233e3439c98fced008ff4",
+    "final": "저도 뒤에서 힘을 보탤게요．\n그…힘내세요！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06563",
+    "bindings": [
+      "00738698"
+    ],
+    "source_sha256": "26b7f06505b274c695d68923e51043fdf9a5b570b3e336e130be0714de009a52",
+    "japanese_binding": "00738698",
+    "japanese_sha256": "7517068c63af2676f1e3e3f1de0c032c7c02371c8b0f7a034d332cdf6b5fb293",
+    "final": "가 볼까…\n내가 지켜야 할 백성들과，너희를 위해 전력을 다하마！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06581",
+    "bindings": [
+      "00738728"
+    ],
+    "source_sha256": "c4821e21ad36135ee7f5dc6d71df8d679e8012afb3aff5ef5807dfeba0dddbe0",
+    "japanese_binding": "00738728",
+    "japanese_sha256": "929c82573fd0f53ea247532fe22ee10eccb869c8de41091d606d1182fa3ca624",
+    "final": "지금 내가 할 수 있는 건 너희를 위해 노래하는 거야！@P나아가라，용사들！승리의 노래가 기다린다네～♪",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06585",
+    "bindings": [
+      "00738748"
+    ],
+    "source_sha256": "7acf7328951e04f9f33442b6e88753983cc1f3cc827acf06e7a1f98a1418ec13",
+    "japanese_binding": "00738748",
+    "japanese_sha256": "46b5ff331ae21893d276462ac6e822588b4bcb7854ccf6bc283eec5b4784dc3b",
+    "final": "가라，여긴 내게 맡겨 둬！@P난 괜찮아！이 정도는 어떻게든 해내겠어！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06587",
+    "bindings": [
+      "00738758"
+    ],
+    "source_sha256": "ddc8aeb413409c97565c3323096f7fb9fc6d55efec4851bbc0fb895431afd9c3",
+    "japanese_binding": "00738758",
+    "japanese_sha256": "0e73683b08a2d0428e0f84ce377498d74d134db929e84394c66d0ef0504bd312",
+    "final": "가자！이 싸움에서 지고 싶지 않아！@P적에게도，나 자신에게도！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06652",
+    "bindings": [
+      "007388C0"
+    ],
+    "source_sha256": "258a32469bb3b0d843df6966062ff50a84fa4a1e4d501b16c15cf8b621ee30e7",
+    "japanese_binding": "007388C0",
+    "japanese_sha256": "30fc25194201bc7809f476475398b4639667ba1eda906b5adcaa0a510bebebc7",
+    "final": "여기에는『드워프의 유적』이 있다더군…@P너희는 가 본 적 있나？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06653",
+    "bindings": [
+      "007388C4"
+    ],
+    "source_sha256": "ccb498df2bbeb05115908721b27a89af1feb7f0dc3df290dcd51371e1fa4a75e",
+    "japanese_binding": "007388C4",
+    "japanese_sha256": "70f2cd3d56fd0e446a2ad61dca63e1c3fa864e9bd8e61dca66108f54ad25d030",
+    "final": "여기에『백설공주』가 있다더군…@P얼음처럼 아름다운 피부를 가진 소녀라지…@P사실인지는 모르지만 흥미로운 이야기야．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06742",
+    "bindings": [
+      "00738A34"
+    ],
+    "source_sha256": "e3df92edc7491fddeebe69149350191191bf459a6bc617ac01bd2b6cc446718c",
+    "japanese_binding": "00738A34",
+    "japanese_sha256": "f46da6b795f9219cb56411b2e681023cc87b50fa2b43c25ed30d1b1291703b4e",
+    "final": "대단한 열기다！@P용암 근처에서는 조심하지 않으면 몸이 타 버릴 거야！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06918",
+    "bindings": [
+      "00738D04"
+    ],
+    "source_sha256": "83c5d2beb4322a19ef57db623c17f7fcb51002d264ee72d1be95fbd652dbef1f",
+    "japanese_binding": "00738D04",
+    "japanese_sha256": "5856b6beddcc865cd4f34b9c09dedeb0251297b2bad877268a30c0cb7b95eb31",
+    "final": "바위가 방해되면『곡괭이』를 써！@P난 항상 가지고 다닌다고！검보다 다루기도 쉽고．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D06939",
+    "bindings": [
+      "00738D58"
+    ],
+    "source_sha256": "174b882bfd1b45b679107277516f7205eb54be77e5f3bc584368a78bb1028f6f",
+    "japanese_binding": "00738D58",
+    "japanese_sha256": "86ec16f2d2e70bd6de066538fa2df3034747f358301c15d9e09fefadf40ab01d",
+    "final": "여기도 저기도 @E…@P아아，날 구해 줘요，왕자님…",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07002",
+    "bindings": [
+      "00738FD4"
+    ],
+    "source_sha256": "ff624b0f90ac44fdfff399d68ceba660a9a37db78a5502d54c3584c162f11fde",
+    "japanese_binding": "00738FD4",
+    "japanese_sha256": "142fe69b7849268b3a833c2278f61903d029dc51c21f3180c34e074c8c1b4d21",
+    "final": "정말 강한 악령에게는〈광〉밖에 통하지 않는대．@P뭐，그렇게 강한 녀석을 만나면 난 도망칠 거야．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07072",
+    "bindings": [
+      "007BFAA4"
+    ],
+    "source_sha256": "83f78b3e074bfe91dea7098231f76229a322642a82efe6e39ca9c53e9c503357",
+    "japanese_binding": "007BFAA4",
+    "japanese_sha256": "c9b0edb9c84957cc3c8090a94d04ae82b345aef5467150b1a74dbf5a972ac25e",
+    "final": "응？뭐야，동료잖아．지나가도 좋아．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07073",
+    "bindings": [
+      "007C08A8"
+    ],
+    "source_sha256": "765f504f74de5f4af3ea0ce6544a9130058fdad1c6d901974796e6be952702ba",
+    "japanese_binding": "007C08A8",
+    "japanese_sha256": "1e7fae351bf14ce99853ea4a748f075fd401dcdb111cef6aa4eca0e1fc57d298",
+    "final": "『맹수 주의！』",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07222",
+    "bindings": [
+      "007F2F2C"
+    ],
+    "source_sha256": "083d8f61ee358ccacb490bd845b33b79f94025c853c21a00a2656a2cd2b4473f",
+    "japanese_binding": "007F2F2C",
+    "japanese_sha256": "a5beacfff4188d2c4949658438a442e8738da2f2ef94a69b14b4b6e0cc5fb900",
+    "final": "악은 용서하지 않겠다！어떠냐？너희도 도적 퇴치에 참가하겠느냐？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07494",
+    "bindings": [
+      "007F5468"
+    ],
+    "source_sha256": "32dcc36284448c50983d0dd616efce6190ab1931d53581a9295a961dea5c7d7e",
+    "japanese_binding": "007F5468",
+    "japanese_sha256": "6edde851a019b89325fcabd1176a6e889c1d550320874f70943c0997b9217e6e",
+    "final": "분명 어딘가에 나만의 왕자님이 있어！@P얼굴도 물론이지만，마음도 멋진 왕자님 말이야！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07597",
+    "bindings": [
+      "007F5AAC",
+      "007F5B08",
+      "007F5B64",
+      "007F5BB0",
+      "007F5BE8",
+      "007F5C30"
+    ],
+    "source_sha256": "7d720e15041697a206839369b0f6b077c6713fc6992fdbdffe0d27aca95d421b",
+    "japanese_binding": "007F5AAC",
+    "japanese_sha256": "b6a226fc3ef402d0ad208d537db636f9ebaf3ca80e2cbbfd72302779623d1970",
+    "final": "돌이 필요하면『칠흑의 갱도』에 가 봐．채굴장도 있으니 돌을 구하는 데는 어려움이 없을 거야．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07603",
+    "bindings": [
+      "007F5AC4",
+      "007F5B28",
+      "007F5BA0",
+      "007F5BD8",
+      "007F5C14",
+      "007F5C38"
+    ],
+    "source_sha256": "7baa037bcc9d3551924be147282f2f1cd8f97533362a27507b308fb5e44ffe7e",
+    "japanese_binding": "007F5AC4",
+    "japanese_sha256": "d98627e590aa7a428e6b23a5a86a433794f455361f03c1838272b58f29b3931c",
+    "final": "어딘가에 진귀한 물건이 있대！@P나도 다음에 찾으러 가 볼까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07611",
+    "bindings": [
+      "007F5AE4",
+      "007F5BB4"
+    ],
+    "source_sha256": "559d76214b94555c3d216a443bc57636f50784e5f525ff185350bdbfc234ea4b",
+    "japanese_binding": "007F5AE4",
+    "japanese_sha256": "70d8576e5213642510c9c381c5a68d7c3e2e42e6c1d4ab2cb18cd5abf57c03b3",
+    "final": "『물의 고성』은 도적들이 설치한 함정으로 가득하대．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07613",
+    "bindings": [
+      "007F5AEC"
+    ],
+    "source_sha256": "e9f39748b1a36144b2d8e969ec0dcefa5b41d12d509fd1e3cd575c7bc44a60be",
+    "japanese_binding": "007F5AEC",
+    "japanese_sha256": "a6d21a1abd386cf3c96338b77d5c7e62fbf61729359a77e1c70c100d6462ba2e",
+    "final": "『도적』은 함정을 피할 수 있대．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07620",
+    "bindings": [
+      "007F5B0C",
+      "007F5B5C",
+      "007F5C3C"
+    ],
+    "source_sha256": "c7fdba591e000d9050759a8813c07c8720217f3f8d5154346219056d1b1839cf",
+    "japanese_binding": "007F5B0C",
+    "japanese_sha256": "7d8486f6201563f304dce076b16b6b15c33310191424461b0b14d99ac7be62ac",
+    "final": "강력한 속성도 있어．〈광〉〈암〉〈뢰〉〈원〉，이 네 가지야．다른 네 속성보다 강한 특기를 쓸 수 있지！",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07631",
+    "bindings": [
+      "007F5B6C",
+      "007F5C08",
+      "007F5C24"
+    ],
+    "source_sha256": "2db95cff89c915d774bb86ab5b2f5a780ace9cbbe46dc3d9997aa11018dc2c95",
+    "japanese_binding": "007F5B6C",
+    "japanese_sha256": "0a9e8c063b10482c7dcf664071267948117d297ffade3dfae0e9d952d337747c",
+    "final": "『칠흑의 갱도』안쪽에는 드워프족의 유적이 있대．@P그리고 그 안쪽에는…뭐가 있을까？",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07632",
+    "bindings": [
+      "007F5B7C",
+      "007F5BC4",
+      "007F5BDC",
+      "007F5BF0",
+      "007F5C28"
+    ],
+    "source_sha256": "803b552905d0624a2984371c592c351b28bf2f0acde45746358e773793c8e329",
+    "japanese_binding": "007F5B7C",
+    "japanese_sha256": "8a936fb9f0acdb55c69c319346a77a3d456d4b3c495167597f8d27126ea3b2eb",
+    "final": "마물 중에는『검』으로 쓰러뜨릴 수 없는 녀석도 있대．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "D07963",
+    "bindings": [
+      "007F9170"
+    ],
+    "source_sha256": "f8f5f72babe380dde872d874afa50688fb4e59ba7cb9ed77b18a56e9bfe81a55",
+    "japanese_binding": "007F9170",
+    "japanese_sha256": "5b2470d37a303bfb1c0b029fbf40834945816b4dc8620661d8d7c05761f3b907",
+    "final": "정말，검이 안 통하다니 반칙이야！@P이러면 마리에게 의지할 수도 없고，내 마법만으로 쓰러뜨리기도 어렵고…@P그 녀석을 쓰러뜨릴『마법사』는 없을까．",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  }
+]

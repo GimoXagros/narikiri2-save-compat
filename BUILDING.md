@@ -1,6 +1,6 @@
-# v0.9a build and tests
+# v0.9b build and tests
 
-Applying the release ZIP needs only Python 3.10+ and its standard library. Reproducing the ROM additionally needs Node.js, the pinned Python packages in requirements-dev.txt, and the exact original FFR input listed in README.md.
+Applying the ZIP needs Python 3.10+ and the standard library. Reproduction additionally needs the exact BETA2, BETA3(071102) and Japanese inputs from config/source_profiles.json, Node.js, requirements-dev.txt and the pinned font source. End users need only BETA3; BETA2 and Japanese are local build/review references.
 
 ```powershell
 python -m pip install -r requirements-dev.txt
@@ -8,35 +8,36 @@ git clone https://github.com/RanolP/dalmoori-font third_party/_work/dalmoori-fon
 git -C third_party/_work/dalmoori-font checkout --detach 897f0e71224d9964a84b888f2596b2bfd7f98def
 ```
 
-In the font checkout's generator directory, use pnpm 7.33.7, install the frozen lockfile and run `pnpm run build:debug`. Follow third_party/dalmoori-font/SOURCE_MANIFEST.json; do not substitute another font or revision.
-
-The 2026-09-07 independent reproduction used Python 3.14, Node.js 24.19.0 and pnpm 7.33.7, with a newly installed virtual environment and a fresh font clone/store. Do not make `third_party/_work` a junction to an older project checkout. The canonical repository, pinned upstream font and declared local inputs are sufficient. A system pnpm with another version is not the pinned generator command.
+In third_party/_work/dalmoori-font/generator, use **pnpm 7.33.7**:
 
 ```powershell
-# From third_party/_work/dalmoori-font/generator, using pnpm 7.33.7:
 pnpm install --frozen-lockfile
 pnpm run build:debug
 ```
 
+This reproduction used Python 3.14, Node.js 24.19.0 and pnpm 7.33.7 with an independent font checkout. Follow third_party/dalmoori-font/SOURCE_MANIFEST.json. Do not substitute fonts, revise the lockfile, or link the font work directory to another project.
+
 ```powershell
-python tools/build_ffr_v09a.py --ffr "FFR.gba" --output-dir output/v0.9a-final-build
-python tools/package_ffr_v09a_release.py --build-dir output/v0.9a-final-build --output-dir dist/v0.9a
+python tools/build_ffr_v09b.py --beta2-reference "BETA2.gba" --beta3 "BETA3.gba" --japanese-reference "Japanese.gba" --output-dir output/v0.9b-final-build
+python tools/package_ffr_v09b_release.py --build-dir output/v0.9b-final-build --output-dir dist/v0.9b
 ```
 
-The build derives Candidate A from the exact immutable FFR, regenerates frozen v0.9, then applies source-bound authored text spans and the separate inspection renderer. It checks complete review membership, 8,946 pointer bindings, protected tokens/numbers, glyph round trips, description capacity, nonoverlapping writes, font/sound preservation, deterministic output and cumulative BPS reapplication. The product build and packager both require the exact artifact approved by verification/v0.9a.json. `--candidate` only creates a local validation candidate; the packager rejects that status.
+Both directories must be new. The builder reproduces frozen BETA2 v0.9/v0.9a, validates every transferred writer against BETA3, rebinds the historical review, applies the source-bound Japanese comparison decisions and restores the non-text trade table. It checks controls/numbers, glyph round trips, description capacity, overlaps, ownership, protected font/sound/EEPROM ranges and deterministic BPS reapplication. verification/v0.9b.json must match the exact output and both new ledgers. `--candidate` creates a local validation candidate that the packager rejects.
 
-Public text decisions contain authored span changes and source hashes, not the complete original corpus. v0.9 code and verification remain frozen so that old output is reproducible.
+The ignored review_intermediate.gba in the build directory is the reproducible pre-Japanese-correction fixture. It is not a release artifact. Public decisions contain authored corrections and source hashes, not the full extracted Japanese or FFR script. End-user application and ZIP read-back verify the final target hash and preserve existing output files.
 
-The real-data tests also need the exact Japanese and FFR inputs in the repository root, Candidate A at output/NARIKIRI2_AN9J_K_EEPROM_RESTORED.gba, and the frozen v0.9 output at output/v0.9-final-build/NARIKIRI2_AN9J_K_DALMOORI_v0.9.gba. Those files are ignored and never committed. Build v0.9 with tools/build_ffr_v09.py; Candidate A can be made using the preserved restore.py. See config/source_profiles.json for identities.
+## Local real-data tests
+
+The local suite needs the exact Japanese and BETA2 ROMs in the repository root, BETA3-reference.gba there, Candidate A at output/NARIKIRI2_AN9J_K_EEPROM_RESTORED.gba, frozen v0.9 at output/v0.9-final-build/NARIKIRI2_AN9J_K_DALMOORI_v0.9.gba, and the v0.9b review_intermediate.gba above. Input filenames expected by older tests are documented in the historical v0.9a BUILDING.md; their content hashes remain mandatory. All ROM fixtures are ignored. Candidate A is reproducible with restore.py and v0.9 with tools/build_ffr_v09.py.
 
 ```powershell
 python -m unittest discover -s tests -v
+python tools/run_public_tests.py
+python tools/audit_repository.py
 ```
 
-Runtime results identify the ROM and mGBA core hashes, controller route, and any RAM preparation separately. Private saves, screenshots and raw dialogue stay local. Runtime success on one emulator is not a hardware or full-playthrough claim.
+The local real-data suite runs **139 tests**. Public CI runs a deliberately smaller **43 synthetic/source-contract tests** and the repository audit without game data or extra dependencies. Public CI does not substitute for real-data tests; missing local fixtures are errors.
 
-Public CI runs `python tools/audit_repository.py` and `python tools/run_public_tests.py`: 43 synthetic/source-contract tests, with no ROM, save, emulator, font checkout or extra Python packages. This is a deliberately smaller denominator than the 134-test local real-data suite; it never substitutes for that suite. A missing local dependency/input is an error, not a successful full regression.
+The local diagnostic host is tools/libretro_probe.py. Supply an exact local libretro core and a new private run directory; add --save only for a copied 8 KiB save. Runtime logs bind ROM/core/save identities, controller operations, and explicit RAM preparation. See VERIFICATION.md for tested populations and limitations.
 
-`python tools/audit_extended_compact.py --baseline-rom "<Candidate A.gba>"` executes 544 real ARM accessor cases. `python tools/libretro_probe.py --core "<local libretro core>" --rom "<local v0.9a.gba>" --run-dir "<new private directory>"` starts the optional diagnostic host; add `--save` only with an explicit local 8 KiB copy. The core is a separately supplied local tool, not a build dependency. Its hash, ROM hash, BIOS options and interventions are recorded in the private run log.
-
-See [integration results](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/INTEGRATION_REPORT.md) for frozen-tag ZIP reproduction. Documentation edits can change a newly generated local ZIP; never upload that ZIP over the existing v0.9a release assets.
+Historical release assets are immutable. Preserve tools/build_ffr_v09.py and tools/build_ffr_v09a.py and their recorded gates; never overwrite their existing release ZIPs with a ZIP regenerated from current documentation.

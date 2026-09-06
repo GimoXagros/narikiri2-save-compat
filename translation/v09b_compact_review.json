@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ITEM_005",
+    "binding": "0x2b2d10",
+    "source_sha256": "300e3bc7695530ba9afb5c4ac5bcd39d2905f034a6783b6c2c8560783e53107a",
+    "japanese_sha256": "604d6b27b3dc222a97e1439ef2148ca9bd69b629d51c13b18542d4de54e8afe7",
+    "previous": "미식전사의 증표",
+    "final": "맛무사의 증표",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "ITEM_037",
+    "binding": "0x2b2f90",
+    "source_sha256": "09640757300f52a1c9963030e11e83b03dd2de18178ee2c5a87507e4346a7d61",
+    "japanese_sha256": "34b35bffc01406610df0097c1ab2e900fbb4e56d3723654f88098982550fe633",
+    "previous": "곰",
+    "final": "곰 인형",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "ITEM_104",
+    "binding": "0x2b34cc",
+    "source_sha256": "fad6251e3d3d3c2da8d7dfbc9a0800c485f1ac2246281ca1dfe2aec1dd95cfd6",
+    "japanese_sha256": "c1ccebbd09db20129c00e5e38709624e544f572d31cdf423d9b8f9f3213e4c86",
+    "previous": "판다",
+    "final": "판다 인형",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "ITEM_145",
+    "binding": "0x2b3800",
+    "source_sha256": "96ee5f2b67bacde35e2267325a522babd7cb1e2a609a876ae9b7c48e8938c785",
+    "japanese_sha256": "70649ad830eaaa05945ecfa70ec5d639f933b7b835242b26752153f9707ae3cb",
+    "previous": "라슈안염색",
+    "final": "라슈안 염색",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_015",
+    "binding": "0x2bf7e0",
+    "source_sha256": "48971c3d3a6d4fa494a18710de7fb82fb23a5730da711c8900b216a3707396f9",
+    "japanese_sha256": "720364ff60c8d3319c77a48bf346e9f49eeb893356d0625366bfc2966b64793f",
+    "previous": "킹피시",
+    "final": "오우피시",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_097",
+    "binding": "0x2c0888",
+    "source_sha256": "5baefe9e2ebf76069bfdb8559557c0e54498a150961ecec42baeee0744d6fd7c",
+    "japanese_sha256": "bcb000f2fa58ad0c94862ddcd79db3555baed20259f21d4a30d0b3991ad63b92",
+    "previous": "위치",
+    "final": "윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_098",
+    "binding": "0x2c08bc",
+    "source_sha256": "ac3f2846db784ac4413abd65173a052f4836ab3bc87f0b2e8e54a1662fd9283f",
+    "japanese_sha256": "54d8311ebc1b1a7877d3fbfaf8f9d567ce3b90f338a664bfb72dfaf6f55bb47f",
+    "previous": "록 위치",
+    "final": "록 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_099",
+    "binding": "0x2c08f0",
+    "source_sha256": "f209887c09b3c8be58adcb6d29fba2324d323788d2a7fab36c57703717af1c89",
+    "japanese_sha256": "0c4934678a1fd1e50bf0f7c9635666796a4dbe6f2c1727b269b780c52019ddb6",
+    "previous": "아쿠아 위치",
+    "final": "아쿠아 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_100",
+    "binding": "0x2c0924",
+    "source_sha256": "33a4b7e3832f324ae11f5efa4d23c6bd35359c7f8c8de77350f925dbd3f259df",
+    "japanese_sha256": "4dafcea2ccaac2e1a5ce0f7aa6237a455914c521a5c599c8c92120c46bfe203c",
+    "previous": "라이트 위치",
+    "final": "라이트 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "MONSTER_101",
+    "binding": "0x2c0958",
+    "source_sha256": "3f5c1425164cd8e24c071a933251b4017ec4640037dd1cc64f4d9cbbf596f054",
+    "japanese_sha256": "4b444bff85084b2ace548af9519f90223528ec2bfe27a136b09ce0dbcfdc0aaf",
+    "previous": "플레임 위치",
+    "final": "플레임 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_015",
+    "binding": "0x3ae444",
+    "source_sha256": "48971c3d3a6d4fa494a18710de7fb82fb23a5730da711c8900b216a3707396f9",
+    "japanese_sha256": "720364ff60c8d3319c77a48bf346e9f49eeb893356d0625366bfc2966b64793f",
+    "previous": "킹피시",
+    "final": "오우피시",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_097",
+    "binding": "0x3ae58c",
+    "source_sha256": "5baefe9e2ebf76069bfdb8559557c0e54498a150961ecec42baeee0744d6fd7c",
+    "japanese_sha256": "bcb000f2fa58ad0c94862ddcd79db3555baed20259f21d4a30d0b3991ad63b92",
+    "previous": "위치",
+    "final": "윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_098",
+    "binding": "0x3ae590",
+    "source_sha256": "ac3f2846db784ac4413abd65173a052f4836ab3bc87f0b2e8e54a1662fd9283f",
+    "japanese_sha256": "54d8311ebc1b1a7877d3fbfaf8f9d567ce3b90f338a664bfb72dfaf6f55bb47f",
+    "previous": "록 위치",
+    "final": "록 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_099",
+    "binding": "0x3ae594",
+    "source_sha256": "f209887c09b3c8be58adcb6d29fba2324d323788d2a7fab36c57703717af1c89",
+    "japanese_sha256": "0c4934678a1fd1e50bf0f7c9635666796a4dbe6f2c1727b269b780c52019ddb6",
+    "previous": "아쿠아 위치",
+    "final": "아쿠아 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_100",
+    "binding": "0x3ae598",
+    "source_sha256": "33a4b7e3832f324ae11f5efa4d23c6bd35359c7f8c8de77350f925dbd3f259df",
+    "japanese_sha256": "4dafcea2ccaac2e1a5ce0f7aa6237a455914c521a5c599c8c92120c46bfe203c",
+    "previous": "라이트 위치",
+    "final": "라이트 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  },
+  {
+    "id": "SELECT_MONSTER_101",
+    "binding": "0x3ae59c",
+    "source_sha256": "3f5c1425164cd8e24c071a933251b4017ec4640037dd1cc64f4d9cbbf596f054",
+    "japanese_sha256": "4b444bff85084b2ace548af9519f90223528ec2bfe27a136b09ce0dbcfdc0aaf",
+    "previous": "플레임 위치",
+    "final": "플레임 윗치",
+    "review": "JAPANESE_SOURCE_COMPARED"
+  }
+]

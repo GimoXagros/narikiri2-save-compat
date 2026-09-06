@@ -14,7 +14,8 @@ from source_profiles import load_source_profiles, source_profile
 class SourceProfileTests(unittest.TestCase):
     def test_registry_has_unique_normalized_hashes_and_expected_roles(self):
         profiles = load_source_profiles()
-        self.assertEqual(len(profiles), 4)
+        self.assertEqual(len(profiles), 5)
+        self.assertEqual(source_profile("AN9J_FFR_BETA3_071102").size, 0x980000)
         self.assertEqual(source_profile("AN9J_JP_REV0").size, 0x800000)
         self.assertEqual(source_profile("AN9J_CANDIDATE_A").size, 0xC00000)
         self.assertTrue(source_profile("ND2_EN_V230_APPLIED").reference_only)

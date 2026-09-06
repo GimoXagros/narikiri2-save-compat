@@ -24,9 +24,21 @@ def build(source,ledger=None):
     if sha(source)!=V09_SHA256:raise ValueError('Exact frozen v0.9 required')
     if ledger is None:ledger=json.loads((ROOT/'translation/v09a_reviewed_deltas.json').read_text(encoding='utf-8'))
     if (ledger['baseline_sha256'],ledger['population'],ledger['pointer_bindings'])!=(V09_SHA256,8038,8946):raise ValueError('Review population mismatch')
+    if len(ledger['rows'])!=8038:raise ValueError('Incomplete or duplicate review')
+    return build_bound(source, ledger, inspection_plans(source))
+
+
+def build_bound(source, ledger, inspection_writes):
+    """Apply a complete ledger bound to its own exact intermediate artifact.
+
+    Revision adapters must independently rebind and review every source record.
+    The frozen v0.9a entry point above retains its original identity contract.
+    """
+    if (sha(source), len(ledger['rows']), ledger['population'], ledger['pointer_bindings']) != (ledger['baseline_sha256'], 8038, 8038, 8946):
+        raise ValueError('Exact reviewed intermediate/population required')
     rows=ledger['rows']
     if [r['id'] for r in rows]!=[f'D{i:05d}' for i in range(8038)]:raise ValueError('Incomplete or duplicate review')
-    writes=[(w.identity,w.offset,w.expected,w.final) for w in inspection_plans(source)]
+    writes=[(w.identity,w.offset,w.expected,w.final) for w in inspection_writes]
     cursor=len(source);bindings=set();changed=0;records=[]
     for r in rows:
         if r['review']!='SOURCE_COMPARED':raise ValueError('Unreviewed text')
