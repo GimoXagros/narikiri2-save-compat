@@ -1,0 +1,65 @@
+[
+  {
+    "source": "tests/test_compact_transcription.py",
+    "source_sha256": "57c3b8e0b0848b0cb2013ec1c0a9f5494c8b0f8ad38921ee17f0c9cc56faf0a7",
+    "destination": "tests/test_compact_transcription.py",
+    "scope": "Whole authored file; normalized LF only. No ROM or runtime evidence included.",
+    "destination_sha256": "57c3b8e0b0848b0cb2013ec1c0a9f5494c8b0f8ad38921ee17f0c9cc56faf0a7"
+  },
+  {
+    "source": "tests/test_extended_compact.py",
+    "source_sha256": "01318f88ce1f664eaf69f94c588de456abaf87995bc69e31374c0f456a379cd0",
+    "destination": "tests/test_extended_compact.py",
+    "scope": "Whole authored file; normalized LF only. No ROM or runtime evidence included.",
+    "destination_sha256": "01318f88ce1f664eaf69f94c588de456abaf87995bc69e31374c0f456a379cd0"
+  },
+  {
+    "source": "tests/test_runtime_evidence.py",
+    "source_sha256": "233de46d122bbfd1c06e983eb88ba7169dca34616c940066fb598423df5a2b9e",
+    "destination": "tests/test_runtime_evidence.py",
+    "scope": "Whole authored file; normalized LF only. No ROM or runtime evidence included.",
+    "destination_sha256": "233de46d122bbfd1c06e983eb88ba7169dca34616c940066fb598423df5a2b9e"
+  },
+  {
+    "source": "tools/libretro_probe.py",
+    "source_sha256": "b99f4882429bb20a0f9257500224c47be518e6ca59bec5c9de8443935aa80d42",
+    "destination": "tools/libretro_probe.py",
+    "scope": "Whole authored file; normalized LF only. No ROM or runtime evidence included.",
+    "destination_sha256": "b99f4882429bb20a0f9257500224c47be518e6ca59bec5c9de8443935aa80d42"
+  },
+  {
+    "source": "tools/audit_extended_compact.py",
+    "source_sha256": "35303703c3aa7a86d82271c55b5bbe098904d896d2cc39d6fc0d784d4a2ec2b5",
+    "destination": "tools/audit_extended_compact.py",
+    "scope": "Three function bodies unchanged; private corpus driver excluded; explicit input CLI added.",
+    "destination_sha256": "48b52f1e9b4e527e68a5d316661fe5f17541498b0e6aea419d0ca8274e731d57"
+  },
+  {
+    "source": "tools/record_runtime_acceptance.py",
+    "source_sha256": "d28f8b4892c3d59a79845cf63bc2173b6351f0998e1d8cf8ceeb2539b123b05b",
+    "destination": "tools/record_runtime_acceptance.py",
+    "scope": "Only the unchanged reusable validate_run function and historical hash defaults; no private report driver.",
+    "destination_sha256": "aaa0d488c8e4c8e5b3fb3db17c29a9c8079abc505c2bb62fe6f02f387c8d4ef8"
+  },
+  {
+    "source": "tools/record_development_verification.py",
+    "source_sha256": "7cd617f537a5a715575808eaa3eac409ec146de506d23bc8e2de2cbe5f3aa667",
+    "destination": "tools/record_development_verification.py",
+    "scope": "Only unchanged parse_unittest_result function.",
+    "destination_sha256": "f0b585c12829989b1b8500db125a232c8a3df764b118469524914efc95b36272"
+  },
+  {
+    "source": "tests/test_private_font.py",
+    "source_sha256": "c1fc16615f4b8613baecdab1a8afe81347a097deb67dee1a72d5a86bf66464cb",
+    "destination": "tests/test_bps_and_report_contracts.py",
+    "scope": "Two unchanged portable classes, seven tests; no old product fixture imported.",
+    "destination_sha256": "f1cb0da9767390d360073f2ccd508c68bcf4cf1e9084e3dc670aab374408a9dd"
+  },
+  {
+    "source": "tests/test_dalmoori_font.py",
+    "source_sha256": "c57fbd32c812431a29bcbd3cfe4316ce317b049cc5f3fad8ad8af6decc81f5b1",
+    "destination": "tests/test_font_asset_contracts.py",
+    "scope": "Six unchanged methods using canonical source contracts; old Gate2/corpus fixtures remain private.",
+    "destination_sha256": "e259224f782b21fe5d04ee86e3e7736da3c4477d62affe9d06713a46abe43fb8"
+  }
+]

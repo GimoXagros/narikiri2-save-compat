@@ -1,0 +1,232 @@
+{
+  "schema": "narikiri2-repository-integration-v1",
+  "date": "2026-09-07",
+  "status": "CANDIDATE_VALIDATED_PENDING_MERGE_AND_ARCHIVE",
+  "canonical_before": "d1eefbeaf9aa01c55229f28aaf809d4800596c5e",
+  "canonical_after": null,
+  "legacy_audited_heads": {
+    "codex/add-project-logo-20260906": "4e419d6e52ef3e35fd62c44c6344ad5cdf89f0d3",
+    "feat/narikiri2-complete-korean": "9e0ff186589a4e2e1d9544fb1f70ada86ac78951",
+    "feat/narikiri2-dalmoori-8x8": "0e18f64a488901a8a565fbcd9da8b7413aa91e10",
+    "main": "9808c76d821add6bf963279a28dee612ee24749b",
+    "release/v0.5-compat": "37110ecfbf7b4273cdf7a63e9645ab31a2f66bc5"
+  },
+  "legacy_working_tree_base": "0e18f64a488901a8a565fbcd9da8b7413aa91e10",
+  "migration": {
+    "files": 344,
+    "file_decisions": {
+      "SUPERSEDED_WITH_EVIDENCE": 34,
+      "PRIVATE_ARCHIVE_ONLY": 222,
+      "ALREADY_PRESENT": 79,
+      "IMPORT_REQUIRED": 9
+    },
+    "legacy_tests": 146,
+    "current_tests": 134,
+    "test_decisions": {
+      "ALREADY_PRESENT": 61,
+      "IMPORT_REQUIRED": 28,
+      "SUPERSEDED_WITH_EVIDENCE": 56,
+      "PRIVATE_ARCHIVE_ONLY": 1
+    }
+  },
+  "tests": {
+    "baseline": {
+      "collected": 102,
+      "run": 102,
+      "pass": 102,
+      "fail": 0,
+      "error": 0,
+      "skip": 0
+    },
+    "candidate": {
+      "collected": 134,
+      "run": 134,
+      "pass": 134,
+      "fail": 0,
+      "error": 0,
+      "skip": 0
+    },
+    "public_subset": {
+      "collected": 43,
+      "run": 43,
+      "pass": 43,
+      "fail": 0,
+      "error": 0,
+      "skip": 0
+    }
+  },
+  "independent_environment": {
+    "source": "fresh canonical clone at baseline; reviewed canonical candidate overlay",
+    "legacy_source_or_cache_dependency": false,
+    "python": "3.14",
+    "node": "24.19.0",
+    "pnpm": "7.33.7",
+    "font_commit": "897f0e71224d9964a84b888f2596b2bfd7f98def",
+    "font_generation": "fresh clone and separate pnpm store; frozen lockfile; build:debug",
+    "python_packages": "fresh venv from requirements-dev.txt",
+    "input_policy": "Owner local exact FFR; Japanese input only for developer tests"
+  },
+  "baseline_reproduction": {
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a.gba": {
+      "size": 13041664,
+      "sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6"
+    },
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a_FROM_FFR.bps": {
+      "size": 501338,
+      "sha256": "9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964ad461810a"
+    },
+    "manifest.json": {
+      "size": 4634,
+      "sha256": "a2e4832a11122aa2168ebc707e0da4c7716f00fd30af5bdc63c9cef933390ed7"
+    },
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a_FFR_PACKAGE.zip": {
+      "size": 201395,
+      "sha256": "a098d1a8a34741959c7950affde4e80e7140380364d7e97ec9f2dcf62b1578c8"
+    },
+    "SHA256SUMS.txt": {
+      "size": 308,
+      "sha256": "fbcdde6e3a9bdb65a59034cf8a752d73cb6b4031e9b8c99792c282b96795f68a"
+    }
+  },
+  "candidate_product": {
+    "rom_sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6",
+    "bps_sha256": "9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964ad461810a",
+    "independent_builds": 2,
+    "byte_equal": true
+  },
+  "real_guards": {
+    "negative_cases": [
+      {
+        "case": "wrong-source",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "actual-japanese-input",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "repatch-input",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "damaged-patch",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "existing-output",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "input-as-output",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      },
+      {
+        "case": "save-as-output",
+        "status": "PASS_REJECTED",
+        "returncode": 1
+      }
+    ],
+    "real_bps_apply_equals_direct_build": true,
+    "input_and_save_sentinels_unchanged": true,
+    "output_sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6"
+  },
+  "new_runtime_smoke": {
+    "cold_input_save_sha256": null,
+    "frames": 600,
+    "normal_close": true,
+    "ram_writes": 0,
+    "state_loads": 0,
+    "clean_progression": true,
+    "save_exports": 0,
+    "rom_sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6",
+    "core_sha256": "0d3177c927d791fef897f735d88db3646f7932d02054af108619c6df4e1597f1",
+    "core_version": "0.11-219-e31759b",
+    "scope": "600-frame HLE cold boot and screenshot; no save/playthrough/hardware result",
+    "save_size": 131072
+  },
+  "backup": {
+    "narikiri2-save-compat": {
+      "status": "PASS",
+      "files": 23677,
+      "bytes": 605721406,
+      "bundle_sha256": "69f6aa2763ae2ff2b88da98ba567ab5fcc71d6a42700e982bb94f883a25abdad",
+      "bundle_size": 2816744,
+      "refs_restore_equal": true,
+      "excluded_regenerable": [
+        ".venv",
+        "node_modules",
+        "__pycache__",
+        "*.pyc",
+        "*.pyo"
+      ]
+    },
+    "narikiri2-an9j-save-fix": {
+      "status": "PASS",
+      "files": 72198,
+      "bytes": 1823496782,
+      "bundle_sha256": "207b7bc4fcaaf786cb47952a4565b07bd3f9e4aecf83216d538643244c3edc4f",
+      "bundle_size": 667952,
+      "refs_restore_equal": true,
+      "excluded_regenerable": [
+        ".venv",
+        "node_modules",
+        "__pycache__",
+        "*.pyc",
+        "*.pyo"
+      ]
+    }
+  },
+  "github_inventory": {
+    "canonical": {
+      "id": 1356107995,
+      "private": false,
+      "branches": 4,
+      "tags": 3,
+      "prs": 3,
+      "issues": 0,
+      "releases": 3,
+      "assets": 11,
+      "git_blobs": 142
+    },
+    "legacy": {
+      "id": 1353791084,
+      "private": true,
+      "branches": 5,
+      "tags": 1,
+      "prs": 1,
+      "issues": 0,
+      "releases": 1,
+      "assets": 4,
+      "git_blobs": 468
+    },
+    "pagination_complete": true,
+    "lfs_pointers": 0,
+    "submodule_trees": 0,
+    "open_prs_or_unresolved_review_threads_at_start": 0,
+    "actions_workflows_runs_artifacts_at_start": 0,
+    "rules": "REST legacy 403 recorded; GraphQL separately confirms empty protection rules/rulesets with hasNextPage=false",
+    "wiki": "Legacy disabled. Canonical enabled but authenticated git wiki endpoint returns Repository not found; no accessible wiki data was assumed empty or migrated."
+  },
+  "frozen_game_sources_and_old_verification_documents_unchanged": true,
+  "existing_release_assets_replaced": false,
+  "new_release_created": false,
+  "followup_issue": "https://github.com/GimoXagros/narikiri2-save-compat/issues/4",
+  "stages": {
+    "integration_code": "VALIDATED",
+    "main_merge": "PENDING",
+    "independent_reproduction": "PASS",
+    "legacy_archive": "PENDING_GATES"
+  },
+  "limitations": [
+    "Hardware and full-playthrough v1.0 gates remain open in issue #4.",
+    "Existing detailed mGBA results are historical; this execution adds only a 600-frame boot observation.",
+    "Private backups are local durable owner storage, not an off-device backup.",
+    "Canonical wiki endpoint was inaccessible/not initialized; no wiki contents claimed audited."
+  ]
+}

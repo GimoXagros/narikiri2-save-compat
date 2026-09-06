@@ -16,3 +16,19 @@ The local comprehensive development suite passed 146 tests. The focused canonica
 ## v0.9a
 
 The v0.9a second stage is built on the byte-frozen v0.9 product. It adds the enemy-inspection consumer and source-bound authored text spans. The private 8,038-entry original corpus is not imported. v0.9 documentation is preserved under docs/history/v0.9; existing tags, source and baseline hashes remain unchanged.
+
+## Repository consolidation, 2026-09-07
+
+The legacy repository is private and was accessible with the owner's authentication. Its current main was `9808c76d821add6bf963279a28dee612ee24749b`; the old `0e18f64` development base does not include the subsequent local working tree. Both remote refs and that dirty working tree were independently backed up and compared.
+
+The canonical development and release location is this repository. Historical legacy links are provenance, never required build inputs. The active product implementation already preserves v0.5/Candidate A/v0.9/v0.9a; the consolidation adds missing reusable regressions, accessor and provenance validators, a local diagnostic host and ROM-free CI. It does not import legacy history or change game bytes.
+
+- [Integration report and validation](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/INTEGRATION_REPORT.md)
+- [File/function migration table](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/MIGRATION_TABLE.tsv)
+- [Individual legacy test mapping](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/TEST_MAPPING.tsv)
+- [Public import allowlist and exclusions](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/PUBLIC_CONTENT.md)
+- [Archive gates and actual status](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/LEGACY_ARCHIVE_CHECKLIST.md)
+- [Private backup restoration and rollback](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/ROLLBACK.md)
+- [Remaining v1.0 work](https://github.com/GimoXagros/narikiri2-save-compat/blob/main/docs/migration/FOLLOW_UP.md)
+
+The reusable imports originate in the owner's authored legacy work. Exact working-file SHA-256 values and any extracted function/class boundaries are recorded in the allowlist. The original files, private corpus, old patches and evidence remain in the private archive; they are not silently relicensed or republished.
