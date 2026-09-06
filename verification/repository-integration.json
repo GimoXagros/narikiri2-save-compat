@@ -1,9 +1,9 @@
 {
   "schema": "narikiri2-repository-integration-v1",
   "date": "2026-09-07",
-  "status": "CANDIDATE_VALIDATED_PENDING_MERGE_AND_ARCHIVE",
+  "status": "COMPLETE",
   "canonical_before": "d1eefbeaf9aa01c55229f28aaf809d4800596c5e",
-  "canonical_after": null,
+  "canonical_after": "7e4c11246f303f99c91cd5851131d9fbae53514e",
   "legacy_audited_heads": {
     "codex/add-project-logo-20260906": "4e419d6e52ef3e35fd62c44c6344ad5cdf89f0d3",
     "feat/narikiri2-complete-korean": "9e0ff186589a4e2e1d9544fb1f70ada86ac78951",
@@ -53,6 +53,15 @@
       "fail": 0,
       "error": 0,
       "skip": 0
+    },
+    "merged": {
+      "collected": 134,
+      "run": 134,
+      "pass": 134,
+      "fail": 0,
+      "error": 0,
+      "skip": 0,
+      "commit": "7e4c11246f303f99c91cd5851131d9fbae53514e"
     }
   },
   "independent_environment": {
@@ -180,7 +189,8 @@
         "*.pyc",
         "*.pyo"
       ]
-    }
+    },
+    "remote_mirror_restore_trials": "Both separately cloned with --no-hardlinks, all refs equal, git fsck --full PASS."
   },
   "github_inventory": {
     "canonical": {
@@ -218,15 +228,178 @@
   "new_release_created": false,
   "followup_issue": "https://github.com/GimoXagros/narikiri2-save-compat/issues/4",
   "stages": {
-    "integration_code": "VALIDATED",
-    "main_merge": "PENDING",
-    "independent_reproduction": "PASS",
-    "legacy_archive": "PENDING_GATES"
+    "integration_code": "COMPLETE",
+    "main_merge": "COMPLETE",
+    "independent_reproduction": "COMPLETE",
+    "legacy_archive": "COMPLETE"
   },
   "limitations": [
     "Hardware and full-playthrough v1.0 gates remain open in issue #4.",
     "Existing detailed mGBA results are historical; this execution adds only a 600-frame boot observation.",
     "Private backups are local durable owner storage, not an off-device backup.",
     "Canonical wiki endpoint was inaccessible/not initialized; no wiki contents claimed audited."
-  ]
+  ],
+  "revision_scope": "canonical_after identifies the implementation merge tested here; subsequent reporting-only commits preserve this tested source and frozen package inputs",
+  "implementation_pr": "https://github.com/GimoXagros/narikiri2-save-compat/pull/5",
+  "candidate_commit": "6026fe3ff7821386555215eb3d96b99761a90002",
+  "archive": {
+    "status": "ARCHIVED",
+    "time_utc": "2026-09-06T16:37:02.316028+00:00",
+    "legacy_id": 1353791084,
+    "legacy_archived": true,
+    "legacy_private": true,
+    "legacy_main": "533997aa41f298cccdf1219bb3161896498fa0d6",
+    "canonical_id": 1356107995,
+    "canonical_archived": false,
+    "canonical_main": "7e4c11246f303f99c91cd5851131d9fbae53514e",
+    "gates": {
+      "A": "PASS",
+      "B": "PASS",
+      "C": "PASS",
+      "D": "PASS",
+      "E": "PASS",
+      "F": "PASS",
+      "G": "PASS",
+      "H": "PASS"
+    },
+    "notice_pr": 2,
+    "existing_readme_body_preserved": true,
+    "legacy_historical_refs_preserved": true
+  },
+  "branch_cleanup": {
+    "time_utc": "2026-09-06T16:37:45.515360+00:00",
+    "branches": [
+      {
+        "branch": "codex/add-project-logo-20260906",
+        "tip": "cb2ea20065bca1b49042c8b3a29393700384da40",
+        "action": "REMOTE_BRANCH_DELETED",
+        "merged_pr": 2,
+        "evidence": "Squash-equivalent: all four modified paths equal merge commit 2bfda48212fb296d54ba0a06f842dcce0481b803; original logo and rights retained.",
+        "preservation": "private remote mirror and local bundle; existing local refs/worktrees retained"
+      },
+      {
+        "branch": "feat/narikiri2-dalmoori-8x8",
+        "tip": "70fc68f81bd90582e9a5fb7c35e5b82cbb5468a7",
+        "action": "REMOTE_BRANCH_DELETED",
+        "merged_pr": 1,
+        "evidence": "Ancestor of canonical main; frozen v0.9 product reproduced.",
+        "preservation": "private remote mirror and local bundle; existing local refs/worktrees retained"
+      },
+      {
+        "branch": "fix/v0.9a-dialogue",
+        "tip": "07970510454894b19271de03aeaf0a9151f96ee9",
+        "action": "REMOTE_BRANCH_DELETED",
+        "merged_pr": 3,
+        "evidence": "Ancestor of canonical main; frozen v0.9a product and all new regressions pass.",
+        "preservation": "private remote mirror and local bundle; existing local refs/worktrees retained"
+      }
+    ],
+    "remaining": [
+      "chore/repository-integration-20260907",
+      "main"
+    ],
+    "legacy_branches_deleted": 0,
+    "tags_deleted": 0
+  },
+  "final_remote_preservation": {
+    "legacy_working_files_unchanged": 72198,
+    "release_assets_unchanged": {
+      "narikiri2-save-compat": 11,
+      "narikiri2-an9j-save-fix": 4
+    },
+    "all_existing_tags_unchanged": true,
+    "canonical_assets_unauthenticated_download_equal": true
+  },
+  "merged_reproduction": {
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a.gba": {
+      "size": 13041664,
+      "sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6"
+    },
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a_FROM_FFR.bps": {
+      "size": 501338,
+      "sha256": "9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964ad461810a"
+    },
+    "manifest.json": {
+      "size": 4634,
+      "sha256": "c1c93fdd831bff29ae895241433fe9699dd76ed2322821f0d6b261f5b6dc10fe"
+    },
+    "NARIKIRI2_AN9J_K_DALMOORI_v0.9a_FFR_PACKAGE.zip": {
+      "size": 203509,
+      "sha256": "df5988f90a9350db78252d40aa760f250eb1e4e185f133179a3cf9ca7353bfb7"
+    },
+    "SHA256SUMS.txt": {
+      "size": 308,
+      "sha256": "afccc04d86b2b2355ff6bdbafcbfd10d82878caaea43e792fc1b586055b518e4"
+    }
+  },
+  "local_package_difference": {
+    "status": "DOCUMENTATION_ONLY_LOCAL_PACKAGE_DIFFERENCE",
+    "same_inventory": 27,
+    "unchanged_members": 20,
+    "changes": [
+      {
+        "file": "BUILDING.md",
+        "old_size": 2432,
+        "new_size": 4139,
+        "old_sha256": "a962841ab55f4a0f3fe54f3808450289b2eb26d53328be36514b0ce00e0084c4",
+        "new_sha256": "0af2ee3c1f0dab9fc1e17da3005b7de0d047f078fba24e417db3261eed950f53"
+      },
+      {
+        "file": "MIGRATION.md",
+        "old_size": 2030,
+        "new_size": 4051,
+        "old_sha256": "528bfe4b5b82e6c8e6174220f6d3377c1ace2bf8e86035ec91f47a083a515382",
+        "new_sha256": "8a346bd6fcae883e415a8654bc54e26eb6893ee8e5995833fd3685a7afd1a07a"
+      },
+      {
+        "file": "README.md",
+        "old_size": 4528,
+        "new_size": 4806,
+        "old_sha256": "4a2cc1bee46f008282daa9e05060f288743295fb94797da2babd68b4121fc541",
+        "new_sha256": "b7b7fcb12396ba227938eeea85de9c4304bf48f9dc0bc0078bc75ef66ba82ccf"
+      },
+      {
+        "file": "RIGHTS.md",
+        "old_size": 2017,
+        "new_size": 2436,
+        "old_sha256": "2d7d7d5f20a2146f84ecc85ed4d20c240081e5d01976f8aa6cc2da99dd0aab76",
+        "new_sha256": "700568a538dcdfb7439d47286e1c07f5e46433dd830d2cf966d193c7d7620d3e"
+      },
+      {
+        "file": "SHA256SUMS.txt",
+        "old_size": 2341,
+        "new_size": 2341,
+        "old_sha256": "ee0692d24b66d00d82cb3560c648678e95a85bf272b98556177f0fbdcfc98b95",
+        "new_sha256": "90773f132ad6719f1ef872acaa0c9f21d7dc3c0a89d429eb06aa472f0a5bc0a0"
+      },
+      {
+        "file": "VERIFICATION.md",
+        "old_size": 4646,
+        "new_size": 5418,
+        "old_sha256": "7ee5a15dd30c624acb95a31481a32e6e556a95583a0b9640155b3424afb82de9",
+        "new_sha256": "d44f4ab78ec57bbff9a953ef68eeae48cc289532ab4e9487a5fe07884f71f708"
+      },
+      {
+        "file": "manifest.json",
+        "old_size": 4634,
+        "new_size": 4634,
+        "old_sha256": "a2e4832a11122aa2168ebc707e0da4c7716f00fd30af5bdc63c9cef933390ed7",
+        "new_sha256": "c1c93fdd831bff29ae895241433fe9699dd76ed2322821f0d6b261f5b6dc10fe"
+      }
+    ],
+    "baseline_zip": {
+      "size": 201395,
+      "sha256": "a098d1a8a34741959c7950affde4e80e7140380364d7e97ec9f2dcf62b1578c8"
+    },
+    "local_candidate_zip": {
+      "size": 203509,
+      "sha256": "df5988f90a9350db78252d40aa760f250eb1e4e185f133179a3cf9ca7353bfb7"
+    },
+    "public_asset_replaced": false
+  },
+  "ci": {
+    "candidate": "PASS: public-contracts on push and PR",
+    "merged": "PASS: public-contracts on implementation main",
+    "merged_check_url": "https://github.com/GimoXagros/narikiri2-save-compat/actions/runs/34045771120/job/101520425317"
+  }
 }

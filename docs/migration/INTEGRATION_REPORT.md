@@ -1,6 +1,6 @@
 # Repository integration report — 2026-09-07
 
-Status: **candidate validated; main merge and legacy archive pending**. Actual terminal status is maintained in `verification/repository-integration.json` and the archive checklist. This is repository consolidation, not a game-content change or a new release.
+Status: **COMPLETE** for integration code, main merge, independent reproduction and legacy archive. Actual action evidence is maintained in `verification/repository-integration.json` and the archive checklist. This is repository consolidation, not a game-content change or a new release.
 
 ## Scope and evidence
 
@@ -50,3 +50,21 @@ A newly executed 600-frame HLE cold boot using the imported canonical host displ
 Backups are durable local owner storage outside public trees: remote mirrors, local bundles, metadata/assets, byte-verified working-file copies, attached worktrees and original private material. Bundle restore trials matched all local refs and `git fsck --full` passed. Main workspaces preserve 23,677 canonical files (605,721,406 bytes) and 72,198 legacy files (1,823,496,782 bytes), excluding regenerable environments/caches. Additional worktrees preserve 890 files (113,735,832 bytes). Backup restore instructions are in [ROLLBACK.md](ROLLBACK.md). These are local durable copies, not an off-device redundancy claim.
 
 No old tag, release asset or prerelease flag is changed. No v1.0 promotion occurs. [Issue #4](https://github.com/GimoXagros/narikiri2-save-compat/issues/4) remains open for hardware/full-play and route expansion; there were no legacy issues to transfer. The legacy logo PR is mapped to the canonical logo PR and identical original hash. Other repositories are untouched. Archive and branch cleanup occur only after the checklist gates pass, with exact current ref checks immediately before mutation.
+
+## Completed remote actions
+
+Canonical [PR #5](https://github.com/GimoXagros/narikiri2-save-compat/pull/5) merged normally at `7e4c11246f303f99c91cd5851131d9fbae53514e`; candidate commit was `6026fe3ff7821386555215eb3d96b99761a90002`. Both PR checks and the resulting main CI passed. The remote main was fetched into the independent checkout: all 134 tests passed again (0 failures/errors/skips), both builds reproduced the same frozen ROM/BPS, and the final local ZIP matched the recorded documentation-only candidate ZIP. Subsequent closure commits update reporting files only, not these tested sources or package inputs.
+
+Legacy [notice PR #2](https://github.com/GimoXagros/narikiri2-an9j-save-fix/pull/2) merged normally at `533997aa41f298cccdf1219bb3161896498fa0d6`. The original README body remains intact after the new notice. The description/homepage now direct development and releases to canonical. At 2026-09-07 01:37 KST the API confirmed legacy ID 1353791084 **archived=true, private=true** and canonical ID 1356107995 **archived=false, private=false**. All original legacy branches/tags remain; the newly merged notice branch is also retained as history.
+
+Before archiving, all 72,198 legacy working files and the full untracked-file inventory matched the backup; no unaudited remote head, original PR update or release/tag change was present. All 11 public canonical assets were downloaded again without authentication and matched the backup. The four legacy assets and existing tag/asset metadata were unchanged. Original and new notices are linked to canonical issue #4; no historical issue was fabricated or marked resolved by migration.
+
+The following canonical **remote** branches were deleted only after exact tip rechecks, matched backups, merged-PR evidence and protection checks:
+
+| Branch | Deleted tip | Evidence |
+| --- | --- | --- |
+| codex/add-project-logo-20260906 | cb2ea20065bca1b49042c8b3a29393700384da40 | Squash-equivalent to PR #2: all four modified files exactly match merge 2bfda48212fb296d54ba0a06f842dcce0481b803; logo and rights remain. |
+| feat/narikiri2-dalmoori-8x8 | 70fc68f81bd90582e9a5fb7c35e5b82cbb5468a7 | Ancestor, merged PR #1, frozen v0.9 reproduction. |
+| fix/v0.9a-dialogue | 07970510454894b19271de03aeaf0a9151f96ee9 | Ancestor, merged PR #3, frozen v0.9a reproduction. |
+
+Local refs and existing worktrees remain available; no user working folder was removed. The current integration branch remains for closure records. Default branches, all tags, all release assets and all legacy historical refs are preserved. Canonical's old v0.5-only repository description was updated to the actual FFR v0.9a scope. The issue #4 product gates remain open, and no v1.0 or fresh game release was created.
