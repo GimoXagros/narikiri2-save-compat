@@ -1,0 +1,185 @@
+{
+  "schema": "narikiri2-v09b-artifact-verification-v1",
+  "version": "v0.9b",
+  "release_type": "prerelease",
+  "release_ready": true,
+  "source_sha256": "c6d7a401aa2a22362b2d27d0d31632cb2180a86b094788815d949b84c7fc944d",
+  "source_size": 9961472,
+  "target_sha256": "d761088a8549cb5bc60a2f03a4b78eea5282dbc17ed5da4ef1de27da4ad8d4d4",
+  "target_size": 13107200,
+  "patch_sha256": "51dbdb8ef24a32ca5efb05ec3196b98ae08a32f3a4d6bb88673d58266837dcf6",
+  "patch_size": 3189401,
+  "japanese_review": {
+    "corrected": 285,
+    "bindings": 325,
+    "compact_corrected": 16,
+    "compact_ledger_sha256": "2e50d5a4708a935cd998f9d24837d1f39f272a6b505151dab2687b49a3034977",
+    "trade_pointer_table_restored": true,
+    "ledger_sha256": "d26baf396fc202f75392278b7fa1a9377757a651818f988a7520dca13e64b067"
+  },
+  "review": {
+    "actual_japanese_text_records": 8037,
+    "historical_ledger_records": 8038,
+    "nontext_pointer_table_records": 1,
+    "compact_name_fields": 1227,
+    "additional_full_text_corrections": 285,
+    "beta3_source_dialogue_decisions": 2,
+    "compact_field_corrections": 16,
+    "method": "Agent individual comparison with exact Japanese ROM and user-supplied name reference; not an independent human literary review",
+    "unresolved_known_encoding_records": 0,
+    "trade_record": "D00549 was a pointer-table literal, restored to the two translated entries D05660 and D05661",
+    "exceptions": [
+      "D02958 Japanese dialogue spells Donies; ITEM085 spells Doenies. Established item name 도에니스꽃 is retained across consumers.",
+      "Japanese font codes 8441..8447 are custom kanji, not the Cyrillic glyphs of a generic CP932 decoder. D05891 雹雨 is 박우.",
+      "Internal SELECT_JOB draft labels do not override actual costume names.",
+      "Narrative roles follow the Japanese game; Ray alias 레이스 and full name 레이시스 포말하우트 remain distinct."
+    ]
+  },
+  "checks": {
+    "local_tests": 139,
+    "local_tests_sha256": "cb82e58c7797676b3d7664e46d3cb5573905e2b322b63d653f5c85ed63c3deac",
+    "bps_roundtrip": true,
+    "frozen_beta2_v09_and_v09a_reproduced": true,
+    "save_code_beta3_equals_japanese_and_is_preserved": true,
+    "original_large_font_sound_preserved": true,
+    "full_text_pointer_bindings": 8946,
+    "transferred_compact_pointer_bindings": 2077,
+    "protected_controls_numbers_glyphs_layout_owners": true,
+    "trade_actual_thumb_consumer": "PASS: loads two valid translated string pointers",
+    "public_tests": 43,
+    "public_tests_sha256": "d8a0a365ef7717a893760fab77358bb0cfde0d56e4e89d994867b087bacba51b",
+    "repeated_build_byte_identity": true
+  },
+  "runtime": {
+    "core": "mGBA 0.11-219-e31759b",
+    "core_sha256": "0d3177c927d791fef897f735d88db3646f7932d02054af108619c6df4e1597f1",
+    "bios": "HLE; no external BIOS",
+    "runs": [
+      {
+        "run": "v09b-default-natural-08",
+        "operations_sha256": "b56656692e40bf40d5240dfedfb34ca4bf40264ff624bdcddc61d7ac7f7653ab",
+        "ram_interventions": 0,
+        "status": "PASS_VISUALLY_OBSERVED_SAVE_AND_RELOAD"
+      },
+      {
+        "run": "v09b-default-cold-08-2",
+        "operations_sha256": "c37dffa6fc1fde51e7c63a09bbe0707090ff2f0993b50284a866e334752b01b0",
+        "ram_interventions": 0,
+        "status": "PASS_VISUALLY_OBSERVED_SAVE_AND_RELOAD"
+      },
+      {
+        "run": "v09b-default-cold-08-3",
+        "operations_sha256": "55c409bb844537baf14d1d4c431c59f1f5db2045d20491fb302879d0ba686e5c",
+        "ram_interventions": 0,
+        "status": "PASS_VISUALLY_OBSERVED_SAVE_AND_RELOAD"
+      },
+      {
+        "run": "v09b-default-name-readback-08",
+        "operations_sha256": "44455aa88866cc463fedaf8e5a21d70e85dad543f5f547acfb29a12b85fb5c53",
+        "ram_interventions": 0,
+        "status": "PASS_VISUALLY_OBSERVED_SAVE_AND_RELOAD"
+      },
+      {
+        "run": "mixed-save-live-02",
+        "operations_sha256": "4b484ebb24e38f437cf8e7cdda4dcca26813cc13e2ae310dc787c527f1b030c2",
+        "ram_interventions": 0,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "mixed-cold-02",
+        "operations_sha256": "23d301715946ef061828bb413adab68e9c8791afc4e18d5b3013ab2f9d3ae064",
+        "ram_interventions": 0,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "mixed-cold-03",
+        "operations_sha256": "c3a7ed0cdc469bff528e7288cc3d97be22e3d10871421fd91d28d24fdc01e691",
+        "ram_interventions": 0,
+        "screens": 1,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "legacy-resave-02",
+        "operations_sha256": "24964c73f0955e72ac474f3c579015016a7d1bc5e279765545831415890a10ff",
+        "ram_interventions": 0,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "legacy-cold-02",
+        "operations_sha256": "7ebd85930ec1301e98644b0747557617a717b79f2241f1fd09eb23e4432dba2d",
+        "ram_interventions": 0,
+        "screens": 2,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "inspection-01",
+        "operations_sha256": "384f5f5aaa70fe24aadd94c00bb3d59e5496563d53c5cd5a66bc2be4cc7babed",
+        "ram_interventions": 1,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "arte-inspection-01",
+        "operations_sha256": "a277b16872d7a9a931cb4ddec4e1f60b87249a262a03e1f7dd543a3cc32d8cd1",
+        "ram_interventions": 1,
+        "screens": 17,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "battle-regression-01",
+        "operations_sha256": "df2dfc3c041a40f0c15ff27349f70c10a1e6cbd3a1e6e252e466e93ef3f5fb23",
+        "ram_interventions": 0,
+        "screens": 52,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "suspend-live-01",
+        "operations_sha256": "ca464e1f159451ecd62c9e38b2b40b85781be78258e9b96ee6fffd31d309596c",
+        "ram_interventions": 0,
+        "screens": 5,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "suspend-resume-01",
+        "operations_sha256": "a1a2b87a5cb0bcceacd51400498f297a362d1f440644ea7aa5aa0c4efdcf2ee9",
+        "ram_interventions": 0,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      },
+      {
+        "run": "suspend-consumed-01",
+        "operations_sha256": "5442a823d44aa7eedc770594c6c92d43b21e7afdd743db7fd9acda7a4d3fcf3f",
+        "ram_interventions": 0,
+        "screens": 3,
+        "status": "PASS_VISUAL_REGRESSION"
+      }
+    ],
+    "rejected_evidence": "v09b-runtime-07/default* old timed route drifted after revised dialogue; excluded and replaced with naturally observed v09b-default-*-08 runs.",
+    "matrix": {
+      "items": 156,
+      "item_pages": 157,
+      "costumes": 200,
+      "monsters": 142,
+      "characters": 22,
+      "costume_arte_names": 224,
+      "arte_description_pages": 231,
+      "method": "Isolated RAM preparation; all description pages visually read; menu names pixel-compared against pinned bitmaps.",
+      "reports": {
+        "items": "037884e609f4fa7020f6cab46ca4e43be3f1c5e5237a6e1721369dc05cd0ca3b",
+        "costume": "027aa3a79dcbb49f81258322147542e1c8882ec9a3afca00e8a2c67cdbe97677",
+        "monster": "f0d4b29219401f5b77483955ca1da41832249806a778b6d63d54c54325ac3676",
+        "character": "225ef65096ea3cda24bab36dc8bd0cff52a53af9501b49dc39da3857a0865063"
+      },
+      "arte_results_sha256": "d7f788faecd50512cc0991bd83e298e283d6da3b27133a08dc2731f6f186af23"
+    }
+  },
+  "limits": [
+    "Final-artifact hardware and full-game progression remain v1.0 conditions (issue #4).",
+    "No two-console link exchange completion test; pointer-table consumer executed with Unicorn.",
+    "RAM fixture menus are display evidence, not natural unlock or save compatibility.",
+    "Compatibility covers tested 8 KiB game saves; arbitrary old 32 KiB saves and savestates are not converted by the patch."
+  ]
+}

@@ -21,6 +21,13 @@
       "sha256": "9c7a8ae87c303a16c71bd164e7409a5aaabf01bd3246fa9e700931eed6179d4f",
       "game_code": "AN9J",
       "role": "adopted_cumulative_build_baseline"
+    },
+    {
+      "id": "AN9J_FFR_BETA3_071102",
+      "size": 9961472,
+      "sha256": "c6d7a401aa2a22362b2d27d0d31632cb2180a86b094788815d949b84c7fc944d",
+      "game_code": "AN9J",
+      "role": "immutable_v09b_korean_source"
     }
   ],
   "reference_only": [
