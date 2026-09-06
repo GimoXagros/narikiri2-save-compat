@@ -1,0 +1,122 @@
+{
+  "schema": "narikiri2-v09a-artifact-verification-v1",
+  "version": "v0.9a",
+  "release_type": "prerelease",
+  "release_ready": true,
+  "source_sha256": "f94cb5a128c8a98e6e18e6a0598ebf9b266f54da0750367af8defac3eb2df7d4",
+  "target_sha256": "faa2f0ebe1f7bbd9f4a7e1d38b7d35ca2349bfed1d8c2a5d8ae45feb0f7631f6",
+  "target_size": 13041664,
+  "patch_sha256": "9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964ad461810a",
+  "patch_size": 501338,
+  "review_ledger_sha256": "09dc7f40002049d98ebae35babfd2cdbf9ad46854913566c9bfae8f94a2c4e01",
+  "baseline_sha256": "560535ba5dce7246a4c1b210a082b93a08091b8f9e2bfa96467e44adbbf65c81",
+  "review": {
+    "unique_texts": 8038,
+    "pointer_bindings": 8946,
+    "corrected": 5186,
+    "method": "Agent individual source/context comparison under user proofreading and public-validation-release instruction; not a separate human literary review",
+    "reference": "User-supplied Namu character/costume text; subsequent explicit Rasis Fomalhaut correction",
+    "unresolved_reported_name_variants": 0,
+    "ray_alias": "레이스",
+    "ray_full_name": "레이시스 포말하우트",
+    "numeric_notation_exceptions": [
+      "D00247",
+      "D07722"
+    ]
+  },
+  "checks": {
+    "unit_tests": 102,
+    "unit_log_sha256": "333a15dd7cf74799237b3670f683f8e27f5d2e8f351bc534a340e8b009ba4f87",
+    "repeated_build_byte_identity": true,
+    "bps_roundtrip": true,
+    "protected_tokens_and_numbers": true,
+    "all_glyph_roundtrips": true,
+    "all_pointer_owners": true,
+    "sound_preserved": true,
+    "original_large_font_preserved": true,
+    "save_fix_bytes_preserved": 79,
+    "item_description_window": "18 full-width cells x 2 rows; 157 static records; 9 overflow repairs",
+    "inspection_arm_tests": {
+      "monster_names": 165,
+      "labels": 3,
+      "preserved_ascii_and_element_icons": true
+    }
+  },
+  "runtime": {
+    "core": "mGBA 0.11-219-e31759b",
+    "core_sha256": "0d3177c927d791fef897f735d88db3646f7932d02054af108619c6df4e1597f1",
+    "default_name_save_two_cold_boots": "PASS",
+    "six_cell_mixed_name_save_two_cold_boots": "PASS",
+    "legacy_8k_resave_cold_boot": "PASS",
+    "suspend_save_one_shot_resume": "PASS",
+    "battle_victory_and_field_return": "PASS",
+    "enemy_inspection_item_and_arte": "PASS",
+    "inspection_availability_fixture": true,
+    "inventory": {
+      "records": 156,
+      "pages": 157,
+      "report_sha256": "e3e404f7f778d23391f2303a91ec4599d868ab1e990bac35e741c3d8631ef97b"
+    },
+    "books": {
+      "costume": {
+        "records": 200,
+        "report_sha256": "bb1addd2680699e175aa49007313b96dc766f3642afc3b9a14cdd1043fbecb89",
+        "arte_names": 224
+      },
+      "monster": {
+        "records": 142,
+        "report_sha256": "8a78d99b43ac998282af8b536d9de6cd37503d2409f15f96accc8e1891434d65",
+        "arte_names": 0
+      },
+      "character": {
+        "records": 22,
+        "report_sha256": "bf88bfdea9b8d6da8ed3f14a4f4c086ae1e95212871009bc5f1175045222160a",
+        "arte_names": 0
+      }
+    },
+    "arte_description_display_records": 231,
+    "arte_zero_record": "Unused none entry; statically checked, not injected as a usable technique",
+    "arte_layout_report_sha256": "48aa53cd76fe5a12fc9ffc642499589a017f79cbbea7ffbc208974994e89fa85",
+    "unchanged_native_screens_compared": 2131,
+    "changed_native_screens_reviewed": [
+      "book-character-01/detail_021.png",
+      "book-character-01/detail_021_page_0.png"
+    ]
+  },
+  "limits": [
+    "Public validation prerelease: final-artifact hardware tests and extended complete progression remain v1.0 gates.",
+    "All 8038 inherited unique full-text strings reviewed individually; not all gameplay branches played.",
+    "Inventory, discovery and arte availability RAM preparations verify their UI consumers only, not natural unlocks or combat legality.",
+    "232 arte table records statically checked; 231 nonzero descriptions displayed via prepared skill menu; 224 names additionally checked in costume books.",
+    "Native Latin/digit bitmaps remain four pixels wide in the original eight-pixel cells.",
+    "Old custom names remain unchanged; default name changes apply to new games. Use in-game EEPROM saves, not cross-ROM savestates."
+  ],
+  "operation_log_sha256": {
+    "arte-inspection-01/operations.jsonl": "eadf870adda9552924711ce12f7f50341da76938d55a7ff6f8bc7951a543a509",
+    "battle-regression-01/operations.jsonl": "ef781c4b7142004c537a351ba4a9031fd30da7d335ab770a1030742ceca7751b",
+    "book-character-01/operations.jsonl": "06e407fb6c57574bdc0796a3c0f40a64ac49643ec76c7a57d4db5ec4d2eef527",
+    "book-costume-01/operations.jsonl": "e0f04ccea353fe07107c233996198eda841ed94d5fe45349c6b3a74f7edfba1c",
+    "book-monster-01/operations.jsonl": "ed23d0aa6dcfd1497e6ce5b360baab59c5819bf50bc4c3542aabb5856915682a",
+    "default-cold-02/operations.jsonl": "5699c03247ae6b91b5936ea61c0c6022930dffab2b9ab2e0146979d4ff4aa270",
+    "default-cold-03/operations.jsonl": "3e19715a3c6dc8f13f33814421329ca6d0d2309cf7cfba413cef3cef10c4c62e",
+    "default-save-live-02/operations.jsonl": "0763579a21ca55e3015d81180f78ba361bc2d0dded42898a6ed6ee05f3b1ddb9",
+    "inspection-01/operations.jsonl": "0e746f5d69eee632a8850f1bf7a904bd0a17ed42aae85fc25fb06ccfac969a41",
+    "item-matrix-01/operations.jsonl": "772ed108f7d56637821b7b1eaa744516374f6cf63c0aa7d4460d3bc79227ab54",
+    "legacy-cold-02/operations.jsonl": "a2a5f1158ae7825483805f860b844b3ebfbfdc0b6ce2f306d9ac1f372cca2091",
+    "legacy-resave-02/operations.jsonl": "8991d62c8e42970021f67fb88932b0b41e8f9f07a3592b3455cea54f08b07c8c",
+    "mixed-cold-02/operations.jsonl": "61896c94a9368f8ce89158e728a5f13435e965ebb1e700c3d173a0b9420b406a",
+    "mixed-cold-03/operations.jsonl": "38f853d4f0ae72816b30f257d1b1b2564fdcccc2cce3c65d64ba6909415d6f36",
+    "mixed-save-live-02/operations.jsonl": "3477cba558d46b02e416c65756532715a35cdd74297d008ce6aac9fb03f9d1f1",
+    "suspend-consumed-01/operations.jsonl": "51fb9a795d26d953067819106ff765260cfa6c26f309b6a5a33bfbca92f252ac",
+    "suspend-live-01/operations.jsonl": "b3f56ee072ab096abfcf8f420b8d2ee7aa3c6e94363f30c541a008dc8a890f63",
+    "suspend-resume-01/operations.jsonl": "6925a8664376440d8c7a8d32e310f7aa7774ba7c4f02d07455e7e6699eff6436"
+  },
+  "screen_sha256": {
+    "inspection-01/02_spectacles_info.png": "713efb994e3ddbecfc6b95570da1c7a9e456bd3502be81cd5f3e7e1a88317a81",
+    "arte-inspection-01/10_cast_0.png": "c3f2e9904289ccfde07a67ff280a2e342029205fd778bb5490217820f9e2fc91",
+    "arte-inspection-01/12_combat_continues.png": "4e62d667b1352355b36a03a264b975a75b0415551bd587d6d16f68bf945c512c",
+    "default-save-live-02/save_completed_actual.png": "d7df6cdc389db1d933742b4ad74ab8bd1f876d78bcdcf8929fe174f059e3cc50",
+    "mixed-save-live-02/save_complete.png": "7a4c9ba2441e54a5c4a3c516d4582c55d9a26744cec79bde991c3b7d2088c10a",
+    "book-character-01/detail_021.png": "2d301ce8ae46158df05a1d57e957231ee8fafe7532ad5a01611d6ddf026b2fa8"
+  }
+}

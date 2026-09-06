@@ -1,6 +1,6 @@
-# v0.9 build and tests
+# v0.9a build and tests
 
-The release ZIP applies a prebuilt BPS using Python 3.10+ and the standard library only. Source reproduction additionally requires Node.js and the pinned Python development packages in requirements-dev.txt.
+Applying the release ZIP needs only Python 3.10+ and its standard library. Reproducing the ROM additionally needs Node.js, the pinned Python packages in requirements-dev.txt, and the exact original FFR input listed in README.md.
 
 ```powershell
 python -m pip install -r requirements-dev.txt
@@ -8,19 +8,21 @@ git clone https://github.com/RanolP/dalmoori-font third_party/_work/dalmoori-fon
 git -C third_party/_work/dalmoori-font checkout --detach 897f0e71224d9964a84b888f2596b2bfd7f98def
 ```
 
-In the checkout's generator directory, use pnpm 7.33.7, install with the frozen lockfile, and run `pnpm run build:debug`. See its SOURCE_MANIFEST.json. Do not substitute a system/TTF font or another upstream revision.
+In the font checkout's generator directory, use pnpm 7.33.7, install the frozen lockfile and run `pnpm run build:debug`. Follow third_party/dalmoori-font/SOURCE_MANIFEST.json; do not substitute another font or revision.
 
 ```powershell
-python tools/build_ffr_v09.py --ffr "FFR.gba" --output-dir output/v0.9-final-build
+python tools/build_ffr_v09a.py --ffr "FFR.gba" --output-dir output/v0.9a-final-build
+python tools/package_ffr_v09a_release.py --build-dir output/v0.9a-final-build --output-dir dist/v0.9a
 ```
 
-This verifies the exact FFR input, restores Candidate A, builds all writes from that immutable image, assembles tracked Thumb-1 code, checks write ownership and protected regions, builds twice, verifies frozen target/BPS hashes, and reapplies BPS. It fails if verification/v0.9.json does not approve that exact artifact. Use a new output directory.
+The build derives Candidate A from the exact immutable FFR, regenerates frozen v0.9, then applies source-bound authored text spans and the separate inspection renderer. It checks complete review membership, 8,946 pointer bindings, protected tokens/numbers, glyph round trips, description capacity, nonoverlapping writes, font/sound preservation, deterministic output and cumulative BPS reapplication. The product build and packager both require the exact artifact approved by verification/v0.9a.json. `--candidate` only creates a local validation candidate; the packager rejects that status.
 
-The focused v0.9 regression suite retains the original v0.5 synthetic tests. The real consumer tests also need the exact Japanese ROM (SHA-256 in config/source_profiles.json) in the repository root and Candidate A at output/NARIKIRI2_AN9J_K_EEPROM_RESTORED.gba. Both remain ignored/local. Candidate A can be made with the preserved v0.5 restore.py from the exact FFR and Japanese inputs.
+Public text decisions contain authored span changes and source hashes, not the complete original corpus. v0.9 code and verification remain frozen so that old output is reproducible.
+
+The real-data tests also need the exact Japanese and FFR inputs in the repository root, Candidate A at output/NARIKIRI2_AN9J_K_EEPROM_RESTORED.gba, and the frozen v0.9 output at output/v0.9-final-build/NARIKIRI2_AN9J_K_DALMOORI_v0.9.gba. Those files are ignored and never committed. Build v0.9 with tools/build_ffr_v09.py; Candidate A can be made using the preserved restore.py. See config/source_profiles.json for identities.
 
 ```powershell
 python -m unittest discover -s tests -v
-python tools/package_release.py --build-dir output/v0.9-final-build --output-dir dist/my-v09
 ```
 
-The non-distribution diagnostic build in build_banked_font.py is for inspection; build_ffr_v09.py is the frozen product entry point. Legacy restore.py/verify_local.py remain for v0.5 reproduction and are not the v0.9 product build.
+Runtime results identify the ROM and mGBA core hashes, controller route, and any RAM preparation separately. Private saves, screenshots and raw dialogue stay local. Runtime success on one emulator is not a hardware or full-playthrough claim.

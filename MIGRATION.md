@@ -12,3 +12,7 @@ A whole-history merge is deliberately excluded: the legacy object audit identifi
 Raw Japanese full-name reference columns are omitted from the public authored table. Three complete source-text repair matches are represented by source hashes and authored replacement bytes. Description decisions retain authored final text and hash bindings; original description text is read locally. The resulting canonical build must reproduce the exact validated ROM and BPS.
 
 The local comprehensive development suite passed 146 tests. The focused canonical suite has a different denominator, recorded in VERIFICATION.md. Old POC/historical analyses are not presented as current release evidence.
+
+## v0.9a
+
+The v0.9a second stage is built on the byte-frozen v0.9 product. It adds the enemy-inspection consumer and source-bound authored text spans. The private 8,038-entry original corpus is not imported. v0.9 documentation is preserved under docs/history/v0.9; existing tags, source and baseline hashes remain unchanged.
