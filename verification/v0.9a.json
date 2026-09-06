@@ -8,7 +8,7 @@
   "target_size": 13041664,
   "patch_sha256": "9289ff85f946fa661c17dee9a9cb6afcd91278caf1af23590e59964ad461810a",
   "patch_size": 501338,
-  "review_ledger_sha256": "09dc7f40002049d98ebae35babfd2cdbf9ad46854913566c9bfae8f94a2c4e01",
+  "review_ledger_sha256": "73e1595e92b2f96c2837227bc6f551b879a1d7987004242019f73f4b72daa2f1",
   "baseline_sha256": "560535ba5dce7246a4c1b210a082b93a08091b8f9e2bfa96467e44adbbf65c81",
   "review": {
     "unique_texts": 8038,
